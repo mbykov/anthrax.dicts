@@ -1,0 +1,821 @@
+verb: ἀάω ‘hurt, damage’ (I)
+fc: ἀεσι-, ἀασι-
+ex: ἀεσίφρων ‘damaged in mind’; ἀεσιφροσύνη ‘folly’; ἀασιφρονία ‘folly’
+===
+verb: ἄγαμαι ‘wonder, admire’ (I)
+fc: ἀγασι-
+===
+verb: ἀγαπάω ‘love’ (I)
+fc: ἀγαπ-
+ex: ἀγαπήνωρ ‘loving manliness’
+===
+verb: ἀγείρω ‘gather, collect’ (IV)
+fc: ἀγερσι-
+ex: ἀγερσικύβηλις ‘collecting axes’; ἀγέρτᾱς ‘collector of dues’
+sc: [-ᾱγ-όρ, -ηγ-ερ, αγ-έρ, -αγ-έρ-της];
+v2: κακᾱγόρος ‘evil-speaking’; νεφεληγερέτης ‘cloud-gatherer’; στεροπηγερέτης ‘lightning-gatherer’; κεφαληγερέτης ‘head-collector’; σιταγέρτης ‘collector of corn’
+===
+verb: ἄγω ‘lead’ (IV)
+fc: ἀγε-, ἀγεσι-
+ex: ̓Αγέλᾱος ‘leading men’; ἀγελείη ‘driver of spoil’; ἀγήνωρ ‘heroic’; ἀγέστρατος ‘host-leading’; ἀγέχορος ‘leading the chorus’; ἀγός ‘leader’; ἄκτωρ ‘leader’
+sc: [-ηγ-ός, -ᾱγ-ός];
+v2: ὀχετηγός ‘conducting water by a ditch’; στρατηγός ‘army leader’; φορτηγός ‘one who carries cargoes’; κυνᾱγός ‘hound-leader, huntsman’; ἀρχηγός ‘originating’; lit. ‘bringing the beginning’; λοχᾱγός ‘leader of an armed band’; ποδηγός ‘guiding the foot’; χορηγός ‘chorus-leader’; χοληγός ‘carrying off bile’; ξενᾱγός ‘commander of mercenary troops’; οὐρᾱγός ‘leader of the retroguard’; ἱματηγός ‘loaded with apparel’; σιτηγός ‘conveying corn’; ὑδατηγός ‘drawing water’; ταριχηγός ‘salt-fish hawker’
+===
+verb: ἀείρω ‘lift, increase’ (III)
+fc: ἀερσι-, ἀρσι-
+ex: ἀερσίπους ‘lifting the feet, high-stepping’; ἀερσιπότης ‘lifting the flight, flying high’; ἀερσίμαχος ‘rousing the fight’; ἀερσίλοφος ‘lifting the crest, high-crested’; ἀερσίφρων ‘lifting the heart’
+sc: [-ήορ-ος];
+v2: μετήορος ‘raised from off the ground’
+===
+verb: αἰνέω ‘praise, advise’ (II)
+fc: αἰνεσι-, αἰνησι-
+ex: Αἰνησιμβρότᾱ ‘praising men’; αἰνετής ‘one that praises’
+===
+verb: αἱρέω ‘take, seize’ (II)
+fc: αἱρε-, αἱρησι-
+ex: αἱρησιτείχης ‘taker of walls’
+ex: αἱρέτης ‘one who chooses’; of ‘searcher of archives’; καθαιρέτης ‘overthrower’; καθαιρέω ‘put down, destroy’
+===
+verb: ἀκέομαι ‘heal’ (II)
+fc: ἀκε(σ)σι-
+ex: ̓Ακέσανδρος ‘healing men’; ἀκεσσίπονος ‘healing toil’; ἀκεστήρ ‘healer’; ἀκέστωρ ‘healer’; ἀκεστής ‘healer’; ἀκεσσίνοσος ‘healing disease’
+===
+verb: ἀκούω ‘listen’ (IV)
+fc: ἀκουσι-
+ex: ἀκουσίθεος ‘heard by God’; ἀκουστής ‘hearer’
+sc: [-ακουσ-τής];
+v2: ὠτακουστής ‘eavesdropper’
+===
+verb: ἀλγέω ‘grieve’ (IVa)
+fc: ἀλγεσι-
+ex: ἀλγεσίθυμος ‘grieving the heart’
+sc: [-αλγ-ής];
+v2: θυμαλγής ‘heart-grieving’; βαρυαλγής ‘grievously suffering’
+===
+verb: ἀλέξω ‘keep off, ward off, protect’ (II)
+fc: ἀλεξι-, ἀλκε-, ἀλκι-, ἀλκεσι-
+ex: ἀλεξίκακος ‘keeping off ill’; ἀλεξάνεμος ‘averting wind’; ἀλεξιάρη ‘she that guards off from ruin’; ἀλεξίμβροτος ‘protecting men’; ἀλεξαίθριος ‘screening from chill air’; ἀλεξίμορος ‘warding off death’; ἀλεξίπονος ‘warding off pain’; ἀλεξιφάρμακος ‘acting as antidote’; ἀλεξήνωρ ‘aiding man’; ἀλεξίγαμος ‘shunning marriage’; ἀλεξιβέλεμνος ‘keeping off darts’; ἀλεξίκηπος ‘protecting the garden’; ἀλεξίχορος ‘helping or favouring the chorus’
+ex: ἀλεξητήρ ‘protector’; ἀλκτήρ ‘one who wards off’; ἀλεξήτωρ ‘protector’
+===
+verb: ἀλφάνω ‘bring in’ (IVa)
+fc: ἀλφεσι-
+ex: ἀλφεσίβοιος ‘bringing in oxen’; ἀλφηστής ‘earner, enterprising man’
+sc: [-αλφ-ής, -αλφ-έω];
+v2: τιμαλφής ‘fetcthing a prize’; τιμαλφέω ‘do honour’
+===
+verb: ἁμαρτάνω ‘fail; be deprived of’ (I)
+fc: ἁμαρτο-, ἁμαρτι-
+ex: ἁμαρτοεπής ‘erring in words’; ἁμαρτίνοος ‘erring in mind’; ἁμαρτολόγος ‘speaking faultily’; ἁμαρτίγαμος ‘failing of marriage’
+===
+verb: ἀμείβω ‘change, exchange’ (IV)
+fc: ἀμειψι-
+ex: ἀμειψικοσμίη ‘change of condition’; ἀμειψιρρυσμία ‘change of form’; ἀμείψιχρους ‘changing colour’
+sc: [-αμοιβ-ός];
+v2: χρυσαμοιβός ‘one who exchanges something into gold’; ἀλφιταμοιβός ‘dealer in barley-groats’; ἀργυραμοιβός ‘money-changer’; ἱεραμοιβός ‘interpreter of the gods’
+===
+verb: ἀμέρδω ‘deprive’ (I)
+fc: ἀμερσι-
+ex: ἀμερσίνοος ‘depriving of mind’; ἀμερσίφρων ‘depriving of mind’
+===
+verb: ἀμεύομαι ‘surpass, pass over’ (I)
+fc: ἀμευσι-, ἀμευσo-
+ex: ἀμευσιεπής ‘surpassing words’; ἀμευσίπορος ‘shifting the path’
+===
+verb: ἀνάσσω ‘to be lord, rule’ (IVb)
+fc: ἀναξι-, ἀνάκ-
+ex: ἀναξίαλος ‘ruling the sea’; ἀναξιβρέντᾱς ‘ruling the thunder’; ἀναξίμολπος ‘queen of song’; ἀναξιφόρμιγξ ‘ruling the lyre’; ἀναξιδώρα ‘queen of gifts’; ἀνάκτωρ ‘lord, ruler’; ἄναξ
+sc: [-άναξ, -ἀνάκ-τωρ, ῶναξ];
+v2: ἀστυάναξ ‘lord of the city’; ἱππιάναξ ‘king of horsemen’; χειρῶναξ ‘master of his hands, handicraftsman’; εὐρυάναξ ‘wide-ruling’; ; εὐδιάναξ ‘ruler of the calm’
+===
+verb: ἁνδάνω ‘please, delight’ (I)
+fc: ἁδησι-
+===
+verb: ἀνύω ‘accomplish’ (II)
+fc: ἀνυσι-, ἀνυ-
+ex: ἀνυσίεργος ‘finishing work’; ἀνυτής ‘tax-collector’
+===
+verb: ἅπτω ‘touch’ (II)
+fc: ἁψι-, ἁπτε-
+ex: ἁψίκορος ‘quickly sated’; ἁψιμαχία ‘skirmish’; ; ἁψικάρδιος ‘heart-touching’; ἁψίμοθος ‘kindling conflict’; ἐφάπτωρ ‘one who touches or caresses’
+===
+verb: ἀράομαι ‘pray, invoke’ (II)
+fc: ἀρησι-
+ex: ̓Αρησίμβροτος ‘invoking mortals’
+ex: ἀρητήρ ‘prayer, priest’
+===
+verb: ἀραρίσκω ‘fit together’ (IV)
+fc: ἀρτι-, ἀρσι-
+ex: ἀρτιεπής ‘he who fits together words; good at talking’; ἀρτίδακρυς ‘ready to weep’; ἀρτίφρων ‘ready of mind’
+sc: [-άρτ-ης];
+v2: πυλάρτης ‘gate-fastener’; λιθάρτης ‘assembling stones’; αἴρω ‘lift’; νεκροάρτης ‘remover of corpses’
+===
+verb: ἀρκέω ‘assist; suffice’ (IVa)
+fc: ἀρκεσι-
+ex: ̓Αρκεσίλᾱος ‘warding off the enemy’; ἀρκεσίβουλος ‘availing in council’
+sc: [-αρκ-ής];
+v2: ποδαρκής ‘providing defence with his feet’; γυιαρκής ‘strengthening the limbs’; ξεναρκής ‘aiding strangers’; αὐτάρκης ‘sufficient in oneself’; πανταρκής ‘all-powerful’; or ‘defending all’; πολυαρκής ‘much-helpful’; βιαρκής ‘supplying the necessaries of life’; ὀλιγαρκής ‘contented with little’; ζωαρκής ‘life supporting’
+===
+verb: ἁρπάζω ‘snatch away’ (IV)
+fc: ἁρπαξι-, ἁρπα-
+ex: ἁρπάξανδρος ‘snatching away men’; ἁρπαξίβιος ‘living by rapine’; ἁρπαξομίλης ‘snatching the pleasures of sexual intercourse’; ἁρπακτήρ ‘robber’ ἁρπακτής ‘robber’
+sc: [-αρπαξ];
+v2: δελέαρπαξ ‘snapping at the bait’
+===
+verb: ἀρτύω ‘prepare, make ready’ (IV)
+fc: ἀρτυ-, ἀρτυσι-
+ex: ̓Αρτυσίλεως ‘one who prepares the army (for battle)’; ἀρτυτήρ ‘director’
+sc: [-αρτυ-τής];
+v2: ὀψαρτυτής ‘cook’
+===
+verb: ἄρχω ‘begin, lead’ (IV)
+fc: ἀρχε-, ἀρχι-, ἀρχεσι-
+ex: ἀρχέκακος ‘beginning mischief’; ἀρχεσίμολπος ‘beginning the song’; ἀρχέπολις ‘ruling a city’; ἀρχέχορος ‘leading the chorus’; ἀρχός ‘leader’; ἀρχέτᾱς ‘leader’
+sc: [-αρχ-ος];
+v2: ύναρχος ‘sole ruler’; ἀρίσταρχος ‘best-ruling’; ἵππαρχος ‘ruling the horse’; later ‘commander of cavalry’; πολίαρχος ‘ruler of a city’; στράταρχος ‘general of an army’; πλείσταρχος ‘holding widest sway’; πολέμαρχος ‘war-lord’; βούλαρχος ‘adviser of a plan’; ναύαρχος ‘commander of a fleet’; στασίαρχος ‘chief of a band’; τόξαρχος ‘lord of the bow’; χιλίαρχος ‘captain over a thousand’; νόμαρχος ‘governor of a region’; στέγαρχος ‘master of the house’; ταξίαρχος ‘commander of a corps’; τριήραρχος ‘captain of a trireme’; φύλαρχος ‘chief officer of a φυλή’; πάναρχος ‘ruling all’; τεκτόναρχος ‘chief of the builders’; ὀρνίθαρχος ‘king of birds’; περιπόλαρχος ‘commander of a patrol’; Βοιοώταρχος ‘chief magistrate of the Boeotian league’; δεκάδαρχος ‘commander of ten men’; δωδεκάδαρχος ‘leader of twelve’; ἑκατόνταρχος ‘commander of a hundred’; μυρίαρχος ‘commander of 10,000 men’; πέζαρχος ‘leader of infantry’; πεμπάδαρχος ‘commander of five’; πεντηκόνταρχος ‘commander of fifty men’; συμποσίαρχος ‘president of a drinking-party’; φρούραρχος ‘commander of a watch’; φρατρίαρχος ‘president of a φρατρία’; γυμνασίαρχος ‘superintendent of athletic training’; εὔαρχος ‘governing well’; λῄταρχος ‘public priest’
+===
+verb: αὔξω/ἀέξω ‘increase’ (II)
+fc: αὐξι-, ἀεξι-, αὐξο-, αὐξησι-
+ex: αἐξίγυιος ‘strengthening the limbs’; αἐξίφυλλος ‘nourishing leaves’; αἐξίφυτος ‘nourishing plants’; αἐξίτροφος ‘promoting growth’; αὐξιφαής ‘increasing light’; αἐξίνους ‘strengthening the mind’; αἐξίτοκος ‘nourishing the fruits of the womb’; αὐξίδημος ‘increasing the people’; αὐξιφωτία ‘increase of light’; αὐξοσέληνον ‘waxing of the moon’; αἐξίκερως ‘growing horns’
+ex: αὐξητής ‘increaser’
+===
+verb: βαίνω ‘step’ (IV)
+fc: βητι-, βάτ
+ex: βητάρμων ‘dancer’; ; βηταρμός ‘dance’; βάτης ‘one that treads or covers’;
+sc: [-βή-της, -βά-της, -βά-τᾱς];
+v2: ἐμπυριβήτης ‘standing on the fire’; αἰγιβάτης ‘goat-mounting’; ἁβροβάτης ‘one who steps delicately’; Ἁιδοβάτης ‘one who has gone to the nether world’; αὐριβάτης ‘swift-striding’; ἑλειοβάτης ‘walking the marsh’; ἱπποβάτης ‘horseman’; ναυβάτης ‘seaman’; τεθριπποβάτης ‘driver of a four-horse chariot’; ὀρειβάτης ‘mountain-ranging’; πτερνοβάτης ‘one who walks on his heels’; κιγκλοβάτης ‘moving like the a dabchick’; στυλοβάτης ‘base of acolumn’; ̓λιβάτᾱς ‘haunting the heights’
+===
+verb: βλάπτω ‘damage’ (IVa)
+fc: βλαψι-
+ex: βλαψίφρων ‘damaging the mind, maddening’; βλαψίταφος ‘violating the grave’; βλάβος ‘damage’
+sc: [-βλαβ-ής];
+v2: φρενοβλαβής ‘damaging the mind’; μεγαλοβλαβής ‘greatly injuring’; σθενοβλαβής ‘hurting the strength’
+===
+verb: βλέπω ‘see, look’ (IV)
+fc: βλεπε-
+ex: βλεπεδαίμων ‘looking like a ghost’
+sc: [-βλώψ, βλέπ-ων];
+v2: κυνοβλώψ ‘with a dog’; πολυβλέπων ‘much-seeing’
+===
+verb: βόσκω ‘feed’ (IV)
+fc: βωτι-, βοτ-, βώτ-, βοσ-
+ex: βοτήρ ‘herdsman’; βώτωρ ‘herdsman’; συβώτης ‘swineherd’; xxx βωτιάνειρα ‘feeding men’
+sc: [-βώ-της, βό-της];
+v2: συβώτης ‘swineherd’; βουβότης ‘cowherd’; μηλοβοτήρ ‘herdsman’; μηλοβότης ‘shepherd’; βουβότης ‘someone who feeds cattle’; οὐρεσιβώτης ‘feeding on the mountains’; οἰοβώτας ‘feeding alone’; ἀγροβότης ‘feeding in the fields’; ἱπποβότης ‘feeder of horses’; συβότης ‘swineherd’; ὑοβότης ‘swineherd’; ὀρφοβότης ‘someone who brings up orphans’
+sc: [-βοσκ-ός, -βότ-ος]
+v2: αἰγοβοσκός ‘goatherd’; πολύβοσκος ‘much-nourishing’; χηνοβοσκός ‘gooseherd’; πορνοβοσκός ‘brothel-keeper’; ἀνθοβοσκός ‘nourishing flowers’; γηροβοσκός ‘nourishing those in old age’; μηλοβοσκός ‘sheep-feeding’; κραιπαλόβοσκος ‘which feeds on drunkenness’; αἰλουροβοσκός ‘keeper of sacred cats’; ἰβιοβοσκός ‘keeper of the sacred ibis’; ἱερακοβοσκός ‘hawk-feeder’; καμηλοβοσκός ‘camel-herd’; κυνοβοσκός ‘feeder of sacred jackals’; ἀρηνοβοσκός ‘shepherd’; παιδοβοσκός ‘keeping boys’; χειροβοσκός ‘supporting oneself by manual work’; ἱπποβοσκός ‘feeding horses’; κροκοδιλοβοσκός ‘feeder of sacred crocodiles’; προβατοβοσκός ‘shepherd’; βοοβοσκός ‘herdsman’; χοιροβοσκός ‘swineherd’; αἰγιβότης ‘browsed by goats’; αἰγιβότος ‘feeding goats’; χιονόβοσκος ‘nourished by snow’
+===
+verb: βούλομαι ‘wish, will’ (I)
+fc: βουλο-
+ex: βουλόμαχος ‘desiring strife’; Βουλαγάθᾱ ‘she who desires/wishes well’
+===
+verb: βρίθω ‘weigh down, press with’ (I)
+fc: βρισ-
+ex: βρισάρματος ‘chariot-pressing’
+sc: [-βριθ-ής];
+v2: ἀβριθής ‘without weight’
+===
+verb: βρύω ‘swell with’ (I)
+fc: βρυσι-
+===
+verb: γάνυμαι ‘brighten up’ (I)
+fc: γανυ-
+===
+verb: γιγνώσκω ‘know’ (IV)
+fc: γνωσι-
+ex: γνῶσις ‘knowledge’; γνωσιμαχέω ‘fight having knowledge of one’; γνωστήρ ‘one that knows: surety’; γνώστης ‘one that knows’
+sc: [-γνώσ-της];
+v2: καρδιογνώστης ‘knower of hearts’
+===
+verb: δάκνω ‘bite’ (IV)
+fc: δακε-, δηξι-
+ex: , δήκ-; δακέθυμος ‘biting the heart, heart-vexing’; δηξίθυμος ‘biting the heart’; δήκτης ‘biter’
+sc: [-δήκ-της, -δακ-ης];
+v2: λαθροδήκτης ‘biting secretly’; θυμοδακής ‘biting the heart’; ὠμοδακής ‘fiercely gnawing’; λαιμοδακής ‘throat-biting’; σαρκοδακής ‘eating flesh’
+===
+verb: δάμνημι/δαμάζω ‘tame’ (IV)
+fc: δαμασι-, δαμνα-
+ex: δαμασίμβροτος ‘taming mortals’; δαμασίφρων ‘taming the heart’; δαμασίχθων ‘earth-subduer’; δαμάσιππος ‘horse-taming’; δαμασικόνδυλος ‘conquering with the knuckles’; δάμνιππος ‘horse-taming’; δμητήρ ‘tamer’; δαμαστής ‘tamer’
+v2: [-δαμ]; ; ἱππόδαμος ‘tamer of horses’; γυιόδαμος ‘taming limbs’; θειόδαμος ‘taming the gods’; Λαοδάμᾱς ‘subduer of peoples’; ἀνδροδάμᾱς ‘man-taming’; λεοντοδάμᾱς ‘lion-taming’; χαλκοδάμᾱς ‘subduing bronze’; τοξοδάμᾱς ‘subduing with the bow’; κεκραξιδάμᾱς ‘conquering all in bawling’; ἀστροδάμᾱς ‘subduing the stars’; πωλοδαμαστής ‘tamer of foals’; ἱπποδαμαστής ‘tamer of horses’
+===
+verb: δείδω ‘fear’ (I)
+fc: δεισι-, δειδι-
+ex: ἀδεισιβόᾱς ‘not fearing the battle cry’; ἀδεισιδαιμονία ‘freedom from superstition’; δεισιδαίμων ‘fearing the gods’; ἀδεισιδαίμων ‘without superstition’; ἀδεισίθεος ‘not fearing the gods’
+===
+verb: δέρκομαι ‘see’ (IVa)
+fc: δερκε-
+ex:
+sc: [-δερκ-ής];
+v2: πολυδερκής ‘much-seeing’; ξανθοδερκής ‘with fiery eyes’; lit. ‘looking with red [eyes]’; ὀβριμοδερκής ‘with a mighty glance’; ὀξυδερκής ‘quick-sighted’; λιθοδερκής ‘petrifying with a glance’; πανδερκής ‘all-seeing’; μεσοδερκής ‘looking towards the middle’; γλυκυδερκής ‘with a sweet glance’; κακοδερκής ‘with a bad glance?’
+===
+verb: δέχομαι ‘receive’ (IV)
+fc: δεξι-, δέκ-
+ex: δεξίστρατος ‘receiving the host’; δεξίπυρος ‘receiving fire’; δέκτης ‘receiver, beggar’; δεκτήρ ‘receiver’
+sc: [-δέκ, -δόκ];
+πολυδέκτης ‘the All-receiver, Hades’; δωροδέκτης ‘one that takes bribes’; πανδέκτης ‘all-receiver’; σιταποδέκτης ‘corn-collector’; χρυσυποδέκτης ‘receiver of taxes in gold’; ἰοδόκος ‘holding arrows’; ξενηδόχος ‘one who receives strangers’;
+===
+verb: δίδωμι (IV)
+fc: **δωτι- (cf. Δωτώ), δωσι-
+ex: δωσίδικος ‘referring disputes to a court’; δωσίβιος ‘life-giving’; δωσιάρα ‘giving evil’; δωσίπυγος ‘offering the arse, sodomite’
+sc: [-δώτ, -δότ];
+v2: ἀδώτης ‘non-giver’; χαριδώτης ‘joy-giver’; ̓πιοδώτης ‘giver of gifts’; ὀλβιοδώτης ‘bestower of bliss’; ἐλπιδοδώτης ‘giver of hope’; μεθυδώτης ‘giver of wine’; ̔ρεσιδώτης ‘one who brings out the seasons’; πνευματοδώτης ‘giver of spirit; ἀδώτης ‘non-giver’; χαριδώτης ‘joy-giver’; ̓πιοδώτης ‘giver of gifts’; ὀλβιοδώτης ‘bestower of bliss’; ἐλπιδοδώτης ‘giver of hope’; μεθυδώτης ‘giver of wine’; ̔ρεσιδώτης ‘one who brings out the seasons’; πνευματοδώτης ‘giver of spirit’; πλουτοδότης ‘giver of riches’; ὑπνοδότης ‘giver of sleep’; οἰνοδότης ‘giver of wine’; ὀλβοδότης ‘giver of bliss’; μισθοδότης ‘paymaster’; βιοδότης ‘giver of livelihood’
+===
+verb: διώκω ‘pursue, chase, drive’ (IV)
+fc: διωξι-
+ex:
+sc: [-διώκ-της, -διωξ]:
+v2: ἱπποδιώκτης ‘driver of steeds’ ; Περσοδιώκτης ‘chaser of the Persians’; ἐργοδιώκτης ‘taskmaster’; κνισοδιώκτης ‘Fat-hunter’; λͅστοδιώκτης ‘one who chases; ὀφιοδιώκτης ‘snake-chaser’ robbers’; κολλοποδιώκτης ‘one who chases effeminate men’
+===
+verb: δοκέω ‘seem, pretend’ (I)
+fc: δοκησι-
+ex: δοκησίσοφος ‘wise in one\’s own conceit’; δοκησίνους ‘one who believes to be clever’; δοκησισοφία ‘conceit of wisdom’
+===
+verb: ἐγείρω ‘rouse, raise’ (II)
+fc: ἐγρε-, ἐγερσι-, ἐγρεσι-, ἐγερτι-
+ex: ἐγρεμάχη ‘rousing the fight’; ἐγρεκύδοιμος ‘strife-stirring’; ἐγερσιμάχᾱς ‘rousing the fight’; ἐγερσιφαής ‘light-stirring’; ἐγερσιβόης ‘raising the cry’; ἐγερσίχορος ‘leading the dance’; ἐγερσίνοος ‘soul-stirring’; ἐγρεσίκωμος ‘stirring up to revelry’; ἐγερσίγελως ‘rousing laughter’
+sc: [-εγέρ-της];
+v2: νεκρεγέρτης ‘rousing the dead’; ἐξεγέρτης ‘one who arouses’
+===
+verb: ἐθέλω ‘to be willing’ (II)
+fc: ἐθελο-
+ex: ἐθελόπορνος ‘voluntary catamite’; ἐθέλεχθρος ‘bearing one a grudge’; ἐθελοσύχνος ‘fond of repetitions’; ἐθελοκακέω ‘play the coward deliberately’; ἐθελοπρόξενος ‘one who voluntarily charges himself with the office of πρόξενος’; ἐθελόπονος ‘willing to work’; ἐθελουργός ‘willing to work’; ἐθελόδουλος ‘serving voluntarily’; ἐθελόκαλος ‘showing goodwill’; ἐθελοκωφέω ‘affect deafness’; ἐθελοκίνδυνος ‘courting danger’; ἐθελοθρησκεία ‘will-worship’; ἐθελορήτωρ ‘would-be orator’; ἐθελάστειος ‘wanting to be refined’; ἐθελακριβής ‘making pretence of accuracy’; ἐθελοφιλόσοφος ‘would-be philosopher’; ἐθελοντήρ ‘volunteer’; ἐθελοντής ‘volunteer’; θελητής ‘one who wills’
+sc: [-θελ]
+===
+verb: εἷλον ‘take, seize’ (I)
+fc: ἑλε-
+ex: ἕλανδρος ‘man-destroying’; ἑλέπτολις ‘city-destroying’; ἑλέναυς ‘destroying ships’
+===
+verb: εἴλω ‘press, roll up’ (I)
+fc: εἰλι-
+ex: εἰλίπους ‘rolling the feet’; εἰλιπόδης ‘rolling the feet’
+===
+verb: ἐλάω ‘drive, set in motion, strike’ (IV)
+fc: ἐλασι-
+ex: ἐλάσιππος ‘driving horses’; ἐλασιβρόντᾱς ‘hurling thunder’; ἐλασίχθων ‘earth-striking’; ἐλατήρ ‘driver’; ἐλάτης ‘driver’
+sc: [-ηλά-της, ελά-της];
+v2: ἱππηλάτης ‘driver of horses’; βοηλάτης ‘one that drives away oxen’; ἁρματηλάτης ‘charioteer’; διφρηλάτης ‘charioteer’; ζευγηλάτης ‘driver of a yoke of oxen’; τροχηλάτης ‘charioteer’; αἰγελάτης ‘goatherd’
+===
+verb: ἐλελίζω ‘cause to vibrate’ (I)
+fc: ἐλελι-. Note that it uses the bare stem; -ι- is not a linking vowel.
+ex: ἐλελίχθων ‘earth-shaking’
+===
+verb: ἕλκω ‘drag’ (IV)
+fc: ἑλκε-, ἑλκεσι-
+ex: ἑλκεχίτων ‘trailing the tunic’; ἑλκεσίπεπλος ‘trailing the robe’; ἑλκετρίβων ‘cloak-trailer’
+sc: [-ουλκ-ός, -ωλκ-ός];
+v2: ξιφουλκός ‘drawing a sword’; τοξουλκός ‘drawing the bow’; κερουλκός ‘drawing a bow made of horn’; νεωλκός ‘one who hauls up a ship into dock’; κηρουλκός ‘bringing destruction’
+===
+verb: Root unknown (I)
+fc: ἐνοσι-, εἰνοσι-, ἐννοσι-
+ex: ἐνοσίχθων ‘shaking the earth’; εἰνοσίφυλλος ‘shaking the leaves’; ἐννοσίγαιος ‘shaking the earth’; ἐννοσίδᾱς ‘shaking the earth’; ἐνοσίφρων ‘shaking the mind’
+===
+verb: ἔραμαι ‘love’ (IV)
+fc: ἐρασι-
+ex: ἐρασίμολπος ‘loving song’; ἐρασιχρήματος ‘loving money’; ἐρασιπλόκαμος ‘with lovely hair’; ἐρασίπτερος ‘with amorous wing’
+sc: [-ερασ-τής];
+v2: παιδεραστής ‘lover of boys’; δημεραστής ‘friend of the people’; γυναικεραστής ‘lover of women’; ἱππεραστής ‘lover of horses’; οἰνεραστής ‘lover of wine’
+===
+verb: ἐργάζομαι ‘work’ (II)
+fc: ἐργασι-
+sc: [-εργά, -ουργ]
+===
+verb: ἔρδω ‘do’ (IV)
+fc: ἐρξι-
+sc: [-οργ, -ουργ -εργ]
+===
+verb: ἐρείπω ‘throw down’ (I)
+fc: ἐρειψι-
+ex: ἐρειψιπύλᾱς ‘overthrowing gates’
+ex: ἐρειψίτοιχος ‘overthrowing walls’
+===
+verb: ἕρπω ‘go, come’ (II)
+fc: ἑρπετι-
+ex: ἑρπηστής ‘a reptile’; ἑρπηστήρ ‘creeping thing, reptile’
+===
+verb: ἐρύκω ‘keep in, restrain’ (II)
+fc: ἐρυξι-
+ex: ̓Ερυξίμαχος ‘one who keeps away the fight’; ̓Ερυξίλᾱος ‘one who keeps away the enemy’; ἐρυκτήρ ‘class of Spartan freedmen’
+===
+verb: ἔρυμαι/ἐρύoμαι ‘protect’ / ἐρύω ‘drag’ (II)
+fc: ἐρυ-, ἐρυσι-, ῥυσι-
+ex: ἐρυσίπτολις ‘protecting the city’; ἐρυσάρματος ‘chariot-drawing’; ῥυσίδιφρος ‘preserving the chariot’; ῥυσίβωμος ‘defending altars’; ῥυσίπολις ‘saving the city’; ἐρυσίχθων ‘tearing’; ἐρυσίθριξ ‘curry-comb’; ἐρυσινηΐς ‘preserving ships’; ῥυσίπονος ‘saving from toil’; ῥυτήρ ‘guardian / drawer’; ῥυτωρ ‘saviour / one who draws (the bow)’; ῥύστης ‘saviour’; ἐρυτήρ ‘that which draws up’; ῥυστήρ ‘rein’
+===
+verb: εὑρίσκω ‘find, discover’ (IV)
+fc: εὑρησι-, εὑρεσι-
+ex: εὑρησιεπής ‘inventive of poetry’; εὑρησιλογέω ‘invent ingenious arguments’; εὑρεσίκακος ‘inventive of evil’; εὑρετής ‘discoverer’
+sc: [-ευρε-τής];
+v2: πρωθευρετής ‘first discoverer’
+===
+verb: εὔχομαι ‘pray’ (II)
+fc: εὐχε-, εὐξι-
+===
+verb: ἔχω ‘have, hold’ (IV)
+fc: ἐχε-
+ex: ἐχέθυμος ‘under self-control’; ̓Εχέπωλος ‘having horses’; ἐχεπευκής ‘sharp’; ἐχέφρων ‘prudent’; ἐχενηίς ‘ship-holding’; ἐχεπάμων ‘holding property’; ἐχέγγυος ‘trustworthy’; ἐκεχειρία ‘truce’; ἐχέκολλος ‘sticky’; ἐχεμυθία ‘silence’; ἐχεδερμία ‘being hide-bound’; ἐχεγλωττία ‘tongue-truce’; ἐχέσαρκος ‘clinging close to the body’; ἐχεκτέανος ‘with great possessions’; ἐχεκήλης ‘ruptured’
+sc: [-ουχ]
+===
+verb: ζεύγνυμι ‘yoke’ (II)
+fc: ζευξι-
+ex: ζευξίλεως ‘subjugator of men’
+sc: [-ζυγ-ής]
+v2: βιοζυγής ‘yoking lives together’
+===
+verb: ἡγέομαι ‘lead, command’ (IV)
+fc: ἡγε-, ἡγησι-
+ex: ἁγησίλᾱος ‘leading the people’; ἡγησίπολις ‘leader of the state’; ἡγέμαχος ‘chieftain’; ἡγήτωρ ‘chief’; ἡγητήρ ‘guide’; ἡγέτης ‘leader’
+sc: [-ᾱγέ-τᾱς-της, ηγέ-τᾱς-της];
+v2: Μουσᾱγέτᾱς ‘leader of the Muses’; ξενᾱγέτᾱς ‘one who takes charge of guests’; ἑβδομᾱγέτης ‘epithet of Apollo’; ἀρχηγέτης ‘first leader’; λοχᾱγέτᾱς ‘leader of an armed band’; νυμφηγέτης ‘leader of the nymphs’; εἱππηγέτης ‘driver of horses’; ναυηγέτης ‘commander of a fleet’; ποδηγέτης ‘guide’; Ληνᾱγέτᾱς ‘leader of Bacchanals’; κωμηγέτης ‘leader of a κῶμος’; στρατηγέτης ‘army-leader’; μοιρᾱγέτης ‘guide of fate’; χορᾱγέτᾱς ‘leader of the chorus’
+===
+verb: θάλλω/θαλέω ‘sprout, blossom’ (IVa)
+fc: θαλησι-
+ex: Θαλησικλής ‘one who makes fame bloom’
+sc: [-θηλ-ής, -θᾰλ-ής];
+v2: ἐριθηλής ‘very flourishing’; νεοθηλής ‘fresh-budding’; πανθηλής ‘all-blossoming’; δυσθᾰλής ‘hardly growing’; ἰοθᾱλής ‘blooming with violets’; ὀρειθᾰλής ‘blooming on the hills’; ἀειθᾰλής ‘evergreen’; χοροιθᾰλής ‘flourishing in the dance’; ἱεροθαλλής ‘blooming holily’; κυμοθᾰλής ‘abounding with waves’
+===
+verb: θέλγω ‘enchant, charm’ (IV)
+fc: θελξι-
+ex: θελξίμβροτος ‘charming men’; θελξιεπής ‘charming with his words’; θελξίνοος ‘charming the heart’; θελξιμελής ‘charming with music’; θέλκτωρ ‘charmer’; θελκτήρ ‘charmer’
+sc: [-θελγ-ής];
+v2: φρενοθελγής ‘charming the heart’; πανθελγής ‘charming all’
+===
+verb: ἵημι ‘release, hasten’ (II)
+fc: ἡσι-
+ex: ἡσιεπής ‘uttering words’
+===
+verb: ἵστημι ‘stand; set up’ (IV)
+fc: στησι-, στατ-, στησ-
+ex: στατήρ ‘a weight or coin’; στησίφυλλον ‘leaf that sticks to the skin’
+sc: [-στά-της];
+v2: ἀριστεροστάτης ‘standing on the left’; ὀρθοστάτης ‘upright shaft’; πρωτοστάτης ‘one who stands first’; ὀβολοστάτης ‘weigher of obols’; τριτοστάτης ‘standing third from the corypheus’; χοροστάτᾱς ‘leader of a chorus’; ζυγοστάτης ‘weigher’; ἱεροστάτης ‘governor of the temple’; τριστάτης ‘one who stands next to the king and queen’; μεσοστάτης ‘inner beam’; δεξιοστάτης ‘one who stands in the right file of the Chorus’; δευτεροστάτης ‘one who stands in the rear file of the Chorus’; πυριστάτης ‘standing on the fire’
+===
+verb: ἴσχω ‘hold, restrain’ (I)
+fc: ἰσχε-, ἰσχo-
+ex: ἰσχέγαον ‘earth-retaining’; ἰσχέπλινθα ‘brick-retaining’; ἰσχέθυρον ‘door-retaining’
+===
+verb: καλέω ‘call’ (IV)
+fc: καλεσσι-
+ex: καλεσσίχορος ‘calling to the dance’; καλεσάνδρᾱ ‘summoner of men’
+sc: [-κλητ-ήρ];
+v2: ὁμοκλητήρ ‘shouter’; ὁμοκλέω ‘shout’; ψευδοκλητήρ ‘one who falsely subscribes his name as witness to a summons’; δειπνοκλήτωρ ‘one who invites to dinner’; ὀνομακλήτωρ ‘one who announces guests by name’
+===
+verb: κάμπτω ‘bend, turn, guide round’ (IV)
+fc: καμψι-, καμπεσι-
+ex: καμψίπους ‘bending the foot’; καμπεσίγυιος ‘bending the limbs’; καμψίουρος ‘bending the tail’; καμπεσίγουνος ‘bending the knees’; καμπτήρ ‘bend’
+sc: [-κάμπ-της];
+v2: ᾀσματοκάμπτης ‘twister of song’; Ἰωνοκάμπτης ‘one who sings with soft Ionic modulations’; πιτυοκάμπτης ‘pinebender’
+===
+verb: κάπτω ‘gulp down’ (I)
+fc: καψι-
+ex: καψιδρώτιον ‘napkin’
+===
+verb: κείρω ‘cut short, crop’ (I)
+fc: κειρε-, κερσε- # ????
+ex: ἀκερσεκόμης ‘not cropping the hair’; ἀκειρεκόμης
+===
+verb: κ́κασμαι ‘surpass’ (I)
+fc: καστι-
+===
+verb: κελεύω ‘order’ (II)
+fc: κελευσι-
+ex: κελευστής ‘one who gives the time to rowers’; κελεύστωρ ‘one who commands’
+===
+verb: κινέω ‘set in motion, move’ (IV)
+fc: κινησι-, κινη-
+ex: κινησίγαιος ‘shaking the earth’; κινητήρ ‘one that sets going’.; κινητής ‘one that sets going’.
+sc: [-κινή-της];
+v2: φωτοκινήτης ‘mover of light’
+===
+verb: κιχάνω ‘reach, overtake’ (I)
+fc: κιχησι-
+ex:
+===
+verb: κλαίω ‘cry, lament’ (II)
+fc: κλαυσι-
+ex: κλαυσίμαχος ‘rue-the-fight’; κλαυσιγέλως ‘tears mingled with smiles’;
+===
+verb: κλέπτω ‘steal’ (IV)
+fc: κλεψι-, κλέπ, κλοπ-
+ex: κλεψίφρων ‘thievish, having the mind of a thief’; κλεψύδρᾱ ‘a small vessel for transferring liquids’; ; κλεψίνυμφος ‘seeking illicit love’; κλεψίαμβος ‘a kind of musical instrument’; κλεψίγαμος ‘seeking illicit love’; κλεψιχώλος ‘disguising lameness’; κος ‘concealing offspring’; κλεψίνοος ‘beguiling the mind’; κλέπτης; κλοπός ‘thief’
+sc: [-κλεψ, -κλόπ-ος, -κλέπ-της];
+v2: βοόκλεψ ‘stealer of oxen’; τυρόκλεψ ‘cheese-thief’; ἀνδραποδοκλόπος ‘slave-stealer’; κυνοκλόπος ‘dog-stealer’; φρενοκλόπος ‘stealing the understanding’; πανεπίκλοπος ‘all-treacherous’; γαμοκλόπος ‘adulterous’; βουκλόπος ‘ox-stealing’; μωροκλέπτης ‘stupid thief’; ἀνδραποδοκλέπτης ‘slave-stealer’; κηριοκλέπτης ‘stealer of honeycombs’; κλέπτης ‘lamp-stealer’; ζωστηροκλέπτης ‘one who steals belts’; ὀρνιθοκλέπτης ‘bird-stealer’; ποτηριοκλέπτης ‘cup-stealer’; βαλαντιοκλέπτης ‘cutpurse’; ψηφοκλέπτης ‘one who juggles with pebbles’; ἱματιοκλέπτης ‘clothes-stealer’; πορφυροκλέπτης ‘stealer of purple’; νυκτικλέπτης ‘thief of the night’; ἀσημοκλέπτης ‘thief of plate’; μικροκλέπτης ‘petty thief’; ὀφθαλμοκλέπτης ‘stealer of the eye’; παιδοκλέπτης ‘stealer of children’
+===
+verb: κοσμέω ‘arrange, equip, adorn’ (IV)
+fc: κοσμησι-
+ex: ;
+v2: κοσμήτωρ ‘commander’; κοσμητής ‘name of an Athenian magistrate’; κοσμητήρ ‘title of a magistrate’
+sc: [-κοσμή-της];
+v2: χρυσοκοσμήτης ‘decorator with gold’; τριχοκοσμητής ‘hairdresser’
+===
+verb: κράζω ‘scream, bawl’ (II)
+fc: κεκραξι-, κεκράκ-της
+ex: κεκραξίδαμας ‘who conquers all in bawling’; κεκράκτης ‘bawler’; κράκτης ‘bawler’; κραγός ‘bawling’
+sc: [-κραγ-ής];
+v2: ἀκραγής ‘not barking’
+===
+verb: κρατέω ‘conquer, prevail’ (IVb)
+fc: κρατησι-
+ex: κρατησίμαχος ‘conquering in the fight’; κρατήσιππος ‘victorious in the race’; κρατησίπους ‘victorious in the foot-race’; κρατήτωρ ‘ruling star’; κρατητής ‘possessor’
+sc: [-κρα-τωρ];
+v2: αὐτοκράτωρ ‘sole ruler’
+===
+verb: κρούω ‘strike, knock’ (IV)
+fc: κρουσι-
+ex: κρουσίθυρος ‘knocking at the door’; κρουσιλύρης ‘striking the lyre’; κρουσιδημέω ‘cheat the people’; κρουσιμετρέω ‘cheat in measuring’; κρούστης ‘butting’
+sc: [-κρούσ-της];
+v2: ζυγοκρούστης ‘one who uses a false balance’; κεφαλοκρούστης ‘striking the head’; κυμβαλοκρούστης ‘one who strikes cymbals, player upon cymbals’
+===
+verb: κρύπτω ‘hide’ (II)
+fc: κρυψι-
+ex: κρυψίνοος ‘hiding one’; κρυψιμέτωπος ‘hiding the forehead’; κρυψίποθος ‘hiding one’; κρυψίφρων ‘hiding one\’s thoughts’; κρυψίχολος ‘hiding one’; κρυψίγονος ‘secretly born’; κρυψίδομος ‘dwelling in secret’; κρυψόρχης ‘with undescended testicles’; κρύπτης ‘member of the Spartan κρυπτεία’; κρυπτήρ ‘convenient for concealing’
+sc: [-κρυφ-ής];
+v2: εὐκρυφής ‘easy to hide’; νυκτικρυφής ‘hidden by night’; θεοκρυφής ‘hiding God’
+===
+verb: κταόμαι ‘get, acquire’ (II)
+fc: κτησι-, κτή
+ex: κτησίβιος ‘possessing property’; κτήτωρ ‘possessor’
+===
+verb: κύρω ‘obtain’ (I)
+fc: κυρσι-
+ex:
+===
+verb: λαγχάνω ‘obtain by lot’ (I)
+fc: λαχε- (from the aorist λαχεῖν).
+ex:
+===
+verb: λαμβάνω ‘catch, receive’ (IV)
+fc: λαβε-, λήπ-τη
+ex: Λαβίππᾱ ‘one who catches/receives horses’; λήπτης ‘catcher’
+sc: [-λάβ-ος, λήπ-της];
+v2: ἐργολάβος ‘contractor’; ἀστρολάβος ‘armillary sphere’; δεξιολάβος ‘spearman’; εὐλαβής ‘undertaking prudently’; ὀξυλαβής ‘quick at seizing’; ἐργολήπτης ‘contractor’; δωρολήπτης ‘greedy of gain’; προσωπολήπτης ‘respecter of persons’
+===
+verb: λανθάνω / λήθω ‘forget, make one forget’ (I)
+fc: λᾰθι- λᾱθι-, λησι-
+ex: λαθικηδής ‘banishing care’; λαθίφθογγος ‘banishing voice’; λησίμβροτος ‘taking men unawares’; λᾱθάνεμος ‘escaping wind’; λαθίνοστος ‘forgetful of returning home’; λαθίποινος ‘forgetful of vengeance’; λαθιφροσύνη ‘forgetfulness’; λαθιπορφυρίς ‘which feeds in the dark’
+sc: [-ληθ-ής];
+v2: ἀληθής ‘true’
+===
+verb: λείπω ‘leave, loose, to be wanting’ (III)
+fc: λιπεσ-, λιπο-, λειπο-
+ex: λιπεσάνωρ ‘abandoning her husband’; λιπότεκνος ‘childless’; λιπόξυλος ‘lacking wood’; λιπόναυς ‘deserting the fleet’; λιποτελέω ‘to be in arrear with taxes’; λιποπωγωνία ‘want of a beard’; λιποστρατίη ‘desertion from the army’; λιποψυχέω ‘swoon’; λιπόγαμος ‘deserting her marriage’; λιποταξία ‘desertion’; λιποθυμέω ‘faint’; λειπογνώμων ‘lacking interpreters’; λιπάδελφος ‘brotherless’; λιπομήτωρ ‘leaving one’; λιπόπνοος ‘breathless’; λιπανδρία ‘want of men’; λιπαυγής ‘sunless’; λιπόγυιος ‘wanting a limb’; λιπόδερμος ‘without a skin’; λιπόπαις ‘childless’; λιπόγληνος ‘sightless’; λιπόγλωσσος ‘tongueless’; λιπόθριξ ‘hairless’; λιπόθροος ‘wanting voice’; λιπόπατρις ‘leaving one’; λιποπτόλεμος ‘leaving the war’; λιπόπτολις ‘leaving the city’; λιποσθενής ‘powerless’; λιπόσκιος ‘without shadow, casting no shadow’; λιπόβιοι ‘dead ones’; λοιπός ‘remaining’
+sc: [-λοιπ-ος];
+v2: περίλοιπος ‘left’
+===
+verb: λήγω ‘stop’ (I)
+fc: ληξι-
+ex: ληξιπύρετος ‘allaying fever’; ληξίφωτος ‘waning’
+===
+verb: λύω ‘release, redeem’ (IV)
+fc: λυσι-, λυε-
+ex: λυσίκακος ‘ending evil’; λυσίμβροτος ‘relaxing men’; λυσίπονος ‘realising from pain’; λυσιμάχη ‘ending strife’; λυσιτελέω ‘indemnify for expenses incurred’; λυσιγυῖα ‘relaxation of the limbs’; λυσίζωνος ‘loosing the lower girdle’; λυσιπόλεμος ‘type of war-engine’; λυσίκομος ‘letting the hair loose’; λυσιπήμων ‘ending sorrow’; λυσιμέριμνος ‘driving care away’; λυσίγαμος ‘dissolving marriage’; λυτήρ ‘deliverer’
+sc: [-λύ-της];
+v2: ὠδινολύτης ‘setting free from pain’; νουσολύτης ‘freeing from illness’; κομβολύτης ‘cut-purse’; χρησμολύτης ‘expounder of oracles’
+===
+verb: μαίνομαι ‘rage, be mad’ (IVa)
+fc: μαιν-
+ex: μαίνανδρος ‘mad after men’
+sc: [-μαν-ής];
+v2: γυναιμανής ‘mad for women’; φρενομανής ‘mad in the mind’; ἀκρομανής ‘on the verge of madness’; ἱππομανής ‘abounding in horses’; καρπομανής ‘running to fruit’; δοριμανής ‘raging with the spear’; θυρσομανής ‘he who raves with the thyrsus’; χορομανής ‘mad after dancing’; ἡμιμανής ‘half-mad’; θηλυμανής ‘maddening women’
+===
+verb: μείγνυμι ‘mix’ (I)
+fc: μιξο-, μειξι-
+ex: μιξολύδιος ‘half Lydian’; μιξονόμος ‘feeding promiscuously’; μιξοβόᾱς ‘mingled with shouts’; μιξόθροος ‘with mingled cries’; μιξόμβροτος ‘half-hu-man’; μίξοφρυς ‘having eye-brows that meet’; μιξοπάρθενος ‘half-maiden’; μιξοθήρ ‘half-beast’; μιξοβάρβαρος ‘half-barbarian’; μιξαιθρία ‘alternation of fair and foul weather’
+sc: [-μίκ-της];
+v2: δουλομίκτης ‘one who consorts with slaves’; ἀρρενομίκτης ‘one who consorts with men’
+===
+verb: μέλλω ‘to be about to’ (II)
+fc: μελλο-
+ex: μελλόγαμος ‘awaiting marriage, betrothed’; μελλοδειπνικός ‘(song sung while) waiting for dinner’; μελλονικιάω ‘delay victory’; μελλέπταρμος ‘just going to sneeze’; μελλοθάνατος ‘at the point of death’; meaning ‘almost’; μελλόνυμφος ‘about to be wedded’; μελλογυμνασίαρχος ‘about to be gymnasiarchos’
+ex: μελλητής ‘one who has a hesitating character’
+===
+verb: μέλω ‘care, to be an object of care’ (II)
+fc: μελε-, μελησι-
+ex: μελησίμβροτος ‘an object of care to men’; μελέτωρ ‘one who cares for, avenger’; μελητής ‘one who is in charge’
+sc: [-μελ-της]
+===
+verb: μέμφομαι ‘blame’ (I)
+fc: μεμψι-
+ex: μεμψίμοιρος ‘criticizing’; lit. ‘blaming the fate’; μεμψιβολέω ‘cast reproaches’; μέμψις ‘blame’; μεμπτός ‘throwing blame upon’
+sc: [-μεμφ-ής];
+v2: πολυμεμφής ‘much-blaming’
+===
+verb: μένω ‘stand, abide, await’ (III)
+fc: μενε-, μενο-, μενεσι-
+ex: μενεπτόλεμος ‘abiding war’; both ‘staunch in battle’; μένανδρος ‘awaiting a husband’; App.) ‘staunch in battle’; μενέδουπος ‘steadfast in the battle-din’
+sc: [-μον-ος];
+v2: ἀείμονος ‘everlasting’; παράμονος ‘constant’
+===
+verb: μιμνήσκω ‘remind of’/ μιμνήσκομαι ‘remember’ (IV)
+fc: μνησι-
+ex: μνᾱσιστέφανος ‘remindful of crowns’; LSJ: ‘wooing crowns’; μνησιπήμων ‘reminding of misery’; μνησίκακος ‘revengeful’; μνησικακέω ‘remember past injuries’; μνησίθεος ‘name of a plant’; μνηστήρ ‘suitor’; μνήστωρ ‘mindful of’; μνήμων ‘mindful’
+sc: [-μνήσ-τωρ, -μνήμ-ων];
+v2: πολυμνήστωρ ‘much-remembering’; ἀμνήμων ‘unmindful’; ἱερομνήμων ‘mindful of sacred things’; εὐμνήμων ‘easy to remember’; πολυμνήμων ‘remembering many things’
+===
+verb: μίμνω ‘stay, stand’ (I)
+fc: μιμνο-
+ex:
+===
+verb: μίσγω ‘mix’ (I)
+fc: μισγ(ο)-
+ex: μισγάγκεια ‘meeting of the waters’; μισγοδία ‘place where streets meet’
+===
+verb: μισέω ‘hate’ (IVa)
+fc: μισο-
+ex: μισόθεος ‘hating the gods’
+ex: μισητής ‘hater’
+sc: [-μισ-ής];
+v2: θεομισής ‘hating the gods’; meaning ‘heated by the gods’; φανερομισής ‘hating openly’; πολυμισής ‘much-hating’
+===
+verb: νικάω ‘win’ (IVb)
+fc: νικησι-
+ex: νικᾱτήρ ‘winner’; νικήτωρ ‘victorious’; νικητής ‘winner in games’
+sc: [-νικ-ος-ης-ᾱς];
+v2: οὐρανόνικος ‘conquering heaven’; ̓λυμπιόνικος ‘victorious in the Olympic games’; Πυθόνικος ‘winner at the Pythian games’; Ἰσθμιόνικος ‘winner in the Isthmian games’; πάννικος ‘all-victorious’; ̓λυμπιονίκᾱς ‘conqueror in the Olympic games’; Πυθιονίκᾱς ‘winner in the Pythian games’; Ἰσθμιονίκης ‘winner in the Isthmian games’
+===
+verb: ὄλλυμι ‘destroy’ (IV)
+fc: ὀλεσι-, ὀλε-τήρ
+ex: ὠλεσίκαρπος ‘destroying fruits’; ὀλεσήνωρ ‘destroying men’; ὀλεσίθηρ ‘destroying wild beasts’; ὀλεσίπτολις ‘destroying cities’; ὀλεσσιτύραννος ‘destroying tyrants’; ὀλεσίμβροτος ‘destroying men’; ὀλετήρ ‘destroyer’; ὀλέτης ‘destroyer’
+sc: [-ολέ-τειρα, -ολέ-της]
+ex: ἀνδρολέτειρα ‘murderess’; παιδολέτωρ ‘child-murdering’; παιδολέτειρα ‘murderess of her children’; πατρολέτωρ ‘parricide’; θηρολέτης ‘slayer of beasts’; Γιγαντολέτωρ ‘giant-killer’; ψυχολέτης ‘soul-destroyer’; αἰνολέτης ‘dire destroyer’; Γιγαντολέτης ‘giant-killer’;
+===
+verb: ὀνίνημι ‘profit’ (II)
+fc: ὀνησι-
+ex: ὀνησίπολις ‘profiting the state’; ὀνήτωρ ‘bringing benefits’
+===
+verb: ὁρμάω ‘set in motion’ (II)
+fc: ὁρμησι-
+ex: ὁρμητής ‘someone ready to strike’; ὁρμάστειρα ‘one who urges on’
+===
+verb: ὄρνυμι ‘incite, making to arise, start up’ (IV)
+fc: ὀρτι-, ὀρσι-, ὀρσο-
+ex: ὀρσινεφής ‘raising the clouds’; ὀρσίκτυπος ‘stirring noise’; ὀρσοτρίαινα ‘wielder of the trident’; ὀρσίαλος ‘stirring the sea’; ὀρσίβακχᾱς ‘inciting Bacchants’; ὀρσίπους ‘raising the foot’; ὀρσιγυναίκα ‘exciting women’; ὀρσόθριξ ‘raising the hair’
+===
+verb: παύω ‘stop’ (II)
+fc: παυσι-
+ex: παυσάνεμος ‘stopping the winds’; παύσυβρις ‘checking insolence’; παυσανίας ‘allaying the sorrows’; παυσίλυπος ‘ending pain’; παυσίνοσος ‘ending illness’; παυσίπονος ‘ending toil’; παυσινύσταλος ‘ending drowsiness’; παυσ́δυνος ‘stopping pain’; παυστήρ ‘one who stops’; παύστωρ ‘one who stops’
+===
+verb: πείθω/πείθομαι ‘persuade, obey’ (IVa)
+fc: πεισι-, πειθε-, πειθo-, πειθεσι-
+ex: πεισιχάλινος ‘obeying the rein’; πεισίμβροτος ‘obeying mortals’; πεισίβροτος ‘id.’; πείθαρχος ‘obeying authority’; πειθαρχέω ‘obey one in authority’; πεισιθάνατος ‘persuading to die’; πειθοδικαιόσυνος ‘obedient to justice’; πειστήρ ‘one who obeys’
+sc: [-πειθ-ής];
+v2: ἑτοιμοπειθής ‘ready to obey’; θεοπειθής ‘obedient to God’
+===
+verb: πέπ̄μαι ‘own’ (II)
+fc: πασι-
+ex: πάστᾱς ‘owner’
+===
+verb: πέρθω ‘destroy’ (IV)
+fc: περσι-
+ex: περσέπτολις ‘destroying cities’
+sc: [-πόρθ-ος];
+v2: πτολιπόρθος ‘destroying cities’
+===
+verb: πήγνυμι ‘fix, make solid’ (IV)
+fc: πηγεσι-, πηξι-
+ex: πηγεσίμαλλος ‘thick-fleeced’; πηξιθάλαττα ‘she that freezes the sea’; ἐμπήκτης ‘one who sticks up judicial notes’
+sc: [-πηγ-ός, -παγ-ός];
+v2: ἁμαρτοπηγός ‘building chariots’; ναυπηγός ‘ship-builder’; σοροπηγός ‘coffin-maker’; ἁλοπηγός ‘one who prepares salt’; ἁμαξοπηγός ‘cartwright’; ἀσπιδοπηγός ‘shield-maker’; τορνευτολυρασπιδοπηγός ‘lyre-turner and shield-maker’; κλινοπηγός ‘maker of beds’; ἀγριοπηγός ‘someone who works raw wood’; γυιοπαγής ‘stiffening the limbs’; ἰχθυπαγής ‘piercing fish’; ναυπηγής ‘ship-building’
+===
+verb: πίμπλημι ‘fill’ (I)
+fc: πλησι-
+ex: πλησίστιος ‘filling the sails’; πλησιφαής ‘with full light’
+===
+verb: πλήσσω ‘strike’ (IV)
+fc: πληξι-
+ex: πλήξιππος ‘striking horses’; πλήκτης ‘striker’; πληκτήρ ‘striking object or person’; πλάκτωρ ‘striker’
+sc: [-πλήκ-τᾱν-της, -πληγ-ής];
+v2: διοπλήκτᾱν ‘striken by god’; ἰσχυροπλήκτης ‘wounding severely’; φρενοπληγής ‘striking the mind’; καρτεροπληγής ‘striking fiercely’
+===
+verb: πράσσω ‘accomplish, achieve, exact payment’ (IV)
+fc: πραξι-
+ex: πρηκτήρ ‘doer’; πράκτωρ ‘one who does or executes’; πρήκτης ‘treacherous person’
+sc: [-πράκ-της, -πρᾱγ-ης];
+v2: παντοπράκτης ‘ready to do anything’; δυσπρᾱγής ‘faring ill’; εὐπρᾱγής ‘doing well’; ἀδικοπρᾱγής ‘acting wrongly’; κακοπρᾱγής ‘evil-doing’; δικαιοπρᾱγής ‘acting justly’
+===
+verb: ῥάπτω ‘sew together’ (IV)
+fc: ῥαψ(ι)-
+ex: ῥαψωδός ‘one who sews together poems, reciter of epic poems’; ῥάπτης ‘clothes-mender’
+sc: [-ρράπ-της, -ράπ-της, -ρράφ-ος];
+v2: δικορράπτης ‘pettifogger’; σαγματοράπτης ‘saddler’; μηχανορράφος ‘forming crafty plans’; ἱστιορράφος ‘sail-patcher’; of ‘tricky fellow’; νευρορράφος ‘one who stitches with sinews, mender of shoes’; λινορραφής ‘making nests’; previously ‘sewn of flax’; δολορραφής ‘weaving treacherously’
+===
+verb: ῥήγνυμι ‘break’ (II)
+fc: ῥηξι-
+ex: ῥηξήνωρ ‘breaking armed ranks’; ῥηξίχθων ‘bursting forth from the earth’; lit. ‘breaking the earth apart’; ῥηξικέλευθος ‘opening a path’; ῥηξίνοος ‘breaking the wits’; ῥήκτης ‘breaker’
+sc: [-ρραγ-ής];
+v2: αἱμορραγής ‘bleeding’; ψυχορραγής ‘letting the soul break loose’
+===
+verb: ῥίπτω ‘throw, hurl’ (I)
+fc: ῥιψ-
+ex: ῥιψαύχην ‘tossing the neck’; ῥίψοπλος ‘throwing away one’; ῥίψασπις ‘throwing away the shield’; ῥιψόφθαλμος ‘casting the eyes about’
+sc: [-ρριφ-ος]
+===
+verb: σείω ‘shake’ (IV)
+fc: σεισι-
+ex: σεισίχθων ‘shaking the earth’; σεισάχθεια ‘shaking off of burdens’; σειστής ‘kind of earthquake’
+sc: [-σείσ-της];
+v2: πυργοσείστης ‘tower-shaker’
+===
+verb: σπένδω ‘pour, make a drink offering’ (I)
+fc: σπενσι-, σπενδε-?
+ex:
+sc: [-σπονδ-ος];
+v2: τρίσπονδος ‘consisting of three pourings’; οἰνόσπονδος ‘with offerings of wine’; ὑπόσπονδος ‘under a treaty’; παράσπονδος ‘contrary to a treaty’
+===
+verb: σπεύδω ‘urge, strive after’ (I)
+fc: σπευσι-, σπευδε-?
+===
+verb: στέλλω ‘make ready, fit out, send’ (IV)
+fc: στελλε-, στόλ-
+ex: στόλος ‘equipment’; στολή ‘expedition’; literally ‘fitting out, decorating her buttocks’;
+sc: [-στόλ-ος];
+v2: γαμοστόλος ‘preparing a wedding’; πομποστολέω ‘conduct a procession’; νεκυοστόλος ‘ferrying the dead’; νυμφοστόλος ‘escorting the bride’; νεκροστόλος ‘layer-out of corpses’; φορτοστόλος ‘sending off a freight’; ψυχοστόλος ‘escorting souls’
+===
+verb: στέργω ‘love’ (IVa)
+fc: στεργ-
+ex: ἀστεργάνωρ ‘not loving men’; e. ‘not having loved men’; στεργοξύνευνος ‘loving one's consort’
+sc: [-στεργ-ής, -στοργ-ος];
+v2: ἀστεργής ‘not loving’; τεκνοστοργής ‘full of filial affection’; ὁμόστοργος ‘feeling the same affection’
+===
+verb: στρέφω ‘turn, twist’ (IV)
+fc: στρεφε-, στρεψι-, στρεψο-, στροφ-
+ex: στρεφεδινέω ‘whirl round the stream’; στρεψίμαλλος ‘with tangled fleece’; στρεψοδικέω ‘twist the right’; στρεψοδικοπανουργία ‘cunning in the perversion of justice’; στρεψαύχην ‘twisting the neck’; στρεψίκερως ‘African antelope’; στροφή ‘turning’;
+sc: [-στρόφ-ος];
+v2: οἰακοστρόφος ‘helmsman’; ἀσπιδηστρόφος ‘shield-wielding’; ἡνιοστρόφος ‘charioteer’; ἱμονιοστρόφος ‘water-drawer’; ἑδροστρόφος ‘wrestler who throws his adversary’
+===
+verb: στυγέω ‘hate’ (I)
+fc: στυγ-, στυγο-
+ex: στυγόδεμνος ‘hating marriage’
+sc: [-στυγ-ής]
+===
+verb: σχήσω ‘hold’ (suppletive future of ἔχω) (I)
+fc: Σχησι-
+ex: Σχησίπολις ‘one who will hold the city’
+===
+verb: σώζω ‘save’ (IV)
+fc: σωσι-
+ex: σωσίπολις ‘saving the city’
+sc: [-σσό-ος, -σό-ος];
+v2: πολισσόος ‘protecting the city’; κουροσόος ‘child-saving’; μελισσοσόος ‘preserver of bees’; οἰκοσόος ‘maintaining the house’; μηλοσσόος ‘sheep-protecting’; βροτοσσόος ‘man-saving’; βιοσσόος ‘life-preserving’; ξενοσσόος ‘saving strangers’; ψυχοσσόος ‘saving the soul’; δημοσσόος ‘saving the people’
+===
+verb: τανύω ‘stretch’ (I)
+fc: τανυ-, τανυσι-
+ex: τανύπεπλος ‘stretching the robe, with flowing robe’; τανύγλωσσος ‘long-tongued’; τανυγλώχις ‘with a long point’; τανυήκης ‘with a long point or edge’; τανυσίπτερος ‘with extended wings’; τανύφλοιος ‘with long-stretched bark’; τανύφυλλος ‘with long-pointed leaves’; τανύπτερος ‘with long wings’; σφυρος ‘with long taper ankles’; τανύθριξ ‘long-haired’; ζος ‘with stretching roots’; τανυέθειρα ‘with long hair’; τανυηχής ‘far-sounding’; τανύδρομος ‘running at full stretch’; τανύπους ‘stretching the foot’; τανυμήκης ‘long-stretched’; τανυήλιξ ‘of advanced age’; τανύπρῳρος ‘with a long prow’; τανύφθογγος ‘far-sounding’; τανύκραιρος ‘long-horned’; τανύπλεκτος ‘in long plaits’; τανύρροιζος ‘with long whizzing’; τανύσκιος ‘with a long-stretching shadow’; τανύγληνος ‘large-eyed’; τανυκνήμις ‘long-legged’; τανυκρήπις ‘with long foundation’; τανυπλόκαμος ‘with long hair’; τανύπρεμνος ‘with long stem’; τανυσίσκοπος ‘far-seeing’; τανύπλευρος ‘long-sided’
+===
+verb: ταράσσω ‘stir, trouble’ (II)
+fc: ταραξι-, ταράκ-της
+ex: ταραξικάρδιος ‘troubling the heart’; ταραξιππόστρατος ‘troubling the horse-array’; ταράξιππος ‘troubling horses’; ταράκτωρ ‘disturber’; ταράκτης ‘disturber’.
+===
+verb: τελέω ‘fulfil, accomplish; kill’ (IV)
+fc: τελε-, τελεσι-
+ex: Τελένικος ‘accomplishing victory’; τελετής ‘priest’; τελέστωρ ‘initiator’; τελετή ‘initiation’
+sc: [-τελέσ-της, -τελ-ής];
+v2: βουτελέστης ‘one who kills oxen (for sacrifice)’; καρποτελής ‘bringing fruit to perfection’; bahuvrihi: ‘having completion of the fruit’
+===
+verb: τέμνω ‘cut’ (IV)
+fc: ταμεσι- (employing the stem of the aorist ἔταμον: see Chapter 6, section 3.2).
+ex: ταμεσίχρως ‘cutting the skin’
+sc: [-τόμ-ος];
+v2: δρυτόμος ‘wood-cutter’; ὑλοτόμος ‘cutting wood’; ὀμφαλητόμος ‘someone who cuts the navel-string, midwife’; γᾱτόμος ‘cleaving the ground’; λαιμοτόμος ‘throat-cutting’; βαλλαντιοτόμος ‘cut-purse’; καινοτόμος ‘cutting new, novel’; λατόμος ‘stonecutter’; ῥιζοτόμος ‘cutter of roots’; λιθοτόμος ‘mason’
+===
+verb: τέρπω ‘delight’ (IVa)
+fc: τερπι-, τερπε-, τερψι-
+ex: τερπικέραυνος ‘delighting in thunder’; τερψίμβροτος ‘delighting mortals’; τερψιεπής ‘delighting with words’; τερψίφρων ‘delighting the mind’; τερψίχορος ‘enjoying the dance’
+sc: [-τερπ-ής];
+v2: ἀτερπής ‘unpleasing’; μελιτερπής ‘pleasing like honey’; εὐτερπής ‘delightful’; παντερπής ‘all-delighting’; δυστερπής ‘ill-pleasing’; θεοτερπής ‘pleasing the gods’; ποικιλοτερπής ‘delighting by variety’; ὀχλοτερπής ‘delighting the mob’; παντερπής ‘all-delighting’; εἰαροτερπής ‘joying in spring’; τυμπανοτερπής ‘delighting in drums’; φρενοτερπής ‘heart-delighting’; χοροτερπής ‘delighting in the dance’
+===
+verb: τήκω ‘consume’ (IVa)
+fc: τηξι-
+ex: τηξιμελής ‘consuming the limbs’
+sc: [-τακ-ής];
+v2: κατακυμοτακής ‘melting the waves’; σαρκοτακής ‘wasting the flesh’; γυιοτακής ‘melting or wasting the limbs’
+===
+verb: τίλλω ‘pluck’ (I)
+fc: τιλλο-
+ex: τιλλοπώγων ‘one who plucks out his beard’
+===
+verb: τιμάω ‘honour’ (IV)
+fc: τιμησι-, τιμο-, τιμᾱ-
+ex: τιμητής ‘valuer, assessor of damages’; τιμητήρ ‘assessor of taxable property’
+sc: [-τιμη-τής];
+v2: στιπποτιμητής ‘tow-valuer’
+sc: [-τιμ-ος];
+v2: νυμφότιμος ‘honouring the bride’; ξενότιμος ‘honouring strangers’
+===
+verb: τίνω ‘pay a price; avenge’ (II)
+fc: τισι-, τεισι-, τεισα-
+===
+verb: τλῆναι ‘endure’ (IV)
+fc: τλη-, ταλα-, ταλαι-, τλησι-
+ex: ταλαεργός ‘enduring work’; ταλαπείριος ‘enduring (many) trials’; ταλαπενθής ‘bearing grief’; ταλαύρινος ‘bearing a shield of a bull’; ταλαίπωρος ‘miserable’; lit. ‘bearing stones’; mean ‘patient of mind’; τλήμων ‘patient’
+sc: [-τλήμ-ων, -τλ-ας, -τάλ-ας];
+v2: πολυτλήμων ‘much-enduring’; δυστλήμων ‘suffering hard things’; εὐτλήμων ‘much-enduring’; πολύτλας ‘much-enduring’; Ἄτλας ‘bearing all’; παντάλας ‘all-wretched’
+===
+verb: τρέπω ‘turn, change’ (II)
+fc: τρεψι-, τροπ-
+ex: τρεψίχρως ‘changing colour’; τροπός ‘strap, twisted leathern thong’
+===
+verb: τρέφω ‘rear’ (IV)
+fc: τρεφε-
+ex: τροφός ‘nurse’; τροφεύς ‘nurse’
+sc: [-τρόφ-ος, -τρεφ-ος];
+v2: κουροτρόφος ‘nurturing children’; πορτιτρόφος ‘nourishing calves’; ἱπποτρόφος ‘horse-feeding’; μηλοτρόφος ‘sheep-feeding’; μεθυτρόφος ‘producing wine’; παιδοτρόφος ‘nourishing young life’; λαοτρόφος ‘nourishing the people’; ἀμπελοτρόφος ‘nurturing vines’; νηριτοτρόφος ‘breeding sea-snails’; παντοτρόφος ‘all-nurturing’; τεθριπποτρόφος ‘keeping a team of four horses’; γηροτρόφος ‘nourishing people in old age’; Διοτρόφος ‘nurse of Zeus’; θηροτρόφος ‘feeding wild beasts’; καρποτρόφος ‘nurturing fruits’; λωτοτρόφος ‘producing lotus’; μελισσοτρόφος ‘feeding bees’; χιονοτρόφος ‘fostering snow’; χλοεροτρόφος ‘producing green grass’; κυνοτρόφος ‘keeping dogs’; ἰδιοτρόφος ‘feeding individuals’; ὀρτυγοτρόφος ‘keeper of quails’; ἀλεκτρυονοτρόφος ‘cock-feeder’; ἐγχελυοτρόφος ‘keeping eels’; τρόφος ‘taking little nourishment’; μυελοτρεφής ‘breeding-marrow’; θεοτρεφής ‘nourishing the gods’; βρεφοτρεφής ‘rearing infants’; τεκνοτρεφής ‘rearing children’
+===
+verb: τρέχω ‘run’ (IV)
+fc: τρεχε-, τροχ-
+ex: τρεχέδειπνος ‘running to dinner’; τροχός ‘wheel’;
+sc: [-τροχ-ος];
+v2: ἁλίτροχος ‘running through the sea’
+===
+verb:δρόμος ‘race’
+sc: [-δρομ-ος];
+v2: ἀνυόδρομος ‘swiftly-running’; αἰθεροδρόμος ‘ether-skimming’; βοηδρόμος ‘running to give help’; λαιψηροδρόμος ‘swift-running’; βραχύδρομος ‘running a short way’; δολιχοδρόμος ‘running the δόλιχος’; εὐθυτρεχής ‘running in a straight line’
+===
+verb: τυγχάνω ‘hit upon, meet’ (I)
+fc: τυχησι-
+===
+verb: φαγεῖν ‘eat’ (IV)
+fc: φαγε-
+ex: φαγέσωρος ‘eating a great quantity, glutton’; φαγέδαινα ‘cancerous sore’; φάγος ‘glutton’
+sc: [-φάγ-ος];
+v2: ἀνδροφάγος ‘eating men’; λωτοφάγοι ‘lotus-eaters’; σιτοφάγος ‘eating corn’; ὠμοφάγος ‘eating raw flesh’; δωροφάγος ‘devouring gifts’; ὑλοφάγος ‘feeding in the woods’; παμφάγος ‘all-devouring’; βαλανηφάγος ‘acorn-eating’; βουφάγος ‘ox-eating’; ἀρτοφάγος ‘bread-eater’; πασπαληφάγος ‘feeding on nice meals’; παιδοφάγος ‘child-devouring’; θυηφάγος ‘devouring offerings’; σκατοφάγος ‘eating dung’; ἰχθυοφάγος ‘eating fish’; κρεοφάγος ‘eating flesh’; ἀλλοτριοφάγος ‘eating another’; ταυροφάγος ‘bull-eating’; θυμβροφάγος ‘eating savory’; κολλικοφάγος ‘roll-eating’; κομαροφάγος ‘eating the fruit of the arbutus’; μονοφάγος ‘eating alone’; ὀψοφάγος ‘eating delicacies’; μαζοφάγος ‘eating barley-bread’; οἰσοφάγος ‘gullet’; ὀλιγοφάγος ‘eating little’; ποηφάγος ‘eating grass’; πολυφάγος ‘eating too much’; χλωροφάγος ‘eating green food’; ἰαμβειοφάγος ‘glutton at iambics’; Μελινοφάγοι ‘Millet-eaters’; ἀνθρωποφάγος ‘man-eating’; ἀγκιστροφάγος ‘biting the hook’; ἀκανθοφάγος ‘feeding on thistles’; ἀλληλοφάγοι ‘eating each other’; ζῳοφάγος ‘carnivorous’; θριποφάγος ‘eating wood-worms’; καρποφάγος ‘living on fruit’; ὀρνιθοφάγος ‘eating birds’; ῥιζοφάγος ‘eating roots’; σαρκοφάγος ‘eating flesh’; σκνιποφάγος ‘eating σκνῖπες (small creatures which infest fig trees)’; σκωληκοφάγος ‘eating worms’; φυκιοφάγος ‘eating seaweed’
+===
+verb: φαίνω ‘show, make to appear, reveal’ (IVa)
+fc: φαινο-, φαινε-
+ex: φαινομηρίς ‘showing the thigh’
+sc: [-φαν-ής];
+v2: ἀειφανής ‘ever-shining’; δεξιοφανής ‘not reflecting a reversed image’; lit. ‘appearing right’; πασιφανής ‘shining on all’; ἡμεροφανής ‘shining by day’; ὀφθαλμοφανής ‘apparent to the eye’; ξυλοφανής ‘showing wood’; κρυσταλλοφανής ‘looking like crystal’; δημοφανής ‘public’; σολοικοφανής ‘like a solecism’; ψιμυθιοφανής ‘looking like white lead’; χαλκοφανής ‘having the appearance of copper’; χρυσοφανής ‘shining like gold’; θηλυφανής ‘like a woman’; δουλοφανής ‘slave-like’; γεωφανής ‘looking like earth’; ναρθηκοφανής ‘looking like fennel’; σαρκοφανής ‘looking fleshy, with a fleshy outside’; πτωχοφανής ‘like a beggar’; ταυροφανής ‘bull-like’; ἐλαιοφανής ‘resembling oil in appearance’; ἀμμοφανής ‘sandy’; ὑπνοφανής ‘appearing in sleep’; νυκτιφανής ‘shining by night’; μεσοφανής ‘appearing in the middle’; νεβροφανής ‘fawn-like’; πυριφανής ‘appearing in fire’
+===
+verb: φάω ‘shine’ (IVa) φάος ‘light’; of ‘shining’;
+fc: φαεσι-, φαε-
+ex: φαεσίμβροτος ‘bringing light to mortals’
+sc: [-φα-ής];
+v2: νυκτιφαής ‘shining by night’; ̓λεκτροφαής ‘gleaming like amber’; κεραυνοφαής ‘flashing like lightning’
+===
+verb: φείδομαι ‘spare’ (IVa)
+fc: φειδε-, φειδι-, φειδεσι-
+ex: φειδαλφιτέω ‘to be sparing of barley’; φείδων ‘type of oil-can (that lets only a little run out)’
+sc: [-φείδ-ής];
+v2: Πολυφείδης (‘much-sparing’; ἀφειδής ‘not-sparing’; βιοφειδής ‘sparing on sustenance, penurious’
+===
+verb: φέρω ‘carry’, bring’ (IV)
+fc: φερε-, φερεσ(ι)-, φερεσ-
+ex: φερέσβιος ‘giving life’; φερεσανθής ‘bringing flowers’; φερέοικος ‘house carrier, snail’; φερεσσακής ‘shield bearing’; φερέζυγος ‘bearing the yoke’; φερεμμελίης ‘spear bearing’; φερέμηλος ‘bearing much cattle’; φερέπολις ‘upholding the city’; φερέπονος ‘bearing toil’; φερεκυδής ‘bearing glory, renown’; φερεστέφανος ‘bringing victory’; φέρασπις ‘shield-bearing’; φερέγγυος ‘giving security’; φερεστάφυλος ‘bearing bunches of grapes’; φερανθής ‘bringing flowers’; φερέκαρπος ‘yielding fruit’; φερέκακος ‘shield bearing’; φερέπτερυξ ‘bearing wings’; φέροπλος ‘bearing arms’; φερεγλαγής ‘bringing milk’; φερέβοτρυς ‘bearing bunches of grapes’; φερέζωος ‘bringing life’; φερέσταχυς ‘bearing ears of corn’; φερεαυγής ‘bringing light’
+sc: [-φόρ-ος, -φερ-ής];
+v2: ἰσοφόρος ‘bearing equal weights’; λαοφόρος ‘bearing people’; τοξοφόρος ‘bow-bearing’; πυρηφόρος ‘wheat-bearing’; τελεσφόρος ‘bringing fulfilment’; παμφερής ‘all-bearing’
+===
+verb: φεύγω ‘flee, avoid’ (IV)
+fc: φυγο, φευγε-, φευγο-, φυξι-
+ex: φυγοπτόλεμος ‘escaping war, coward’; φυγόμαχος ‘shunning battle’; φυγόξενος ‘shunning strangers, inhospitable’; φυξίμηλον ‘avoiding cattle’; φυξανορία ‘aversion to men’; φυγαίχμης ‘fleeing from the spear’; φυγοδικέω ‘shirk a trial’; φυξήλιος ‘shunning the sun’; φυγόπονος ‘shunning work’; φυξίπολις ‘fleeing the city’; φυγόλεκτρος ‘shunning the marriage-bed’; φυγόπατρις ‘fleeing one’; φεύγυδρος ‘shunning water’; φυγάς ‘one who flees’
+sc: [-φυγ-ος];
+v2: ὀψίφυγος ‘fleeing late’
+===
+verb: φθείρω ‘destroy’ (IV)
+fc: φθερσι-
+ex: φθερσιγενής ‘destroying the race’
+sc: [-φθόρ-ος];
+v2: λᾱοφθόρος ‘ruining the people’; ἀνδροφθόρος ‘man-destroying’; πολυφθόρος ‘destroying many’; βροτοφθόρος ‘man-destroying’; πολεμοφθόρος ‘wasting by war’; ὑστεροφθόρος ‘late destroying’; οἰκοφθόρος ‘one who ruins a house’; κυματοφθόρος ‘plundering by sea’; πολιτοφθόρος ‘hurtful to the citizens’; ξυλοφθόρον ‘an insect that destroys wood’; ναυσιφθόρος ‘ship-destroying’; ἁλιφθόρος ‘destroying on sea; pirate’; λαρνακοφθόρος ‘killing in a box’; ναυτιλοφθόρος ‘bane of sailors’; πενθεροφθόρος ‘slaying one's father-in-law’
+===
+verb: φθίνω ‘consume, cause to decay’ (I)
+fc: φθεισι-, φθισι-, φθινο-
+ex: φθεισήνωρ ‘consuming men’; φθισίμβροτος ‘destroying men’; φθινόκαρπος ‘having lost its fruits’; ὀπώρα (‘summer’; φθινοπωρικός ‘autumnal’; φθινόκωλος ‘with wasting limbs’; φθισίφρων ‘destroying the mind’
+===
+verb: φιλέω ‘love’ (IVb)
+fc: φιλο-, φιλησι-
+ex: φιλησίμολπος ‘loving song’; φιλοπτόλεμος ‘loving war’; φιλητής ‘lover’
+sc: [-φιλ-ος, -φίλ-ης, -φιλ-ής, -φιλη-τής];
+v2: παιδόφιλος ‘lover of children, loving children’; γυναικοφίλᾱς ‘lover of women’; λογοφίλης ‘fond of words’; λογόφιλος ‘fond of argument’; πορνοφίλης ‘fond of prostitutes’; ἐρημοφίλης ‘loving solitude’; γραόφιλος ‘lover of old women’
+===
+verb: φλέγω ‘burn’ (IVa)
+fc: φλεξι-
+sc: [-φλεγ-ής];
+v2: ζαφλεγής ‘full of fire’; ὁμοφλεγής ‘burning together’; αἐιφλεγής ‘always burning’; ἄφλογος ‘without flame in it’
+===
+verb: φοβέω ‘terrify, put to flight’ (IVb)
+fc: φοβε-, φοβεσι-
+ex: φοβέστρατος ‘scaring hosts’; φοβεσιστράτη ‘she who scares the host’
+sc: [-φοβ-ος];
+v2: αἱμοφόβος ‘fearing blood’; ὑδροφόβος ‘having a horror of water’; θεόφοβος ‘fearing God’
+===
+verb: φράζω ‘indicate, tell’ (IV)
+fc: φρασι-
+ex: φραστήρ ‘teller’; φράστης ‘one who speaks well’
+sc: [-φράσ-της]
+v2: σκινδαλαμοφράστης ‘straw-splitter’
+===
+verb: φύω ‘produce’ (IV)
+fc: φυσι-, φύ-τωρ
+ex: φυσίζοος ‘producing life’; φύτωρ ‘begetter’
+sc: [-φύ-τωρ, -φυ-ής];
+v2: πτεροφύτωρ ‘feather-producing’; ἀμπελοφύτωρ ‘wineplanter’; ἀφυής ‘without natural talent’; τριφυής ‘with three stems’; πτεροφυής ‘growing feathers or wings’; ῥιζοφυής ‘growing out roots’
+===
+verb: χαίρω ‘rejoice, take pleasure in’ (IVa)
+fc: χαιρε-, χαιρεσι-, χαρησι-, χαιρο-, χαιρι-
+ex: χαιρεκακία ‘taking pleasure in one’
+sc: [-χαρ-ής];
+v2: μικροχαρής ‘easily pleased’; δακρυχαρής ‘delighting in tears’; εἰδωλοχαρής ‘delighting in images’; εἰροχαρής ‘delighting in wool’; μουσοχαρής ‘delighting in the Muses or in poetry’; ἐπιδεσμοχαρής ‘bandage-loving’; κλινοχαρής ‘fond of bed’; ὀχλοχαρής ‘courting the mob’; ἀντροχαρής ‘enjoying caves’; κισσοχαρής ‘delighting in ivy’; λεκτροχαρής ‘enjoying the marriage-bed’; ὁπλοχαρής ‘delighting in arms’; δημοχαρής ‘pleasing the people’; κεδροχαρής ‘rejoicing in cedar’; γεωχαρής ‘fond of the earth’; παγχαρής ‘gladdening all’; πυριχαρής ‘rejoicing in fire’; νυκτιχαρής ‘rejoicing in the night’; βελεσσιχαρής ‘joying in darts’; νευροχαρής ‘delighting in bow-string’; ξυνοχαρής ‘rejoicing with all alike’; ψαλμοχαρής ‘delighting in harp-playing’; αἱμοχαρής ‘delighting in blood’; θυρσοχαρής ‘delighting in the thyrsus’
+===
+verb: χαράσσω ‘sharpen, scratch, carve’ (II)
+fc: χαραξι-, χαρακ-τήρ
+ex: χαραξίποντος ‘carving the sea’; χαρακτήρ ‘engraver’; also ‘impressed mark’; meaning ‘distinctive mark, character of a person’
+===
+verb: χρέμπτομαι ‘clear one’s throat’ (I)
+fc: χρεμψι-
+ex: χρεμψιθέατρος ‘spitting in the theatre’

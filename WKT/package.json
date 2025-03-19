@@ -1,0 +1,28 @@
+{
+  "name": "dictwkt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node wkt.js",
+    "get": "node ../dictutils/get.js",
+    "make-prefs": "node wkt/runCompPref.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mbykov <m.bykov@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@mbykov/anthrax": "file:../../anthrax",
+    "common-substrings": "^3.0.1",
+    "fs-extra": "^10.1.0",
+    "glob": "^7.2.0",
+    "lodash": "^4.17.21",
+    "md5": "^2.3.0",
+    "orthos": "^0.7.2",
+    "pouchdb": "^7.3.1"
+  },
+  "devDependencies": {
+    "debug": "^4.3.4"
+  }
+}

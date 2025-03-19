@@ -1,0 +1,20 @@
+{
+  "name": "blh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "get": "node ../dictutils/get.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.3.2",
+    "orthos": "^0.7.2"
+  }
+}

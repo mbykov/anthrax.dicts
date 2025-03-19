@@ -1,0 +1,4 @@
+* pdftohtml -f 81 -l 471 -xml -s -stdout bailly-2020-hugo-chavez-2023-02-28.pdf > pages/bailly-a.xml
+* font="1" - начало статьи
+* остальное вычистить в текст
+* font="10" - римские цифры

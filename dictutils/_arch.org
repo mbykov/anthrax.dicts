@@ -1,0 +1,22 @@
+#
+
+* Zero
+ - wktNounPatterns - в словарях. Соответственно, zero и zstem определяются там?
+ - в Nest убираю префикс в astem.
+
+* Zero
+ - anthrax:
+   - ищем indecl - wfc = γλαυξ, в нем stem = γλαυκ
+   - нету - stem: γλαυξ / γλαυκ
+   - нашли, dict = γλαυξ + trns
+ - makeNest:
+   - одна entry: как обычно: rdict, etc, stem + zstems
+   - лучше stem = γλαυκ, zstem = γλαυξ
+   -
+ - wkt.js => nest:
+   - два cdicts:
+   - stem = γλαυξ / γλαυκ, dict = γλαυξ
+ - wkt.js => wkt:
+   - dict = γλαυξ, stem = γλαυκ, trns
+ - другие словари, dvr:
+   -

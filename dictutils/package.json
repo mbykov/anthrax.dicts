@@ -1,0 +1,20 @@
+{
+  "name": "dictutils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mbykov/anthrax": "file:../../anthrax",
+    "debug": "^4.3.5",
+    "fs-extra": "^11.2.0",
+    "lodash": "^4.17.21",
+    "orthos": "^0.7.2",
+    "pouchdb": "^8.0.1"
+  }
+}

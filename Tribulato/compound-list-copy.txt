@@ -1,0 +1,3557 @@
+Corpus
+
+ος, -της, -τηρ/τωρ, -ής
+
+
+===
+ἀάω ‘hurt, damage’ (I)
+-----
+FC: ἀεσι-, ἀασι-
+-----
+First attested compound: ἀεσίφρων ‘damaged in mind’ (Hom., ἀασίφρων
+Hsch.; cf. also the derivations ἀεσιφροσύνη ‘folly’, ibid., and ἀασιφρονία, Phot.).
+In spite of the shape of the FC, the meaning of this compound points to a bahu-
+vrihi structure.
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+ἄγαμαι ‘wonder, admire’ (I)
+-----
+FC: ἀγασι-
+-----
+First attested compound:  ̓Αγασίλεως (Euboea 7th c.).
+-----
+Onomastic compounds:  ̓Αγάσανδρος (Delphi? ca. 300 BC), Ἀγάσαρχος (Sicily
+6th–5th c.), Ἀγασιγράτις (Argolis 3rd c.), Ἀγασίδᾱμος (Thebes 5th–4th c.),
+ ̓Αγασικλῆς (Thera 7th–6th c.),  ̓Αγασικράτης (Athens ca. 510 BC),  ̓Αγασιμένης
+(Sicyon ca. 405 BC),  ̓Αγάσιππος (Athens 4th c.),  ̓Αγασισθένης (Sparta 149 BC),
+̓Αγασίστρατος (Athens 220/19). In Boeotia some of these names show [ss] in the
+FC: e.g.  ̓Αγασσιγίτων (Boeotia ca. 230–210). In West Greek areas there is a chance
+that some of these names overlap with those from ἡγέομαι: see Chapter 5, section
+4.2.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+ἀγαπάω ‘love’ (I)
+-----
+FC: ἀγαπ-
+-----
+First attested compound: ἀγαπήνωρ ‘loving manliness’ (Hom.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: Only  ̓Αγαπήνωρ (Hom.) and its dialectal variants.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+ἀγείρω ‘gather, collect’ (IV)
+-----
+FC: ἀγερσι-
+-----
+First attested compound: ἀγερσικύβηλις ‘collecting axes’ (said of a mendicant
+priest; Cratin.). For the meaning, see Chapter 6, section 3.2.
+-----
+Agent nouns: ἀγέρτᾱς ‘collector of dues’ (IG 14.423, Tauromenium, hell.).
+-----
+V2 compounds: Myc. ri-na-ko-ro ‘linen-gatherer’. Other compounds in -ηγόρος/
+-ᾱγόρος are semantically linked to ἀγορεύω ‘speak’, e.g. κακᾱγόρος ‘evil-speak-
+ing’ (Pi.), νεφεληγερέτα (epic for νεφεληγερέτης) ‘cloud-gatherer’ (Hom.),
+στεροπηγερέτης ‘lightning-gatherer’ (Hom.), κεφαληγερέτης ‘head-collector’
+(Cratin.), ἀστεροπηγερέτης (Cerc.). The compounded form of the agent noun
+ἀγέρτᾱς occurs in σιταγέρτης ‘collector of corn’ (Tab. Heracl.).
+
+===
+ἄγω ‘lead’ (IV)
+-----
+FC: ἀγε-, ἀγεσι-
+-----
+First attested compounds:  ̓Αγέλᾱος ‘leading men’, ἀγελείη ‘driver of spoil’,
+ἀγήνωρ ‘heroic’, all in Hom.
+-----
+Appellative compounds: ἀγέστρατος ‘host-leading’ (Hes.), ἀγέχορος ‘leading
+the chorus’ (Aristoph.): for this form, see Chapter 6, section 3.1.
+-----
+Onomastic compounds:  ̓Αγεάναξ (Rhodes ca. 68 BC; also in Theocr.),  ̓Αγέαρχος
+(Thessaly 2nd c. AD),  ̓Αγέδᾱμος (Phokis 3rd–2nd c.),  ̓Αγεκράτης (Rhodes 2nd–1st c.),
+ ̓Αγεκύδης (Nisyros hell.),  ̓Αγελάδᾱς (Argolis 6th–5th c.),  ̓Αγέλαρχος (Boeotia ?2nd-
+1st c.),  ̓Αγέλοχος (Sparta 5th c.),  ̓Αγέμαχος (Rhodes 405/4 BC),  ̓Αγέμορτος (Mytilene
+4th-3rd c.),  ̓Αγένομος (Crete 223/2 BC),  ̓Αγέπολις (Rhodes 375–350),  ̓Αγεσίλᾱς (Dal-
+matia 3rd c.),  ̓Αγέσιππος (Crete imp.),  ̓Αγεστίμᾱ? (Kasos 4th–3rd c.),  ̓Αγέστρατος
+(Sicily 6th c.),  ̓Αγέτιμος (Crete 223/2),  ̓Αγέφαντος (Rhodes 3rd c.).
+-----
+Agent nouns: ἀγός ‘leader’ (Hom.), ἄκτωρ ‘leader’ (Aesch.).
+-----
+V2 compounds: ὀχετηγός ‘conducting water by a ditch’ (Hom.). Compounds in
+-ᾱγός/-ηγός are numerous: a full list is provided by Buck-Petersen 626. The fol-
+lowing are the forms which appear before the 3rd c.: στρατηγός ‘army leader’
+(Archil.), φορτηγός ‘one who carries cargoes’ (Thgn.), κυνᾱγός ‘hound-leader,
+huntsman’ (Aesch.), ἀρχηγός ‘originating’ (lit. ‘bringing the beginning’, Soph.),
+λοχᾱγός ‘leader of an armed band’ (Soph.), ποδηγός ‘guiding the foot’ (ibid.),
+χορηγός ‘chorus-leader’ (Hdt.), χοληγός ‘carrying off bile’ (Hippocr.), ξενᾱγός
+‘commander of mercenary troops’ (Thuc.), οὐρᾱγός ‘leader of the retroguard’
+(Xen.), ἱματηγός ‘loaded with apparel’ (Thphr.), σιτηγός ‘conveying corn’ (Dem.),
+ὑδατηγός ‘drawing water’ (Call.), ταριχηγός ‘salt-fish hawker’ (Alex.).
+Compounds in - ᾱγέτης/-ηγέτης are listed under ἡγέομαι.
+
+===
+ἀείρω ‘lift, increase’ (III)
+-----
+FC: ἀε(ε)ρσι-, ἀρσι- (see below).
+-----
+First attested compound: ἀερσίπους ‘lifting the feet, high-stepping’ (said of
+horses; Hom.).
+-----
+Appellative compounds: ἀερσιπότης ‘lifting the flight, flying high’ (Hes.), The SC of this compound is ποτή ‘flight’ and does not directly derive from ποτέομαι, as implied in LSJ,
+ἀερσίμαχος ‘rousing the fight’ (Bacch.), ἀερσίνοος (Ion Lyr.), ἀερσίλοφος ‘lifting
+the crest, high-crested’ (A.R.), ἀερσίφρων ‘lifting the heart’ (IG 22.12664, Athens,
+ca. 150 AD).
+-----
+Onomastic compounds:  ̓Αρσίνοος ‘lifting the soul’? (Hom.), with variants;
+ ̓Αρσίλοχος (Boeotia 480 BC),  ̓Αρσιφρώνδᾱς (Boeotia 245–240). These names may
+also derive from ἀραρίσκω: for the FC, see Chapter 4, section 7.1.
+-----
+Agent nouns: None.
+-----
+V2 compounds: The only compounds from this root are preverbed -ος com-
+pounds, e.g. μετήορος ‘raised from off the ground’.
+
+===
+αἰνέω ‘praise, advise’ (II)
+-----
+FC: αἰνεσι-/αἰνησι-
+-----
+First attested compound: Αἰνησιμβρότᾱ ‘praising men’ (Alcm.).
+-----
+Onomastic compounds: Αἰνέλᾱος ‘one who praises his men’ (Aetolia 163 BC),
+Αἰνεισίβουλος (Thessaly 2nd c.), Αἰνεσίλᾱς ‘advising his people’ (Thera 5th
+c.), Αἰνεισίπολις (Thessaly 3rd c.), Αἰνείσιππος (Thessaly 2nd c.), Αἰνέστρατος
+(Argolis 1st c.), Αἰνησαγόρᾱς (Rhodes 3rd–2nd c.), Αἰνήσανδρος (Arcadia 3rd
+c.), Αἰνησίβιος (Epidauros ca. 370–365), Αἰνησίδᾱμος (Phintias-Gela 6th c.),
+Αἰνησικλῆς (Amorgos 3rd c.), Αἰνησικράτης (Amorgos 3rd c.), Αἰνήσιππος (Ni-
+syros 3rd c.), Αἰνησίτιμος (Rhodes ca. 211 BC), Αἰνησιφίλη (Amorgos 3rd–2nd c.),
+Αἰνίππᾱ? (Corinth ca. 570–550).
+-----
+Agent nouns: αἰνετής ‘one that praises’ (Hdn. = Eust.).
+-----
+V2 compounds: None.
+
+===
+αἱρέω ‘take, seize’ (II)
+-----
+FC: αἱρ(ε)-, αἱρησι-
+-----
+First attested compound: Αἱρήhιππος ‘taking horses’ (Laconia ca. 431–403).
+-----
+Appellative compounds: αἱρησιτείχης ‘taker of walls’ (title of a play by Diphi-
+lus).3
+-----
+Onomastic compounds: Αἱρίππη (Euboea 3rd c.).
+-----
+Agent nouns: αἱρέτης ‘one who chooses’ (Vett. Val.; used also in the specialized
+meaning of ‘searcher of archives’ in POxy. 1654.7, 2nd c. AD). An earlier form is
+attested in the noun καθαιρέτης ‘overthrower’ derived from the compound verb
+καθαιρέω ‘put down, destroy’.
+-----
+V2 compounds: None.
+
+===
+ἀκέομαι ‘heal’ (II)
+-----
+FC: ἀκε(σ)σι-
+-----
+First attested compound:  ̓Ακέσανδρος ‘healing men’ (Cyprus 5th–4th c.).
+-----
+Appellative compounds: ἀκεσσίπονος ‘healing toil’ (Nonn.).4
+-----
+Onomastic compounds:  ̓Ακεσιγένης (Rhodes 70 BC),  ̓Ακεσίμβροτος (Rhodes
+3rd c.),  ̓Ακεσιππίδης (Amorgos 4th–3rd c.),  ̓Ακεσίστρατος (Kalymnos ca. 200 BC).
+-----
+Agent nouns: ἀκεστήρ (Soph.), ἀκέστωρ (Εur.), ἀκεστής (Xen.): all ‘healer’.
+-----
+V2 compounds: None.
+3 Another form, αἱρεσιάρχης (S.E.), is not a V1 compound. The FC derives from αἵρεσις in
+its meaning ‘system of philosophical principles, sect’ and the compound means ‘leader of a
+philosophical school’.
+4 ἀκεσσίνοσος ‘healing disease’ has been conjectured in AP 9.516.4 (Crinagoras) and is
+included in LSJ.
+
+===
+ἀκούω ‘listen’ (IV)
+-----
+FC: ἀκουσι-
+-----
+First attested compound:  ̓Ακουσίλᾱος (Argos 5th c.). Cf. Ἀκούσιλος (Boeotia
+6th–5th c.)
+-----
+Appellative compounds: ἀκουσίθεος ‘heard by God’ (Antip. Thess.).
+-----
+Onomastic compounds:  ̓Ακουσαγόρᾱς (Melos 4th c.),  ̓Ακουσίθεος (Locris ca.
+315–280 BC).
+-----
+Agent nouns: ἀκουστής ‘hearer’ (Men.).
+-----
+V2 compounds: ὠτακουστής ‘eavesdropper’ (of a person employed as a spy;
+Aristot.). The numerous compounds in -ήκοος are bahuvrihis, as shown by the
+position of the accent and by the fact that the FC of these and similar compounds
+always functions as a determination of the SC, never as its object.
+
+===
+ἀλγέω ‘grieve’ (IVa)
+-----
+FC: ἀλγεσι-
+-----
+First attested compound: ἀλγεσίθυμος ‘grieving the heart’ (Orph. H.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: None (Ἄλγαλσος, Illyria 168 BC, is unclear).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None. Some compounds in -αλγής, e.g. θυμαλγής ‘heart-griev-
+ing’ (Hom.), may derive directly from the verb rather than from ἄλγος. Of these,
+only θυμαλγής has the SC in the function of the direct object; the few other active
+compounds have adverbial FCs, e.g. βαρυαλγής ‘grievously suffering’ (Orph. H.).
+
+===
+ἀλέξω ‘keep off, ward off, protect’ (II)
+-----
+FC: ἀλεξι-, ἀλκε-, ἀλκι-, ἀλκεσι-
+-----
+First attested compound: a-re-ka-sa-do-ro /Aleksandros/.5
+-----
+Appellative compounds: (Liter.) ἀλεξίκακος ‘keeping off ill’ (Hom.),
+ἀλεξάνεμος ‘averting wind’ (ibid.), ἀλεξιάρη ‘she that guards off from ruin’ (Hes.),
+ἀλεξίμβροτος ‘protecting men’ (Pi.), ἀλεξαίθριος ‘screening from chill air’ (Soph.),
+ἀλεξίμορος ‘warding off death’ (ibid.), ἀλεξίπονος ‘warding off pain’ (ibid.),
+ἀλεξιφάρμακος ‘acting as antidote’ (Sophr.), ἀλεξήνωρ ‘aiding man’ (Paus.),
+ἀλεξίγαμος ‘shunning marriage’ (Nonn.), ἀλεξιβέλεμνος ‘keeping off darts’ (Paul.
+Sil.), ἀλεξίκηπος ‘protecting the garden’ (Geop.; title of a work on gardening by
+Nestor).
+(Ep.) ἀλεξίχορος ‘helping or favouring the chorus’ (IG 22.4533.35, Αttica 3rd c. AD).
+5 This interpretation consciously leaves aside the question of whether Ἀλέξανδρος may have
+had a non-Greek origin. Even if the foreign etymology were to be proven correct, it is likely that
+the name was transformed into a meaningful Greek form and connected with the verb ἀλέξω.
+-----
+Onomastic compounds: (Liter.) Ἀλκίνοος (Hom.), Ἄλκανδρος ‘keeping off the
+enemy’ (ibid.), Ἀλκιβίη (Archil.). (Ep.) Ἀλεξήνωρ (Athens 5th–4th c.), Ἀλέξαρθος
+(Cimmerian Bosporos 307 AD),  ̓Αλέξαρχος (Thasos 5th c.), Ἀλεξιάδης (Athens ca.
+350 BC), Ἀλεξιβίᾱ (Corinth a. 480 BC),  ̓Αλεξιδήϊος? (Chios 6th c.),  ̓Αλεξίδικος (Keos
+5th c.),  ̓Αλεξίκακος (Athens 187/8 AD),  ̓Αλεξικλῆς (Athens 5th c.),  ̓Αλεξικράτης
+(Rhodes ca. 325 BC),  ̓Αλεξίλᾱς (Acarnania 3rd c.),  ̓Αλεξίλοχος (Rhodes ca. 258
+BC),  ̓Αλεξίμαχος (Corinth ca. 570–550),  ̓Αλεξίμβροτος (Rhodes 1st c.),  ̓Αλεξιμένης
+(Athens ca. 350 BC),  ̓Αλεξιμήδης (Boeotia 5th c.),  ̓Αλεξίνᾱος (Megaris ?221 BC),
+ ̓Αλεξίνικος (Rhodes ca. 325–308 BC), Ἀλεξίνους (Melos ?1st c. BC–1st c. AD),
+ ̓Αλεξίπολις (Melos 4th c.),  ̓Αλεξίππᾱ (Sparta ?8th–7th c.),  ̓Αλεξίστρατος (Rhodes
+3rd c.),  ̓Αλεξιτέλης (Keos 4th–3rd c.),  ̓Αλεξίτιμος (Amorgos 4th–3rd c.),  ̓Αλεξιφάης
+(Thessaly ca. 168 BC),  ̓Αλεξιφάνεια (Siphnos hell.?),  ̓Αλεξόμμᾱς? (Illyria 3rd–2nd
+c.), Ἀλκέμαχος (Epiros ?198 BC),  ̓Αλκεσίδᾱμος (Rhodes 3rd–2nd c.),  ̓Αλκέσιππος
+(Aetolia ca. 200–182), Ἀλκιβιάδης (Athens 6th–5th c.),  ̓Αλκίδᾱμος (Kalymnos 7th
+c.),  ̓Αλκίθεμις (Crete 3rd c.), Ἀλκίθεος (Amorgos 6th c.), Ἀλκικράτης (Rhodes 2nd
+c.),  ̓Αλκίμαχος (Euboea 6th c.), Ἀλκιμέδων (Aegina 460 BC), Ἀλκινόϝᾱ (Corinth
+ca. 615–600),  ̓́Αλκιππος (Thasos 5th–4th c.), Ἀλκισθένης (Athens 500–480 BC),
+ ̓Αλκίστρατος (Acarnania 3rd–2nd c.),  ̓Αλκίφρων (Sicily 6th c.).
+-----
+Agent nouns: ἀλεξητήρ ‘protector’ (Hom.), ἀλκτήρ ‘one who wards off’ (ibid.),
+ἀλεξήτωρ ‘protector’ (Soph.).
+-----
+V2 compounds: None.
+
+===
+ἀλφάνω ‘bring in’ (IVa)
+-----
+FC: ἀλφεσι-
+-----
+First attested compound: ἀλφεσίβοιος ‘bringing in oxen’ (Hom.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: ἀλφηστής ‘earner, enterprising man’ (Hom).
+-----
+V2 compounds: Only the active τιμαλφής ‘fetcthing a prize’ (Aesch.), producing
+the denominative verb τιμαλφέω ‘do honour’ (Pi.).
+
+===
+ἁμαρτάνω ‘fail; be deprived of’ (I)
+-----
+FC: ἁμαρτο-, ἁμαρτι-
+-----
+First attested compound: ἁμαρτοεπής ‘erring in words’ (Hom.).
+-----
+Appellative compounds: ἁμαρτίνοος ‘erring in mind’ (Hes.), ἁμαρτολόγος
+‘speaking faultily’ (Athen.), ἁμαρτίγαμος ‘failing of marriage’ (Nonn.).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+ἀμείβω ‘change, exchange’ (IV)
+-----
+FC: ἀμειψι-
+-----
+First attested compounds: ἀμειψικοσμίη ‘change of condition’ (Democr. =
+Hsch.), ἀμειψιρρυσμία ‘change of form’ (ibid. = D.L.), ἀμείψιχρους ‘changing
+colour’ (Democr.? = Hsch.); see Chapter 6, section 3.2.
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: The existence of these PNs is confirmed by the Kurzname
+ ̓Αμειψίας (Athens 5th c.).
+Agent noun: ἀμοιβός ‘one who exchanges’ (Hom.).
+-----
+V2 compounds: χρυσαμοιβός ‘one who exchanges something into gold’ (Aesch.),
+ἀλφιταμοιβός ‘dealer in barley-groats’ (Aristoph.), ἀργυραμοιβός ‘money-changer’
+(Pl.), ἱεραμοιβός ‘interpreter of the gods’ (Hsch.).
+
+===
+ἀμέρδω ‘deprive’ (I)
+-----
+FC: ἀμερσι-
+-----
+First attested compounds: ἀμερσίγαμος ’depriving of wedlock’ (Nonn.),
+ἀμερσίνοος ‘depriving of mind’ (ibid.), ἀμερσίφρων ‘depriving of mind’ (Hsch.)
+-----
+Onomastic compounds: None.
+-----
+Appellative compounds: None apart those above.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+ἀμεύομαι ‘surpass, pass over’ (I)
+-----
+FC: ἀμευσι-, ἀμευσo-
+-----
+First attested compound: ἀμευσιεπής ‘surpassing words’ (Pi.), ἀμευσίπορος
+‘shifting the path’ (ibid.)
+-----
+Onomastic compounds: Ἀμεύἱππος (Laconia ca. 500 BC),  ̓Αμευσίχαρμος (Crete
+3rd–2nd c.),  ̓Αμευσόπολις (Thessaly 4th c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+ἀνάσσω ‘to be lord, rule’ (IVb)
+-----
+FC: ἀναξι-
+-----
+First attested compound:  ̓Αναξίμανδρος (Ionia 7th c.).
+-----
+Appellative compounds: ἀναξίαλος ‘ruling the sea’ (Bacch.), ἀναξιβρέντᾱς
+‘ruling the thunder’ (ibid.), ἀναξίμολπος ‘queen of song’ (ibid.), ἀναξιφόρμιγξ
+‘ruling the lyre’ (Pi.), ἀναξιδώρα ‘queen of gifts’ (Soph., explained as ἡ ἀνάγουσα
+δῶρα by the scholia).
+-----
+Onomastic compounds:  ̓Αναξαγόρᾱς (Aegina 6th–5th c.),  ̓Ανάξανδρος (Sparta
+7th c.),  ̓Αναξαρέτη (Delos 3rd c.),  ̓Ανάξαρχος (Thrace ca. 380–320),  ̓Ανάξερμος
+
+===
+(Lesbos 3rd c.), Ἀναξιβία (Thera 6th c.),  ̓Αναξίβουλος (Thasos ?a. 250 BC),
+ ̓Αναξίδᾱμος (Sparta 7th c.),  ̓Αναξίδικος (Thrace ca. 500–475), Ἀναξίδωρος (Athens
+459 BC),  ̓Αναξίθεμις (Delos 304 BC),  ̓Αναξίθεος (Tenos 3rd c.),  ̓Αναξίθυμος
+(Rhodes 1st c.)  ̓Αναξικλῆς (Athens 4th c.),  ̓Αναξικράτης (Thera ?6th c.), Ἀναξίλᾱς
+(Rhegion 6th–5th c.),  ̓Αναξίμβροτος (Rhodes ca. 325 BC),  ̓Αναξιμένης (Camarina
+5th c.),  ̓Αναξινόη (Tenos 3rd c.),  ̓Αναξίπολις (Thasos 5th c.),  ̓Ανάξιππος (Cyrene
+5th c.),  ̓Αναξίστρατος (Cimmerian Bosporos 4th c.),  ̓Αναξίτιμος (Telos 5th–4th c.),
+ ̓Αναξίφιλος (Euboea 3rd c.).
+-----
+Agent nouns: ἀνάκτωρ ‘lord, ruler’ (Aesch.). ἄναξ ‘has the same semantics.
+-----
+V2 compounds: None, but compounds in -αναξ express verbal semantics:
+ἀστυάναξ ‘lord of the city’ (PN in Hom. and appellative in Aesch.), ἱππιάναξ ‘king
+of horsemen’ (Aesch.), χειρῶναξ ‘master of his hands, handicraftsman’ (Hdt.),
+εὐρυάναξ ‘wide-ruling’ (Bacch.), εὐδιάναξ ‘ruler of the calm’ (Luc.).
+
+===
+ἁνδάνω ‘please, delight’ (I)
+-----
+FC: ἁδησι-
+-----
+First attested compound: wa-ti-ko-ro /Wāstikhoros/. In alphabetic Greek, the fol-
+lowing short forms may be derived from the stem of the future ἁδήσω: ϝhαδήσιος
+(Corinth 6th c.). A sigmatic stem (see the later aorist ἧσα in Plot.) may also be
+behind the following names: ϝᾱσάνδρειος (Pherai 4th c.), ϝᾱσάνωρ (Thessaly,
+6th–5th c.), ϝᾱσίδᾱμος (Thessaly 6th–5th c.), ϝᾱσικράτεις (Thessaly 4th c.). Some
+of the Attic-Ionic names in Ἡσ- may also belong here: see Meier-Brügger (1990),
+the analysis of Ἡσίοδος below and Chapter 5, section 5.3.2.
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+ἀνύω ‘accomplish’ (II)
+-----
+FC: ἀνυσι-
+-----
+First attested compound: ἀνυσίεργος ‘finishing work’ (Theocr.).
+-----
+Onomastic compounds:  ̓Ανυσικλῆς (Rhodes 4th–3rd c.).
+-----
+Agent nouns: ἀνυτής ‘tax-collector’ (Just.).
+-----
+V2 compounds: None.
+
+===
+ἅπτω ‘touch’ (II)
+-----
+FC: ἁψι-, ἁπτ(ε)-
+-----
+First attested compound: ἁψίκορος ‘quickly sated’ (lit. ‘reaching satiety’, Pl.).
+-----
+Onomastic compounds: Ἁψιμάχις (Macedonia 3rd c. AD), Ἅψιππος (Arcadia 2nd
+c.).
+
+===
+-----
+Appellative compounds: ἁψιμαχία ‘skirmish’ (i.e. ‘just engaging in battle’, Plu.;
+cf. also ἁψίμαχος Alex. Aphr.), ἁψικάρδιος ‘heart-touching’ (M. Ant.), ἁψίμοθος
+‘kindling conflict’ (Nonn.).
+-----
+Agent nouns: ἐφάπτωρ ‘one who touches or caresses’ (Aesch.).
+-----
+V2 compounds: None.
+
+===
+ἀράομαι ‘pray, invoke’ (II)
+-----
+FC: ἀρησι-
+-----
+First attested compound:  ̓Αρησίμβροτος ‘invoking mortals’ (Delos 359/8).
+-----
+Onomastic compounds:  ̓Αρήσιππος (Messenia 2nd c.): for this name, see Chapter 5
+section 5.3.2.
+-----
+Appellative compounds: None.
+-----
+Agent nouns: ἀρητήρ ‘prayer, priest’ (Hom.).
+-----
+V2 compounds: None.
+
+===
+ἀραρίσκω ‘fit together’ (IV)
+-----
+FC: ἀρτι-, ἀρσι-
+-----
+First attested compound: a-ti-pa-mo /Artiphāmos/.
+-----
+Onomastic compounds: PNs in Ἀρσι- could be connected to this verb: see those
+under ἀείρω.
+-----
+Appellative compounds: ἀρτιεπής ‘he who fits together words; good at talking’
+(Hom). These compounds from ἀραρίσκω were soon assimilated to the adjective
+ἄρτιος, with the result that new formations were created in which the FC had the
+semantics of the adjective: e.g. ἀρτίδακρυς ‘ready to weep’ (Eur.). This semantic
+shift may have started already in Homeric Greek, where ἀρτίφρων ‘ready of mind’
+may have been formed as a V1 compound (‘he who puts together his mind’) but its
+meaning was assimilated to that of ἄρτιος. See discussion in Chapter 4, sections
+7.1 and 8.6, and Chapter 6, section 3.2.
+-----
+Agent nouns: None.
+-----
+V2 compounds: πυλάρτης ‘gate-fastener’ (Hom.), λιθάρτης ‘assembling stones’?
+(IG 22.1454a.col.II.272, Athens 371/0: see Chapter 6, section 3.2). A few and later
+other compounds in -αρτης seem to derive from αἴρω ‘lift’, e.g. νεκροάρτης
+‘remover of corpses’ (AJP 34.448, Egypt ca. 2nd c. AD).
+
+===
+ἀρκέω ‘assist; suffice’ (IVa)
+-----
+FC: ἀρκεσι-
+-----
+First attested compound:  ̓Αρκεσίλᾱος ‘warding off the enemy’ (Hom.).
+-----
+Appellative compounds: ἀρκεσίβουλος ‘availing in council’ (Cerc.).
+-----
+Onomastic compounds:  ̓Αρκέδημος (?Athens 323/1),  ̓Αρκεσίδᾱμος (Kalymnos
+3rd–2nd c.),  ̓Αρκέφιλος (Athens 331/0),  ̓Αρκέφρων (Euboea 4th–3rd c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: Only forms in -ής with active meaning, which may start off as
+bahuvrihis (ποδαρκής ‘providing defence with his feet’?, Hom.) but soon acquire
+a fully verbal meaning (see analysis in Chapter 6, section 4.2). Ancient Greek has
+the following forms: (Liter.) γυιαρκής ‘strengthening the limbs’ (Pi.), ξεναρκής
+‘aiding strangers’ (ibid.), αὐτάρκης ‘sufficient in oneself’ (Aesch.), πανταρκής
+‘all-powerful’ (or ‘defending all’?’ ibid.), πολυαρκής ‘much-helpful’ (Hdt.),
+βιαρκής ‘supplying the necessaries of life’ (Archias Epigr.), ὀλιγαρκής ‘contented
+with little’ (Luc.). (Ep.) ζωαρκής ‘life supporting’ (Miletus 4th c. AD).
+
+===
+ἁρπάζω ‘snatch away’ (IV)
+-----
+FC: ἁρπαξι-, ἁρπα-?
+-----
+First attested compound: ἁρπάξανδρος ‘snatching away men’ (Aesch.).
+-----
+Appellative compounds: ἁρπαξίβιος ‘living by rapine’ (Archestr.), ἁρπαξομίλης
+‘snatching the pleasures of sexual intercourse’ (Phryn. = fr. adesp. 597 K.-A.).
+-----
+Onomastic compounds: Ἁρπάλυκος (Thessaly 3rd c.).
+-----
+Agent nouns: ἁρπακτήρ (Hom.), ἁρπακτής (Call.): both ‘robber’; ἁρπαστής
+‘ravish’ (Tat.).
+-----
+V2 compounds: δελέαρπαξ ‘snapping at the bait’ (Leon.).
+
+===
+ἀρτύω ‘prepare, make ready’ (IV)
+-----
+FC: ἀρτυ-, ἀρτυσι-
+-----
+First attested compound:  ̓Αρτυσίλεως ‘one who prepares the army (for battle)’
+(Thasos 6th c.).  ̓Αρτυσίλᾱος is also the name of a public servant at Delos (Athen.).
+-----
+Onomastic compounds:  ̓Αρτυκλῆς (Epidauros ca. 370–365),  ̓Αρτύλᾱος (Boeotia
+b. 338 BC),  ̓Αρτύλοχος (Euboea 4th–3rd. c.),  ̓Αρτύμαχος (Tenos 3rd c.),
+ ̓Αρτυμήδᾱ (Thera ?4th–3rd c.),  ̓Αρτυσίλεως (Thasos 6th–5th c.),  ̓Αρτυσίτραγος?
+(Delos hell.?).
+-----
+Agent nouns: ἀρτυτήρ ‘director’ (IG 12(3).330.144–145, Thera, 3rd c.).
+-----
+V2 compounds: ὀψαρτυτής ‘cook’ (Hyp.).
+
+===
+ἄρχω ‘begin, lead’ (IV)
+-----
+FC: ἀρχε-, ἀρχι-, ἀρχεσι-
+-----
+First attested compound: a-ke-wa-ta /Arkhewastās/, a-ke-wa-to /Arkhewastos/,
+a-ke-ra-wo /Arkhelāwos/.
+-----
+Appellative compounds: ἀρχέκακος ‘beginning mischief’ (Hom.), ἀρχεσίμολπος
+‘beginning the song’ (Stes.), ἀρχέπολις ‘ruling a city’ (Pi.; elsewhere as PN),
+ἀρχέχορος ‘leading the chorus’ (Eur.). These are the forms which preserve a clear
+governing structure; I have excluded compounds in which the FC ἀρχι- or ἀρχε-
+functions has a prefix meaning ‘chief’ as they have acquired determinative struc-
+ture and are not in competition with V2 compounds: see Chapter 2, section 4.4; Chapter 4, section 3.2 and Chapter 6, section 3.1.
+-----
+Onomastic compounds: Ἀρχάγαθος (Athens ca. 440–420), Ἀρχαγόρᾱς (Argos
+401 BC), Ἀρχάγορος (Thessaly 457 BC), Ἀρχανδρίδης (Euboea 4th c.), Ἀρχαρέτη
+(Euboea ?3rd c.), Ἀρχεάνασσα (Lesbos 7th–6th c.), Ἀρχεάναξ (Rhodes ca. 450–
+411), Ἀρχέβιος (Athens 5th c.), Ἀρχέβουλος (Thrace 5th–4th c.),  ̓Αρχέδειπνος
+(Athens 324/3), Ἀρχέδημος (Athens ca. 450 BC), Ἀρχεδίκᾱ (Thessaly 7th c.),
+Ἀρχεθάλης (Camarina 5th c.), Ἀρχεκράτης (Argos ?ca. 460–450), Ἀρχέκωμος
+(Athens 4th c.), Ἀρχέλᾱος (Sparta 8th c.), Ἀρχέμαχος (Euboea 5th c.), Ἀρχέμβροτος
+(Sparta 7th c.), Ἀρχέμηλος (Delphi ?320 BC), Ἀρχέμορος (Euboea 3rd c.), Ἀρχε-
+ναύτης (Athens ca. 440 BC), Ἀρχένεως (Athens ca. 550 BC), Ἀρχένικος (Athens
+4th c.), Ἀρχένοθος (Euboea 4th–3rd c.), Ἀρχένομος (Athens 405 BC), Ἀρχένοος
+(Sicyon 6th–5th c.), Ἀρχέπολις (Thasos 6th–5th c.), Ἀρχεπτόλεμος (Athens 5th
+c.), Ἀρχεσίλᾱς (Argos ?ca. 575–550), Ἀρχεστρατίδης (Athens 577/6), Ἀρχέτιμος
+(Athens 5th c.), Ἀρχέφιλος (Paros hell.?), Ἀρχέφρων (Euboea 4th c.), Ἀρχιλέων
+(Argolis 3rd c.), Ἀρχίλοχος (Paros 7th c.), Ἀρχίμυθος (Taras ca. 315–280 c.), Ἀρχί-
+ξενος (Doris 2nd c.),  ̓́Αρχιππος (Samos ?6th–5th c.), Ἀρχιτέκτων (Athens 4th c.),
+Ἀρχιτέλης (Chios? 6th c.).
+-----
+Agent nouns: ἀρχός ‘leader’ (Hom.), ἀρχέτᾱς ‘leader’ (Eur.).
+-----
+V2 compounds: Myc. ka-ra-na-ko may indicate the ‘supervisor of water supply’
+(/krānarkhos/). AG compounds in -αρχος are among the most productive V2 types.
+The following forms are attested before the 3rd c.: μoύναρχος ‘sole ruler’ (Thgn.),
+ἀρίσταρχος ‘best-ruling’ (Simon.), ἵππαρχος ‘ruling the horse’ (Pi.; later ‘com-
+mander of cavalry’, Hdt.), πολίαρχος ‘ruler of a city’ (ibid.), στράταρχος ‘general
+of an army’ (ibid.), πλείσταρχος ‘holding widest sway’ (Bacch.), πολέμαρχος
+‘war-lord’ (ibid.), βούλαρχος ‘adviser of a plan’ (Aesch.), ναύαρχος ‘commander
+of a fleet’ (ibid.), στασίαρχος ‘chief of a band’ (ibid.), τόξαρχος ‘lord of the bow’
+(ibid.), χιλίαρχος ‘captain over a thousand’ (ibid.), νόμαρχος ‘governor of a
+region’ (Hdt.), στέγαρχος ‘master of the house’ (ibid.), ταξίαρχος ‘commander of
+a corps’ (ibid.), τριήραρχος ‘captain of a trireme’ (ibid.), φύλαρχος ‘chief officer
+of a φυλή’ (ibid.), πάναρχος ‘ruling all’ (Soph.), τεκτόναρχος ‘chief of the build-
+ers’ (ibid.), ὀρνίθαρχος ‘king of birds’ (Aristoph.), περιπόλαρχος ‘commander of
+a patrol’ (Thuc.), Βοιοώταρχος ‘chief magistrate of the Boeotian league’ (Xen.),
+δεκάδαρχος ‘commander of ten men’ (ibid.), δωδεκάδαρχος ‘leader of twelve’
+(ibid.), ἑκατόνταρχος ‘commander of a hundred’ (ibid.), μυρίαρχος ‘commander
+of 10,000 men’ (ibid.), πέζαρχος ‘leader of infantry’ (ibid.), πεμπάδαρχος ‘com-
+mander of five’ (ibid.), πεντηκόνταρχος ‘commander of fifty men’ (ibid.),
+συμποσίαρχος ‘president of a drinking-party’ (ibid.), φρούραρχος ‘commander
+of a watch’ (ibid.), φρατρίαρχος ‘president of a φρατρία’ (Dem.), γυμνασίαρχος
+
+===
+‘superintendent of athletic training’ (And.), εὔαρχος ‘governing well’ (Lycophr.),
+λῄταρχος ‘public priest’ (ibid.).
+Most of these forms are duplicated by forms in -άρχης, which are collected in
+Buck-Petersen 10–11. On these, see the commentary in Chapter 6, section 3.1.
+
+===
+αὔξω/ἀέξω ‘increase’ (II)
+-----
+FC: αὐξι-, ἀεξι-, αὐξο-, αὐξησι-
+-----
+First attested compound: αἐξίγυιος ‘strengthening the limbs’ (Pi.).
+-----
+Appellative compounds: (Liter.) αἐξίφυλλος ‘nourishing leaves’ (Aesch.),
+αἐξίφυτος ‘nourishing plants’ (Mel.), αἐξίτροφος ‘promoting growth’ (Orph. H.),
+αὐξιφαής ‘increasing light’ (Man.), αἐξίνους ‘strengthening the mind’ (Procl.),
+αἐξίτοκος ‘nourishing the fruits of the womb’ (ibid.), αὐξίδημος ‘increasing the
+people’ (Hsch.), αὐξιφωτία ‘increase of light’ (Lyd.), αὐξοσέληνον ‘waxing of the
+moon’ (Maced.). (Ep.) αἐξίκερως ‘growing horns’ (IG 14.1301, Rome; Kaibel: ‘ex
+recentissimis’),
+-----
+Onomastic compounds: Αὐξίβιος (Delos 218 BC). There are no names with a FC
+ἀεξι-. The FC αὐξησι- only appears in Αὐξησιλεώ (Scythia Minor 4th c.). See also
+Ἀυξίᾱς (Euboea 3rd c.) and the name of the goddess of growth Ἀυξώ in Paus.
+9.35.2.
+-----
+Agent nouns: αὐξητής ‘increaser’ (Orph. H.).
+-----
+V2 compounds: None. μυελαυξής ‘increasing the marrow’ (Hsch.) is a late hapax.
+
+===
+βαίνω ‘step’ (IV)
+-----
+FC: βητι-
+-----
+First attested compound: βητάρμων ‘dancer’ (originally ‘someone who steps
+on wheels’; Hom.), creating the derivative βηταρμός ‘dance’ (A.R.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: None. The FC Βητι- may be attested in the Kurzname
+Βητίδᾱς (Orchomenos ca. 215 BC).
+-----
+Agent nouns: βάτης ‘one that treads or covers’ (Philox. Gramm.), βατήρ (Amips.)
+has the semantics of a nomen rei actae: ‘that on which one treads, threshold’.
+-----
+V2 compounds: ἐμπυριβήτης ‘standing on the fire’ (Hom.). The most common
+type however ends in -βάτης, which is attested already in Homer with the PN
+Εὐρυβάτης. The full list is provided by Buck-Petersen 546. The following fully
+nominal compounds are attested before the 3rd c.: αἰγιβάτης ‘goat-mounting’
+(Pi.), ἁβροβάτης ‘one who steps delicately’ (Bacch.), Ἁιδοβάτης ‘one who has
+gone to the nether world’ (Aesch., probable), αὐριβάτης ‘swift-striding’ (Aesch.),
+ἑλειοβάτης ‘walking the marsh’ (ibid.), ἱπποβάτης ‘horseman’ (ibid.), ναυβάτης
+‘seaman’ (ibid.), τεθριπποβάτης ‘driver of a four-horse chariot’ (Hdt.), ὀρειβάτης
+‘mountain-ranging’ (Soph.), πτερνοβάτης ‘one who walks on his heels’ (Hippocr.),
+
+===
+κιγκλοβάτης ‘moving like the a dabchick’ (Aristoph.), στυλοβάτης ‘base of a
+column’ (Plato Com.), ̓λιβάτᾱς ‘haunting the heights’ (Antiph.).
+
+===
+βλάπτω ‘damage’ (IVa)
+-----
+FC: βλαψι-
+-----
+First attested compound: βλαψίφρων ‘damaging the mind, maddening’
+(Aesch.).
+-----
+Appellative compounds: βλαψίταφος ‘violating the grave’ (IG 14.943 Latium,
+4th c. AD).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None. Bahuvrihis from βλάβος ‘damage’ develop into a verbal
+type: cf. φρενοβλαβής ‘damaging the mind’ (Hdt.), μεγαλοβλαβής ‘greatly injur-
+ing’ (Apollon. Soph.), σθενοβλαβής ‘hurting the strength’ (Opp.), etc.
+
+===
+βλέπω ‘see, look’ (IV)
+-----
+FC: βλεπε-
+-----
+First attested compound: βλεπεδαίμων ‘looking like a ghost’ (fr. adesp. 749
+K-A).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: Βλε(πέ)πυρος? (Eretria 4th c.). The FC Βλεψι- may
+appear in Kurznamen such as Βλεψίας (Delos 250 BC).
+-----
+Agent nouns: None.
+-----
+V2 compounds: κυνοβλώψ ‘with a dog’s look’ (Hsch.), πολυβλέπων ‘much-see-
+ing’ (PLond. 5.1821.268, 6th c. AD).
+
+===
+βόσκω ‘feed’ (IV)
+-----
+FC: βωτι-
+-----
+First attested compound: βωτιάνειρα ‘feeding men’ (Hom.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: There are no compounds from βόσκω. The FC βωτι- may
+be behind the Kurzname Βῶτος (Camarina 6th c.).
+-----
+Agent nouns: βοτήρ ‘herdsman’ (Hom.), βώτωρ ‘herdsman’ (ibid.), βοσκός
+(Aesop.).
+-----
+V2 compounds: su-qo-ta = συβώτης ‘swineherd’ (Hom.), qo-u-qo-ta = βουβότης
+‘cowherd’, μηλοβοτήρ ‘herdsman’ (ibid.), μηλοβότης ‘shepherd’ (Pi.), βουβότης
+‘someone who feeds cattle’ (ibid.), οὐρεσιβώτης ‘feeding on the mountains’
+(Soph.), οἰοβώτας ‘feeding alone’, ἀγροβότης ‘feeding in the fields’ (ibid.),
+ἱπποβότης ‘feeder of horses’ (Hdt.), συβότης ‘swineherd’ (Aristot.), ὑοβότης
+‘swineherd’ (Hsch.)., ὀρφοβότης ‘someone who brings up orphans’ (ibid.).
+
+===
+Other compounds are created from the secondary agent noun βοσκός: αἰγοβοσκός
+‘goatherd’ (Aesop.), πολύβοσκος ‘much-nourishing’ (Pi.), χηνοβοσκός ‘gooseherd’
+(Cratin.), πορνοβοσκός ‘brothel-keeper’ (Myrtil.), ἀνθοβοσκός ‘nourishing flowers’
+(Soph.), γηροβοσκός ‘nourishing those in old age’ (ibid.), μηλοβοσκός ‘sheep-feed-
+ing’ (Eur.), κραιπαλόβοσκος ‘which feeds on drunkenness’ (said of thirst; Sopat.),
+αἰλουροβοσκός ‘keeper of sacred cats’ (PSI 4.440.2, 3rd c.), ἰβιοβοσκός ‘keeper
+of the sacred ibis’ (PCairZen. 270.7, 3rd c.), ἱερακοβοσκός ‘hawk-feeder’ (PPetr.
+3p.239, 3rd c.), καμηλοβοσκός ‘camel-herd’ (Str.), κυνοβοσκός ‘feeder of sacred
+jackals’ (Sammelb. 5796, 1st c.), ἀρηνοβοσκός ‘shepherd’ (Paus.), παιδοβοσκός
+‘keeping boys’ (Luc.), χειροβοσκός ‘supporting oneself by manual work’ (Poll.),
+ἱπποβοσκός ‘feeding horses’ (Ael.), κροκοδιλοβοσκός ‘feeder of sacred crocodiles’
+(BGU 734.2.7, 3rd c. AD), προβατοβοσκός ‘shepherd’ (Hsch.), βοοβοσκός ‘herds-
+man’ (Suid.), χοιροβοσκός ‘swineherd’ (schol. D Il.).
+There is a certain amount of semantic exchange between forms in -βότης and
+forms in -βοτος: the former acquire passive semantics in αἰγιβότης ‘browsed by
+goats’ (Leon.), while the latter acquires active meaning in e.g. αἰγιβότος ‘feeding
+goats’ (Nonn.). Compounds in -βοσκος also show the odd passive meaning: see
+e.g. χιονόβοσκος ‘nourished by snow’ (Aesch.).
+
+===
+βούλομαι ‘wish, will’ (I)
+-----
+FC: βουλο-
+-----
+First attested compound: βουλόμαχος ‘desiring strife’ (Aristoph.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: There are numerous PNs with a FC Βουλ-, which often
+represents the noun βουλή. For a possible V1 interpretation, cf. Βουλαγάθᾱ ‘she
+who desires/wishes well’? (Nisyros 2nd c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+βρίθω ‘weigh down, press with’ (I)
+-----
+FC: βρισ-
+-----
+First attested compound: qi-ri-ta-ko /Gwrītharkhos/?
+-----
+Appellative compounds: βρισάρματος ‘chariot-pressing’ (Hes.)
+-----
+Onomastic compounds: V1 PNs from the s-aorist seem to be represented by the
+Kurzname Βρισηΐς, in which the FC probably means ‘full of’ (beauty, wealth, etc.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None. The limited class of compounds in -βριθής (e.g. ἀβριθής
+‘without weight’, Eur.) are mostly bahuvrihis formed with βρῖθος ‘weight’; their
+meaning is passive.
+
+===
+βρύω ‘swell with’ (I)
+-----
+FC: βρυσ(ι)-
+first attested compound: None, but the existence of compounds in βρυσ(ι)-
+may be testified by the Kurzname Βρύσων (Acarnania ca. 425–400).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+γάνυμαι ‘brighten up’ (I)
+-----
+FC: γανυ-
+-----
+First attested compound: Γανυμήδης (Hom.).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+γιγνώσκω ‘know’ (IV)
+-----
+FC: γνωσι-
+-----
+First attested compound: Γνωσίδημος (Euboea 4th c.).
+
+===
+-----
+Appellative compounds: None. The four compounds in γνωσι- show the action
+noun γνῶσις ‘knowledge’ in the FC: e.g. γνωσιμαχέω ‘fight having knowledge of
+one’s power’ (Hdt.).
+-----
+Onomastic compounds: Γνωσάνωρ (Lesbos hell.), Γνωσίδικος (Delos 314–250 BC),
+Γνωσίλᾱος (Delphi 166 BC), Γνώσιππος (Sparta 3rd c.), Γνωσιφίλᾱ (Thessaly 186 BC).
+-----
+Agent nouns: γνωστήρ ‘one that knows: surety’ (Xen.), γνώστης ‘one that
+knows’ (NT).
+-----
+V2 compounds: καρδιογνώστης ‘knower of hearts’ (NT).
+
+===
+δάκνω ‘bite’ (IV)
+-----
+FC: δακε-, δηξι-
+-----
+First attested compound: δακέθυμος ‘biting the heart, heart-vexing’ (Simon.).
+-----
+Appellative compounds: δηξίθυμος ‘biting the heart’ (Aesch.).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: δήκτης ‘biter’ (Eur.).
+-----
+V2 compounds: λαθροδήκτης ‘biting secretly’ (Phryn.). The most common agen-
+tive V2 compounds are those in -δακής: θυμοδακής ‘biting the heart’ (Hom.),
+ὠμοδακής ‘fiercely gnawing’ (Aesch.), λαιμοδακής ‘throat-biting’ (Phil. Epigr.),
+σαρκοδακής ‘eating flesh’ (Orph. Fr.).
+
+===
+δάμνημι/δαμάζω ‘tame’ (IV)
+-----
+FC: δαμασι-, δαμν(α-)
+-----
+First attested compound: δαμασίμβροτος ‘taming mortals’ (Simon.).
+-----
+Onomastic compounds: The Kurzname Δάμασος (Hom.) is the first attestation of
+a personal name with a FC δαμασι-.
+-----
+Appellative compounds: δαμασίφρων ‘taming the heart’ (Pi.), δαμασίχθων
+‘earth-subduer’ (Bacch.), δαμάσιππος ‘horse-taming’ (Lamprocles, perhaps to
+be attributed to Stesichorus?), δαμασικόνδυλος ‘conquering with the knuckles’
+(Eup.), δάμνιππος ‘horse-taming’ (Orph. A.).
+-----
+Onomastic compounds: Δαμασαγόρας (Tenedos 4th c.), Δαμασάνωρ (Cyrene 5th
+c.), Δαμασικλῆς (Athens 4th c.), Δαμασικράτης (Rhodes? ca. 250–175), Δαμασίλᾱς
+(Rhodes ca. 261 BC), Δαμασίπολις (Thessaly ?3rd–2nd c.), Δαμάσιππος (Thrace
+5th c.), Δαμασίστρατος (Athens ca. 530–520), Δαμναγόρας (Thrace 4th c.),
+Δαμνασυλλίς (Syracuse 5th c.), Δάμνιππος (Athens? 404 BC), Δαμνοδίκᾱ (Lesbos
+imp.).
+-----
+Agent nouns: δμητήρ ‘tamer’ (Hom.), δαμαστής ‘tamer’ (Ps. Epich.? See
+Chapter 6, section 3.1).
+-----
+V2 compounds: ἱππόδαμος ‘tamer of horses’ (Hom.), γυιόδαμος ‘taming limbs’
+(Pi.), θειόδαμος ‘taming the gods’ (Orac. ap. Porph.). Agentive semantics is also
+expressed by compounds in -δάμᾱς: (Liter.) Λαοδάμᾱς ‘subduer of peoples’
+(Hom.; later also as an appellative), ἀνδροδάμᾱς ‘man-taming’ (Pi.), λεοντοδάμᾱς
+‘lion-taming’ (ibid.). χαλκοδάμᾱς ‘subduing bronze’ (ibid.), τοξοδάμᾱς ‘subduing
+with the bow’ (Aesch.), κεκραξιδάμᾱς ‘conquering all in bawling’ (Aristoph.; but see
+also under κράζω), ἀστροδάμᾱς ‘subduing the stars’ (PGM 4.603, 3rd c. AD). (Ep.)
+Ἀστυδάμᾱς (Athens ca. 560 BC), Δᾱμοδάμᾱς (Delphi 321 BC), Χαλκοδάμανς (Argos?
+ca. 625–600). Compounds in -δαμαστής are only two: πωλοδαμαστής ‘tamer of
+foals’ (PMich.Zen. 71.4, 3rd c.) and ἱπποδαμαστής ‘tamer of horses’ (Poll.).
+
+===
+δείδω ‘fear’ (I)
+-----
+FC: δεισι-, δειδι-?
+-----
+First attested compound: Δεισήνωρ (Hom.).
+-----
+Appellative compounds: ἀδεισιβόᾱς ‘not fearing the battle cry’ (Bacch.),
+ἀδεισιδαιμονία ‘freedom from superstition’ (Hippocr.), δεισιδαίμων ‘fearing the
+gods’ (Xen.), ἀδεισιδαίμων ‘without superstition’ (D.S.), ἀδεισίθεος ‘not fearing
+the gods’ (Jul.).
+-----
+Onomastic compounds: Δεισίθεμις (Rhodes 2nd c.), Δεισίθεος (Athens ca. 480
+BC), Δείσιππος (Thessaly ca. 190–180). The present stem may appear in Δειδίκυρος
+(Macedonia 2nd c. AD).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+δέρκομαι ‘see’ (IVa)
+-----
+FC: δερκε-
+-----
+First attested compound: None, but the stem of the verb seems to be contained
+in the Kurzname Δέρκᾱς (Troezen 4th c.).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: Compounds in -δερκής cover for the lack of agentive compounds.
+The following forms have active semantics: πολυδερκής ‘much-seeing’ (Hes.),
+ξανθοδερκής ‘with fiery eyes’ (lit. ‘looking with red [eyes]’, Bacch.), ὀβριμοδερκής
+‘with a mighty glance’ (ibid.), ὀξυδερκής ‘quick-sighted’ (Hdt.), λιθοδερκής ‘pet-
+rifying with a glance’ (Antiphil.), πανδερκής ‘all-seeing’ (Q.S.), μεσοδερκής
+‘looking towards the middle’ (Man.), γλυκυδερκής ‘with a sweet glance’ (Hsch.),
+κακοδερκής ‘with a bad glance?’ (ibid.).
+
+===
+δέχομαι ‘receive’ (IV)
+-----
+FC: δεξι-
+-----
+First attested compound: Δέξανδρος (Corinth 8th c.), δεξίστρατος ‘receiving
+the host’ (Bacch.).
+-----
+Appellative compounds: δεξίπυρος ‘receiving fire’ (Eur.)
+-----
+Onomastic compounds: Compound PNs, as well as Kurznamen, are frequent:
+Δεξαγόρᾱς (Rhodes 3rd–2nd c.), Δεξαρέτᾱ (Boeotia 5th c.), Δέξαρχος (Cyrene 3rd
+c.), Δεξενίκᾱ (Phokis 3rd c.), Δεξίβιος (Amorgos 4th c.), Δεξίβουλος (Rhodes ca.
+180–170), Δεξιγίτων (Boeotia ?3rd–2nd c.), Δεξίδημος (Euboea 4th c.), Δεξίθεος
+(Sicyon 6th–5th c.), Δεξικλῆς (Rhodes ca. 400 BC), Δεξικράτης (Samos 6th c.),
+Δεξίκριτος (Boeotia 3rd–2nd c.), Δεξίλᾱϝος (Sybaris 6th c.), Δεξίλοχος (Arcadia
+4th–3rd c.), Δεξίμαχος (Athens? ca. 440–430), Δεξίμβροτος (Rhodes ca. 325 BC),
+Δεξιμένης (Athens 4th c.), Δεξιναύτᾱς (Rhodes 1st c. BC–1st c. AD), Δεξίνικος
+(Athens 4th–3rd c.), Δεξίνομος (Athens 5th c.), Δεξίξενος (Athens 335/4), Δεξίοχος
+(Athens 138/7), Δεξίπολις (Delos 298 BC), Δέξιππος (Sparta 6th c.), Δεξισθένης
+(Boeotia ?202 BC), Δεξίστρατος (Argos ca. 400 BC), Δεξιτέλης (Amorgos 4th–3rd c.),
+Δεξιφάνης (Arcadia 4th–3rd c.), Δεξίφιλος (Athens 450–430), Δεξίχαρις (Rhodes
+ca. 180–140 BC).
+-----
+Agent nouns: δέκτης ‘receiver, beggar’ (Hom.), δεκτήρ ‘receiver’ (title of an offi-
+cial, Mantinea 2nd-1st c.).
+-----
+V2 compounds: πολυδέγμων and πολυδέκτης ‘the All-receiver, Hades’ (H. Hom.
+Cer.), δωροδέκτης ‘one that takes bribes’ (LXX), πανδέκτης ‘all-receiver’ (name of
+universal dictionaries, Clem. Al.), σιταποδέκτης ‘corn-collector’ (PFlor. 43.9, 4th c.
+AD), χρυσυποδέκτης ‘receiver of taxes in gold’ (Stud. Pal. 8.1111.5, 6th c. AD). The
+most common types however are those in -δοκος (first form ἰοδόκος ‘holding
+arrows’, Hom.), -δοχος (first form ξενηδόχος ‘one who receives strangers’, Men.)
+
+===
+which together add up to more than a hundred forms in Buck-Petersen. They may
+have started off in Mycenaean, with the PN ra-wo-do-ko /Lāwodokos/. Most spec-
+imina however are attested in Late Greek.
+
+===
+δίδωμι (IV)
+-----
+FC: **δωτι- (cf. Δωτώ), δωσι-
+-----
+First attested compound: The first trace of a V1 compound from δίδωμι is the
+Kurzname Δωτώ (Hom.); see too Δῶτος (Archil.).
+-----
+Appellative compounds: δωσίδικος ‘referring disputes to a court’ (Hdt.),
+δωσίβιος ‘life-giving’ (Mus. Belg. 16.70, Attica 2nd c. AD), δωσιάρα ‘giving evil’
+(Hsch.), δωσίπυγος ‘offering the arse, sodomite’ (Suid.).
+-----
+Onomastic compounds: Δωσιάναξ (Rhodes ca. 285 BC), Δωσίθεος (Rhodes
+4th–3rd c.), Δωσισθένης (Thera 2nd c.).
+-----
+Agent nouns: δωτήρ (Hom.), δώτωρ (ibid.), δοτήρ (ibid.), δώτης (Hes.), δότης
+(LXX): all ‘giver’.
+-----
+V2 compounds: ἀδώτης ‘non-giver’ (coined as the antithesis of δώτης, Hes.),
+χαριδώτης ‘joy-giver’ (H. Hom. Merc.), ̓πιοδώτης ‘giver of gifts’ (Orph. H., Εὐχή),
+ὀλβιοδώτης ‘bestower of bliss’ (Orph. H.), ἐλπιδοδώτης ‘giver of hope’ (AP
+9.525.6, adesp.), μεθυδώτης ‘giver of wine’ (AP 9.524, adesp.), ̔ρεσιδώτης ‘one
+who brings out the seasons’ (AP 9.525.25, adesp.), πνευματοδώτης ‘giver of spirit’
+(PGM 4.1371, 4th c. AD).
+Compounds in -δότης are even more common. A full list is provided by Buck-
+Petersen 561. The following are the earliest forms: πλουτοδότης ‘giver of riches’
+(Hes.), ὑπνοδότης ‘giver of sleep’ (Aesch.), οἰνοδότης ‘giver of wine’ (Eur.),
+ὀλβοδότης ‘giver of bliss’ (ibid.), μισθοδότης ‘paymaster’ (Pl.), βιοδότης ‘giver of
+livelihood’ (ibid.).
+
+===
+διώκω ‘pursue, chase, drive’ (IV)
+-----
+FC: διωξι-
+-----
+First attested compound: διώξιππος ‘driving horses’ (Pi.).
+-----
+Appellative compounds: διωξικέλευθος ‘urging on the way’ (AP: perhaps Phil-
+odemus of Gadara, 1st c.).
+-----
+Onomastic compounds: Διώξανδρος (Athens 326/5), Διωξίμαχος (Athens ca. 450
+BC), Διώξιππος (Athens ca. 550 BC).
+-----
+Agent nouns: διώκτης ‘pursuer’ (NT), διωκτήρ ‘pursuer’ (Babr.).
+-----
+V2 compounds: ἱπποδιώκτης ‘driver of steeds’ (Theocr.), Περσοδιώκτης ‘chaser
+of the Persians’ (Theaet.), ἐργοδιώκτης ‘taskmaster’ (PPetr. 2p.6, 3rd c.), κνισοδιώκ-
+της ‘Fat-hunter’ (name of a mouse in the Batrachomiomachia), λͅστοδιώκτης ‘one
+who chases robbers’ (name of a board game; Gloss.), ὀφιοδιώκτης ‘snake-chaser’
+(ibid.), κολλοποδιώκτης ‘one who chases effeminate men’ (schol. Aristoph.).
+
+===
+δοκέω ‘seem, pretend’ (I)
+-----
+FC: δοκησι-
+-----
+First attested compound: δοκησιδέξιος ‘clever in one’s own conceit’ (Pherecr.).
+-----
+Appellative compounds: δοκησίσοφος ‘wise in one’s own conceit (Aristoph.),
+δοκησίνους ‘one who believes to be clever’ (Poll.), δοκησισοφία ‘conceit of
+wisdom’ (ibid.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None in Ancient Greek.
+
+===
+ἐγείρω ‘rouse, raise’ (II)
+-----
+FC: ἐγρε- (from the aorist ἔγρετο), ἐγερσι-, ἐγρεσι-, ἐγερτι-
+-----
+First attested compound: ἐγρεμάχη ‘rousing the fight’ (H. Hom. Cer.).
+-----
+Appellative compounds: ἐγρεκύδοιμος ‘strife-stirring’ (Hes.), ἐγερσιμάχᾱς
+‘rousing the fight’ (Antip. Sid.), ἐγερσιφαής ‘light-stirring’ (Phil. Epigr.),
+ἐγερσιβόης ‘raising the cry’ (IG 22.3118, Attica 2nd c. AD), ἐγερσίχορος ‘leading
+the dance’ (Opp.), ἐγερσίνοος ‘soul-stirring’ (Nonn.), ἐγρεσίκωμος ‘stirring up to
+revelry’ (ibid.), ἐγερσίγελως ‘rousing laughter’ (Paul. Sil.).
+-----
+Onomastic compounds:  ̓Εγέρτιος (Athens 360–350),  ̓Εγρετίων (Arcadia ca. 425–
+385).
+-----
+Agent nouns: ἐγέρτης (Hdn.), ἐξεγέρτης ‘one who arouses’ (PGM 12.225, 3rd c.
+AD).
+-----
+V2 compounds: None in Antiquity proper; νεκρεγέρτης ‘rousing the dead’ is
+found in the Christus Patiens (11th–12th c. AD).
+
+===
+ἐθέλω ‘to be willing’ (II)
+-----
+FC: ἐθελο-
+-----
+First attested compound: ἐθελόπορνος ‘voluntary catamite’ (Anacr.).
+-----
+Appellative compounds: ἐθέλεχθρος ‘bearing one a grudge’ (Cratin.; cf. also
+the denominative in -έω), ἐθελοσύχνος ‘fond of repetitions’ (ibid.), ἐθελοκακέω
+‘play the coward deliberately’ (Hdt., from the compound ἐθελόκακος, attested
+in D.H.; there are also other derivates), ἐθελοπρόξενος ‘one who voluntarily
+charges himself with the office of πρόξενος’ (Thuc.), ἐθελόπονος ‘willing to work’
+(Xen.), ἐθελουργός ‘willing to work’ (ibid., with denominative ἐθελουργέω),
+ἐθελόδουλος ‘serving voluntarily’ (Pl.; cf. also the derived forms ἐθελοδουλεία and
+ἐθελοδουλέω), ἐθελόκαλος ‘showing goodwill’ (Phld.), ἐθελοκωφέω ‘affect deaf-
+ness’, (S.E.), ἐθελοκίνδυνος ‘courting danger’ (Poll.). ἐθελοθρησκεία ‘will-wor-
+ship’ (NT: Ep. Col.; glossed with ἐθελοσέβεια in Hsch.), ἐθελορήτωρ ‘would-be
+orator’ (Antiatticista), ἐθελάστειος ‘wanting to be refined’ (Hld.), ἐθελακριβής
+‘making pretence of accuracy’ (schol. Luc.), ἐθελοφιλόσοφος ‘would-be philoso-
+
+===
+pher’ (EM). Some of the later forms are more probably determinative compounds
+in which the FC functions as a modifier.
+-----
+Onomastic compounds:  ̓Εθελοκράτης (Athens 4th c.). Other compounds (e.g.
+ ̓Εθέλανδρος) are most probably determinative compounds.
+-----
+Agent nouns: ἐθελοντήρ ‘volunteer’ (Hom.), ἐθελοντής ‘volunteer’ (Hdt.),
+θελητής ‘one who wills’ (LXX).
+-----
+V2 compounds: None. An active type in -θελής develops in Late Antiquity.
+
+===
+εἷλον ‘take, seize’ (I)
+-----
+FC: ἑλε-
+-----
+First attested compound: ἕλανδρος ‘man-destroying’ (Aesch.).
+-----
+Appellative compounds: ἑλέπτολις ‘city-destroying’, ἑλέναυς ‘destroying ships’
+(both Aesch.). These three compounds constitute a set in which Aeschylus plays
+with the name of Helen in the Agamemnon.
+-----
+Onomastic compounds: None.
+Agent noun: None.
+-----
+V2 compounds: None.
+
+===
+εἴλω ‘press, roll up’ (I)
+-----
+FC: εἰλι-
+-----
+First attested compound: εἰλίπους ‘rolling the feet’ (Hom.).
+-----
+Appellative compounds: εἰλιπόδης ‘rolling the feet’ (Nonn.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None. For ἀολλής < *ἀ-ϝολνής ‘all pressed together’ (Hom.), see
+EDG s.v.
+
+===
+ἐλάω ‘drive, set in motion, strike’ (IV)
+-----
+FC: ἐλασι-
+-----
+First attested compound: ἐλάσιππος ‘driving horses’ (Pi.).
+-----
+Appellative compounds: ἐλασιβρόντᾱς ‘hurling thunder’ (Pi.), ἐλασίχθων
+‘earth-striking’ (ibid.).
+-----
+Onomastic compounds:  ̓Ελάσιππος (Aegina? ?5th c.).
+-----
+Agent nouns: ἐλατήρ ‘driver’ (Hom.), ἐλάτης ‘driver’ (Eur.).
+-----
+V2 compounds: Compounds in -ελάτης and -ηλάτης are very common, par-
+ticularly in later Greek, and remain so down to the Byzantine age. A full list is
+available in Buck-Petersen 547. Only the forms which appear before the 3rd c.
+are listed here. ἱππηλάτης ‘driver of horses’ (Hom.), ἁρματηλάτης’charioteer’
+(Pi.), βοηλάτης ‘one that drives away oxen’ (Aesch.), διφρηλάτης ‘charioteer’
+(ibid.), ζευγηλάτης ‘driver of a yoke of oxen’ (Soph.), τροχηλάτης ‘charioteer’
+
+===
+(ibid.). Compounds in -ελάτης are first attested in Plutarchus, with αἰγελάτης
+‘goatherd’.
+
+===
+ἐλελίζω ‘cause to vibrate’ (I)
+-----
+FC: ἐλελι-. Note that it uses the bare stem; -ι- is not a linking vowel.
+-----
+First attested compound: ἐλελίχθων ‘earth-shaking’ (Pi.).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+ἕλκω ‘drag’ (IV)
+-----
+FC: ἑλκε-, ἑλκεσι-
+-----
+First attested compounds: ἑλκεχίτων ‘trailing the tunic’ (Hom.), ἑλκεσίπεπλος
+‘trailing the robe’ (ibid.).
+-----
+Appellative compounds: ἑλκετρίβων ‘cloak-trailer’ (nickname of a Laconian in
+Pl. Com.).
+-----
+Onomastic compounds:  ̔Ελκεβίᾱ (Thessaly hell.).
+-----
+Agent nouns: ὁλκός ‘hauling-engine’ (Hdt.).6
+-----
+V2 compounds: ξιφουλκός ‘drawing a sword’ (Aesch.). The full list of compounds
+in -ουλκός and -ολκός, which are a very frequent type in Greek, is provided by
+Buck-Petersen 672. The following compounds are attested before the 3rd c.:
+τοξουλκός ‘drawing the bow’ (Aesch.), κερουλκός ‘drawing a bow made of horn’
+(Soph.), νεωλκός ‘one who hauls up a ship into dock’ (Aristot.), κηρουλκός ‘bring-
+ing destruction’ (Lycophr.).
+
+===
+Root unknown (I)
+-----
+FC: ἐνοσι-, εἰνοσι-, ἐννοσι-
+-----
+First attested compound: e-ne-si-da-o-ne /En(n)esidāhōnei/ (dat.).
+-----
+Appellative compounds: ἐνοσίχθων ‘shaking the earth’ (Hom.), εἰνοσίφυλλος
+‘shaking the leaves’ (ibid.), ἐννοσίγαιος ‘shaking the earth’ (ibid.), ἐννοσίδᾱς
+‘shaking the earth’ (Pi.), ἐνοσίφρων ‘shaking the mind’ (Jo. Gaz.).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+6 DEG interprets ὁλκός as a nomen actionis, which would be justified by the secondary meaning
+‘trace’. But the accent, the specialized meaning ‘hauling-engine’ and the use of the word as an
+adjective also suggest an origin as a nomen agentis.
+
+===
+ἔραμαι ‘love’ (IV)
+-----
+FC: ἐρασι-
+-----
+First attested compound:  ̓Εράσιππος (Lokroi Epizephyrioi ?8th–7th c.).
+-----
+Appellative compounds: ἐρασίμολπος ‘loving song’ (Pi.), ἐρασιχρήματος
+‘loving money’ (Xen.). In two other compounds, ἐρασιπλόκαμος ‘with lovely hair’
+(Ibyc.) and ἐρασίπτερος ‘with amorous wing’ (Nonn.) the FC ἐρασι- does not have
+a governing function.
+-----
+Onomastic compounds:  ̓Ερασίδημος (Siphnos ca. 200–175),  ̓Ερασικλῆς (Thera
+?7th c.),  ̓Ερασίλεως (Thasos 300–270),  ̓Ερασίμβροτος (Rhodes ca. 68 BC),
+ ̓Ερασίνικος (Keos 4th–3rd c.),  ̓Ερασιπτόλεμος (Crete 2nd c.),  ̓Ερασισθένης (Syros
+2nd–1st c.),  ̓Ερασίστρατος (Athens 5th c.),  ̓Ερασίτιμος (Thessaly 3rd–2nd c.),
+ ̓Ερασίφρων (Paros 3rd c.).
+-----
+Agent nouns: ἐραστής (Ibyc. PMGF 181).
+-----
+V2 compounds: παιδεραστής ‘lover of boys’ (Aristoph.), δημεραστής ‘friend of
+the people’ (Pl.), γυναικεραστής ‘lover of women’ (Poll.), ἱππεραστής ‘lover of
+horses’ (Ael.), οἰνεραστής ‘lover of wine’ (ibid.).
+
+===
+ἐργάζομαι ‘work’ (II)
+-----
+FC: ἐργασι-
+first attested compound: None.
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: No compounds are attested, but the FC is probably to
+be read in the Kurzname Ἐργασίων (Athens? 5th c.),  ̓Εργάσιλος (Athens 45/6 AD),
+ ̓Εργάσιμος (Apulia imp.).
+-----
+Agent nouns: ἐργάτης (Archil.), ἐργαστήρ (Xen.), ἐργαστής (A.D.), all ‘workman’.
+-----
+V2 compounds: None in Antiquity proper, but in the Byzantine age compounds
+in -εργάτης become very common, replacing those in -ουργός.
+
+===
+ἔρδω ‘do’ (IV)
+-----
+FC: ἐρξι-
+-----
+First attested compound:  ̓́Ερξανδρος (Lesbos 6th–5th c.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds:  ̓Ερξιγένης (Athens ca. 320 BC),  ̓Ερξίδικος (Athens 335/4),
+ ̓Ερξικλείδης (Athens 548/7),  ̓Ερξίλᾱς (Cyrene 5th c.),  ̓Ερξιμένης (Athens 459 BC).
+Agent noun: ἔρκτωρ ‘doer’ (Antim.).
+-----
+V2 compounds: a-pu-ko-wo-ko /ampukoworgoi/ ‘headband-makers’, i-je-ro-wo-ko
+/hieroworgos/ perhaps ‘sacrificing priest’, ko-wi-ro-wo-ko, interpretation uncer-
+tain, ku-ru-so-wo-ko-i /khūrsoworgoi/ ‘goldsmiths’, ku-wa-no-wo-ko-i (dat. pl.)
+/kuanoworgohi/ ‘enamel-workers’, no-ri-wo-ko (uncertain interpretation), to-ko-
+so-wo-ko /toksoworgos/ ‘bow-maker’. Compounds in -οργός, -ουργός and -εργός
+
+===
+are among the most productive V2 compounds in Greek. The full list is provided
+by Buck-Petersen 629–631: because of the high number of forms attested already
+
+===
+the structure of these compounds, see Chapter 6, section 3.1. A handful of com-
+pounds in -εργής has active semantics: see Chapter 6, section 3.1.
+
+===
+ἐρείπω ‘throw down’ (I)
+-----
+FC: ἐρειψι-
+-----
+First attested compound: ἐρειψιπύλᾱς ‘overthrowing gates’ (Bacch.).
+-----
+Appellative compounds: ἐρειψίτοιχος ‘overthrowing walls’ (Aesch.).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+ἕρπω ‘go, come’ (II)
+-----
+FC: ἑρπετι-
+-----
+First attested compound:  ̔Ερπετίδᾱμος (Crete 8th–7th c.).
+Other compounds:  ̔Ερπίνικος? (Athens 255/6 AD).
+-----
+Agent nouns: ἑρπηστής ‘a reptile’ (Nic.), ἑρπηστήρ ‘creeping thing, reptile’
+(Opp.).
+-----
+V2 compounds: None.
+
+===
+ἐρύκω ‘keep in, restrain’ (II)
+-----
+FC: ἐρυξι-
+-----
+First attested compound:  ̓Ερυξίμαχος ‘one who keeps away the fight’ (Athens
+5th c.),  ̓Ερυξίλᾱος ‘one who keeps away the enemy’ (Thebes 5th c.).
+Other compounds: None.
+-----
+Agent nouns: ἐρυκτήρ ‘class of Spartan freedmen’ (Myro).
+-----
+V2 compounds: None.
+
+===
+ἔρυμαι/ἐρύoμαι ‘protect’ / ἐρύω ‘drag’ (II)
+-----
+FC: ἐρυ-, ἐρυσι-, ῥυσι-: there is no formal difference between the compounds from
+the two verbs, which can be differentiated only on the basis of their meaning.7
+-----
+First attested compounds: we-wa-do-ro /Werwandros/,  ̓Ερύλᾱος (Hom.),
+ἐρυσίπτολις ‘protecting the city (ibid.), ἐρυσάρματος ‘chariot-drawing’ (ibid.).
+-----
+Appellative compounds: ῥυσίδιφρος ‘preserving the chariot’ (Pi.), ῥυσίβωμος
+‘defending altars’ (Aesch.), ῥυσίπολις ‘saving the city’ (ibid.), ἐρυσίχθων ‘tearing
+7 For the etymology of the two verbs, which do not seem to be cognates, see DEG s. vv. and
+Chapter 5, section 5.
+
+===
+up the earth’ (Strato Com.), ἐρυσίθριξ ‘curry-comb’ (AP, possibly Philodemus),
+ἐρυσινηΐς ‘preserving ships’ (Phil. Epigr.), ῥυσίπονος ‘saving from toil’ (AP
+9.525.18, adesp.).
+-----
+Onomastic compounds:  ̓Ερύσιππος (Cyrene 3rd c.).
+-----
+Agent nouns: from both verbs ῥυτήρ ‘guardian’ / ‘drawer’ (e.g. of the bow; later
+also as ‘strap’) and ῥυτωρ ‘saviour’ / ‘one who draws (the bow)’ (hapax); from
+ἔρυμαι only: ῥύστης ‘saviour’ (LXX); from ἐρύω only: ἐρυτήρ ‘that which draws
+up’ (said of an emetic; Nic.), ῥυστήρ ‘rein’ (Phot.; also used with the meaning
+‘deliverer’ in Tryphiodorus).
+-----
+V2 compounds: None.
+
+===
+εὑρίσκω ‘find, discover’ (IV)
+-----
+FC: εὑρησι-, εὑρεσι-
+-----
+First attested compound: εὑρησιεπής ‘inventive of poetry’ (Pi.), εὑρησιλογέω
+‘invent ingenious arguments’ (Plb.; εὑρησίλογος is attested in D.L.).
+-----
+Appellative compounds: εὑρεσίκακος ‘inventive of evil’ (schol. Eur.).
+-----
+Onomastic compounds: Εὑρησίβιος (Eretria 4th–3rd c.), Εὑρησίδημος (Euboea
+4th–3rd c.), Εὑρήσιππος (Thrace ca. 336–311).
+-----
+Agent nouns: εὑρετής ‘discoverer’ (Pl.).
+-----
+V2 compounds: πρωθευρετής ‘first discoverer’ (Nicomachus, 2nd c. AD).
+
+===
+εὔχομαι ‘pray’ (II)
+-----
+FC: εὐχ(ε)-, εὐξι-
+-----
+First attested compound: Εὐχήνωρ ‘one who prays men’ (Hom.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: Εὐξίδᾱμος (Argolis ?2nd–1st c.), Εὐξίθεμις (Thrace ca.
+365–336), Εὐξίθεος ‘one who prays the gods’ (Athens 520–510), Εὐξίμβροτος (Cos
+ca. 200 BC), Εὐξίππᾱ (Boeotia 5th–4th c.), Εὐξιτέλης (Locris 2nd c.), Εὐξίφαντος
+(Boeotia ca. 230–200), Εὐχέλᾱς (Melos 5th c.).
+Agent noun: εὐχέτης ‘one who prays’ (Hdn. = Eust.).
+-----
+V2 compounds: None.
+
+===
+ἔχω ‘have, hold’ (IV)
+-----
+FC: ἐχε-
+-----
+First attested compounds: e-ke-da-mo /Hekhedāmos/, e-ke-me-de /Hekhemēdēs/,
+ἐχέθυμος ‘under self-control’ (Hom.),  ̓Εχέπωλος ‘having horses’ (both Hom.).
+-----
+Appellative compounds: ἐχεπευκής ‘sharp’ (Hom.), ἐχέφρων ‘prudent’ (ibid.),
+ἐχενηίς ‘ship-holding’ (Aesch.), ἐχεπάμων ‘holding property’ (Locris 5th c.),
+ἐχέγγυος ‘trustworthy’ (Soph.), ἐκεχειρία ‘truce’ (Thuc.), ἐχέκολλος ‘sticky’
+(Hippocr.), ἐχεμυθία ‘silence’ (Plu.; from the compound ἐχέμυθος attested in
+
+===
+Suida), ἐχεδερμία ‘being hide-bound’ (Hippiatr.), ἐχεγλωττία ‘tongue-truce’
+(Luc.), ἐχέσαρκος ‘clinging close to the body’ (Ath.), ἐχεκτέανος ‘with great pos-
+sessions’ (Rhian.), ἐχεκήλης ‘ruptured’ (Hsch.).
+-----
+Onomastic compounds:  ̓Εχέβιος (Sikinos imp.), Ἐχέβωλος (Thera 5th c.),
+ ̓Εχεδᾱμίδᾱς (Argolis ?ca. 575–550),  ̓Εχέδικος (Nesos 3rd c.),  ̓Εχέδωρος (Rhodes
+ca. 170–160),  ̓Εχεκλῆς (Athens 6th–5th c.),  ̓Εχεκράτης (Thasos 6th–5th c.),
+ ̓Εχεκύδης (Thasos 5th c.),  ̓Εχέλεως (Scythia Minor 6th c.),  ̓Εχέμαντις (Delos
+274–250),  ̓Εχέμαχος (Phokis 2nd c.),  ̓Εχέμβροτος (Boeotia 7th c.), Ἐχεμενείδᾱς
+(Boeotia 5th c.),  ̓Εχεμήδης (Laconia 3rd c.),  ̓Εχέμηλος (Phokis 169 BC),  ̓Εχέμυθος
+(Athens ca. 330 BC),  ̓Εχεναΐς (Thessaly ca. 480–450),  ̓Εχένικος (Samos 321–306),
+ ̓Εχεπάμων (Rhodes 3rd c.),  ̓Εχέπολις (Thrace 5th c.),  ̓Εχεσσθένης (Boeotia ?424
+BC),  ̓Εχέστροτος (Boeotia ca. 550–525), Ἐχέταρμος (Aetolia ?228–215),  ̓Εχετέλης
+(Sparta 362–360),  ̓Εχετέρμων (Acarnania 2nd c.),  ̓Εχέτιμος (Cyprus 6th c.),
+ ̓Εχέφρων (Athens? 3rd c.),  ̓Εχέφυλος (Zakynthos 4th c.), Ἔχιππος (Rhegion 6th
+c.).
+-----
+Agent nouns: The adjective ὀχός ‘solid’ (hapax in Ph. Byz.) might represent
+the continuation of an old agent noun meaning ‘holding together’. The same
+semantics is shown by ὄχος ‘anything that holds’ (hapax in Hom.), whose accent
+however is typical of action nouns. The PN Ἕκτωρ may represent an old agent
+noun.
+-----
+V2 compounds: a-ni-o-ko = ἡνίοχος ‘rein-holder, charioteer’, ko-to-no-o-ko
+/ktoino-okhos/ ‘land holder’, wa-tu-o-ko /Wastuokhos/ ‘citadel-holder’ (PN).
+Compounds in -ουχος are among the most common V2 compounds in Greek: for
+this reason, they have not been included in this Corpus. A full list is provided by
+Buck-Petersen 684–685 and 688.
+
+===
+ζεύγνυμι ‘yoke’ (II)
+-----
+FC: ζευξι-
+-----
+First attested compound: Ζευξίδᾱμος ‘subjugator the people’ (Sparta 7th c.).
+-----
+Appellative compounds: ζευξίλεως ‘subjugator of men’ (Soph.).
+-----
+Onomastic compounds: Ζευξαγόρα (Argolis ?2nd–1st c.), Ζεύξαυλος (Epidauros
+ca. 335–325 c.), Ζευξίδωρος (Megara 242–238), Ζευξιθέα (Rhodes 1st c. BC–1st c.
+AD), Ζευξίμαχος (Cyrene 4th–3rd c., Epidauros ca. 365–335), Ζεύξιππος (Pind. fr.
+51c Maehler).
+-----
+Agent nouns: ζευκτήρ (Jos.), ζευκτής (Hsch.): both ‘one who yokes’.
+-----
+V2 compounds: None: with the exception of the late βιοζυγής ‘yoking lives
+together’ (Nonn.), all compounds in -ζυγής are passive.
+
+===
+ἡγέομαι ‘lead, command’ (IV)
+-----
+FC: ἡγε-, ἡγησι-
+-----
+First attested compound:  ̔Αγησιχόρᾱ ‘she who leads the chorus’ (Alcm.).
+-----
+Appellative compounds: ἁγησίλᾱος ‘leading the people’ (Aesch.), ἡγησίπολις
+‘leader of the state’ (D.L.), ἡγέμαχος ‘chieftain’ (Hsch.).
+-----
+Onomastic compounds:  ̔Ηγεάνασσα (Thrace 4th c.),  ̔Ηγεκράτης (Thrace 6th–5th
+c.),  ̔Ηγεκρέων (Samos 4th–3rd c.),  ̔Ηγέλεως (Keos 5th–4th c.),  ̔Ηγέλοχος (Athens
+5th c.),  ̔Ηγέμαχος (Athens 5th c.),  ̔Ηγέπολις (Chios 5th c.),  ̔Ηγέστρατος (Athens 7th
+c.),  ̔Ηγησαγόρης (Samos 5th c.),  ̔Ηγήσανδρος (Athens ca. 510–500),  ̔Ηγησάρετος
+(Thessaly 3rd–2nd c.),  ̔Ηγήσαρχος (Thasos ca. 520–490),  ̔Ηγησιάναξ (Thasos
+b. 510 BC),  ̔Ηγησίβουλος (Thasos ca. 550–520),  ̔Ηγησίδημος (Thrace 5th–4th
+c.),  ̔Ηγησίδικος (Macedonia 4th c.),  ̔Ηγησίθεμις (Chios 5th–4th c.),  ̔Ηγησικλῆς
+(Samos ?ca. 542–520),  ̔Ηγησικράτης (Athens? 4th c.),  ̔Ηγησίλεως (Paros, arch.),
+ ̔Ηγησίλοχος (Thera 5th c.),  ̔Ηγησίμαχος (Thasos 5th/4th c.),  ̔Ηγησίμβροτος
+(Macedonia 2nd–3rd c. AD),  ̔Ηγησίνικος (Euboea hell.),  ̔Ηγησίπολις (Thrace 6th
+c.),  ̔Ηγήσιππος (Thasos 5th c.),  ̔Ηγησιπύλη (Thrace 6th/5th c.),  ̔Ηγησισθένης
+(Athens 95/4 BC),  ̔Ηγησίστρατος (Athens? 6th c.),  ̔Ηγησιτέλης (Thasos 5th c.),
+ ̔Ηγησιφάνης (Athens 369/8 BC).
+-----
+Agent nouns: ἡγήτωρ ‘chief’ (Hom.), ἡγητήρ ‘guide’ (Soph.), ἡγέτης ‘leader’
+(Ep. Gr. 1035, 2nd c. AD).
+-----
+V2 compounds: ku-na-ke-ta (= κυνηγέτης) ‘hunter’, ra-wa-ke-ta /lāwāgetās/
+‘chief’. Μουσᾱγέτᾱς ‘leader of the Muses’ (Pi.), ξενᾱγέτᾱς ‘one who takes charge
+of guests’ (ibid.), ἑβδομᾱγέτης ‘epithet of Apollo’ (to whom the Spartans offered
+sacrifices on the 7th of every month; Aesch.), ἀρχηγέτης ‘first leader’ (ibid.),
+λοχᾱγέτᾱς ‘leader of an armed band’ (ibid.), νυμφηγέτης ‘leader of the nymphs’,
+(IG 12.8.358, Thasos 5th c.), εἱππηγέτης ‘driver of horses’ (Lycophr.), ναυηγέτης
+‘commander of a fleet’ (ibid.), ποδηγέτης ‘guide’ (ibid.), Ληνᾱγέτᾱς ‘leader of Bac-
+chanals’ (BMus. Inscr. 902, Halicarnassus 3rd c.), κωμηγέτης ‘leader of a κῶμος’
+(OGI 97.10, Egypt 2nd c.), στρατηγέτης ‘army-leader’ (SIG 588.60, Miletus 2nd c.),
+μοιρᾱγέτης ‘guide of fate’ (Paus.), χορᾱγέτᾱς ‘leader of the chorus’ (IG 42(1).133.
+col.II.1.7, Epidaurus 3rd c.). On the scholarly debate surrounding compounds in
+ᾱγέτης/-ηγέτης, see Chapter 6, section 3.1.
+
+===
+θάλλω/θαλέω ‘sprout, blossom’ (IVa)
+-----
+FC: θαλησι-
+-----
+First attested compound: Θαλησικλής perhaps ‘one who makes fame bloom’
+(Eretria 3rd c.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: Θαλησιγένης (Athens 146/5 BC).
+-----
+Agent nouns: None.
+-----
+V2 compounds: Compounds in -θηλής (< -θᾱλής) and many of those in -θᾰλ(λ)ής
+are likely to derive from the verb: ἐριθηλής ‘very flourishing’ (Hom.), νεοθηλής
+‘fresh-budding’ (ibid.), πανθηλής ‘all-blossoming’ (Bacch.), δυσθᾰλής ‘hardly
+growing’ (Cratin.), ἰοθᾱλής ‘blooming with violets’ (Philox.), ὀρειθᾰλής ‘bloom-
+ing on the hills’ (Lycophr.), ἀειθᾰλής ‘evergreen’ (Mel.), χοροιθᾰλής ‘flourish-
+ing in the dance’ (Antip.), ἱεροθαλλής ‘blooming holily’ (Orph. H.), κυμοθᾰλής
+‘abounding with waves’ (Orph. H.).
+
+===
+θέλγω ‘enchant, charm’ (IV)
+-----
+FC: θελξι-
+-----
+First attested compound: θελξίμβροτος ‘charming men’ (Bacch.), θελξιεπής
+‘charming with his words’ (ibid.).
+-----
+Appellative compounds: θελξίνοος ‘charming the heart’ (Antiph. Epigr.),
+θελξιμελής ‘charming with music’ (IG 22.5200, Attica ca. 250 AD).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: θέλκτωρ ‘charmer’ (Aesch., see Chapter 6, section 3.2), θελκτήρ
+‘charmer’ (H. Hom. 16).
+-----
+V2 compounds: πανθέλκτειρα (Simon.). Two active compounds in -ής develop in
+Late Antiquity: φρενοθελγής ‘charming the heart’ (Procl.), πανθελγής ‘charming
+all’ (Nonn.).
+
+===
+ἵημι ‘release, hasten’ (II)
+-----
+FC: ἡσι-
+-----
+First attested compound:  ̔Ησίοδος (8th c.). For the analysis of this name, see
+Chapter 5, section 5.3.2.
+-----
+Appellative compounds: ἡσιεπής ‘uttering words’ (EM).
+-----
+Onomastic compounds:  ̔Ησίοχος (Athens ca. 411 BC),  ̔Ησίδωρος (Peloponnese?
+11 AD).
+-----
+Agent nouns: There are no simplicia. The verb could clearly create agent nouns,
+as we can see from the preverbed forms ἀφέτης ‘one who lets off a military engine’
+(Plb.; also attested with other meanings) and ἀφετήρ ‘starting point’ (Iambl.).
+These are compounded into determinative formations: see e.g. Σαλαμιναφέτης
+‘betrayer of Salamis’ (Sol.).
+-----
+V2 compounds: None from ἵημι, only from ἀφίημι.
+
+===
+ἵστημι ‘stand; set up’ (IV)
+-----
+FC: στησι-
+-----
+First attested compound: ta-ta-ke-u /Stātarkhēus/?, ta-ti-qo-we-u /Stātigw-
+ōwēus/?
+-----
+Onomastic compounds: Στησαγόρας (Athens 7th–6th c.), Στάσανδρος (Cyprus
+5th–4th c.), Στᾱσιάναξ (Cyprus 6th c.), Στᾱσιγένης (Cyprus 5th c.), Στᾱσίδᾱ-
+μος (Cyprus ?5th–4th c.), Στᾱσικλῆς (Argolis 4th c.), Στᾱσικρέτης (Cyprus ?5th
+c.), Στᾱσίκυπρος (Cyprus 478–470), Στᾱσιμένης (Epidauros ca. 335–325), Στᾱ-
+σίοικος (Cyprus 5th c.), Στάσιππος (Arcadia ca. 370 BC), Στᾱσιτίμᾱ (Cyprus 6th
+c.), Στᾱσίφιλος (Cyprus 6th c.), Στᾱσίφυλος (Cyprus 5th c.), Στᾱσίχαρις (Cyprus
+5th c.), Στήσαρχος (Athens 333/2), Στησικράτης (Cyprus 4th–3rd c.), Στησίλεως
+(Athens ca. 520–510), Στησίμαχος (Amorgos 6th c.), Στησίμβροτος (Thasos 5th c.),
+Στησίτιμος (Ios 290–280), Στησίχορος (Himera 7th–6th c.).
+-----
+Agent nouns: στατήρ ‘a weight or coin’ (Eup.; also ‘debtor’ in Epich.).
+-----
+Appellative compounds: None. The plant name στησίφυλλον ‘leaf that sticks to
+the skin’ (Hsch.) does not seem to have a governing structure, bur rather seems to
+specify a type of φύλλον ‘leaf’.
+-----
+V2 compounds: ἀριστεροστάτης ‘standing on the left’ (Cratin.), ὀρθοστάτης
+‘upright shaft’ (Eur.), πρωτοστάτης ‘one who stands first’ (Thuc.), ὀβολοστάτης
+‘weigher of obols’ (Aristoph.), τριτοστάτης ‘standing third from the corypheus’
+(Aristot.), χοροστάτᾱς ‘leader of a chorus’ (IG 12(2).645.36, Nesus, 4th c.),
+ζυγοστάτης ‘weigher’ (Cerc.), ἱεροστάτης ‘governor of the temple’ (LXX),
+τριστάτης ‘one who stands next to the king and queen’ (ibid.), μεσοστάτης ‘inner
+beam’ (Philo Mech.), δεξιοστάτης ‘one who stands in the right file of the Chorus’
+(Poll.), δευτεροστάτης ‘one who stands in the rear file of the Chorus’ (Them.),
+πυριστάτης ‘standing on the fire’ (a kind of tripod; schol. Aristoph.).
+
+===
+ἴσχω ‘hold, restrain’ (I)
+-----
+FC: ἰσχε-, ἰσχo-
+-----
+First attested compound: Ἰσχένοος (Hdt.).
+-----
+Appellative compounds: ἰσχέγαον ‘earth-retaining’ (name of a type of retaining
+wall, Delphi 4th c.), ἰσχέπλινθα ‘brick-retaining’ (perhaps a type of door-jamb or
+a socket to secure lintel and sill, Delphi 4th c.), ἰσχέθυρον ‘door-retaining’ (a type
+of window-frame, Delos 3rd c.).
+-----
+Onomastic compounds:  ̓Ισχέδᾱμος (Delphi 325 BC), Ἰσχόλᾱος (Sparta 5th–4th
+c.), Ἰσχόμαχος (Kroton 508–504), Ἰσχόπολις (Acarnania 4th–3rd c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+καλέω ‘call’ (IV)
+-----
+FC: καλε(σ)σι-
+-----
+First attested compound: καλεσσίχορος ‘calling to the dance’ (Orph. L.).
+-----
+Appellative compounds: καλεσάνδρᾱ ‘summoner of men’ (PGM 7.696, 3rd c.
+AD).
+-----
+Onomastic compounds: The Kurzname Καλεσίας (Athens 4th c.) attests to the
+existence of PNs in καλεσι-.
+-----
+Agent nouns: κλητήρ ‘summoner’ (Thgn.), κλήτωρ ‘summoner’ (SIG 344.43,
+Teos 4th c.).
+-----
+V2 compounds: ὁμοκλητήρ ‘shouter’ (Hom.) derives directly from ὁμοκλέω
+‘shout’; ψευδοκλητήρ ‘one who falsely subscribes his name as witness to a
+summons’ (Theopomp.), δειπνοκλήτωρ ‘one who invites to dinner’ (v.l. in Ev.
+Matt.), ὀνομακλήτωρ ‘one who announces guests by name’ (Luc.).
+
+===
+κάμπτω ‘bend, turn, guide round’ (IV)
+-----
+FC: καμψι-, καμπεσι-
+-----
+First attested compound: καμψίπους ‘bending the foot’ (Aesch.).
+-----
+Appellative compounds: καμπεσίγυιος ‘bending the limbs’ (Orph. Fr.),
+καμψίουρος ‘bending the tail’ (Hsch.), καμπεσίγουνος ‘bending the knees’ (ibid.).
+-----
+Onomastic compounds: the FC καμψι- may be contained in the Kurzname
+Καμψίας.
+-----
+Agent nouns: καμπτήρ ‘bend’ (Xen.).
+-----
+V2 compounds: ᾀσματοκάμπτης ‘twister of song’ (Aristoph.), Ἰωνοκάμπτης ‘one
+who sings with soft Ionic modulations’ (Timoth.), πιτυοκάμπτης ‘pinebender’
+(Str.). Compounds in -καμπής are passive.8
+
+===
+κάπτω ‘gulp down’ (I)
+-----
+FC: καψι-
+-----
+First attested compound: καψιδρώτιον ‘napkin’ (i.e. ‘absorbing saliva’, Poll.
+and fr. adesp. 799 K.-A.).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+κείρω ‘cut short, crop’ (I)
+-----
+FC: κειρε-, κερσε-
+-----
+First attested compound: ἀκερσεκόμης ‘not cropping the hair’ (Hom.).
+-----
+Appellative compounds: ἀκειρεκόμης (Soph.).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+8 Paliuri (2014: 130).
+
+===
+κ́κασμαι ‘surpass’ (I)
+-----
+FC: καστι-
+-----
+First attested compound: ka-ta-no /Kastānōr/ ‘he who distinguishes himself
+among men’ (see discussion in Chapter 4, section 7.6).
+Other compounds: ka-sa-no /Kassānōr/, Kαστιάνειρα (Hom.).
+-----
+Agent nouns: None. From a morphological point of view Κάστωρ is an agent
+noun from this verb, but its exclusive use as a PN does not encourage its classifi-
+cation as a productive agent noun in Greek.
+-----
+V2 compounds: None.
+
+===
+κελεύω ‘order’ (II)
+-----
+FC: κελευσι-
+-----
+First attested compound: There are no compounds attested from this verb, but
+a FC κελευσι- might be hidden behind the Kurzname Κελεύσος (Athens 459 BC).
+-----
+Agent nouns: κελευστής ‘one who gives the time to rowers’ (Eur.), κελεύστωρ
+‘one who commands’ (Phryn.).
+-----
+V2 compounds: None.
+
+===
+κινέω ‘set in motion, move’ (IV)
+-----
+FC: κινησι-
+-----
+First attested compound: κινησίγαιος ‘shaking the earth’ (Hsch.; gloss on
+ἐννοσίγαιος).
+-----
+Onomastic compounds: The FC κινησι- may be behind the Kurzname Κινησίας
+(Athens 6th c.).
+-----
+Agent nouns: κινητήρ (H. Hom. 22), κινητής (Aristoph.) both ‘one that sets
+going’.
+-----
+V2 compounds: only φωτοκινήτης ‘mover of light’ (PGM 4.599, 4th c. AD).
+
+===
+κιχάνω ‘reach, overtake’ (I)
+-----
+FC: κιχησι-
+-----
+First attested compound: Κιχήσιππος (Athens 440/39).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+κλαίω ‘cry, lament’ (II)
+-----
+FC: κλαυσι-
+-----
+First attested compound: κλαυσίμαχος ‘rue-the-fight’ (parody on the name of
+Lamachus in Aristoph.).
+
+===
+-----
+Appellative compounds: None (κλαυσιγέλως ‘tears mingled with smiles’,
+Demetr., seems to be a coordinated compound showing κλαῦσις ‘weeping’ in the
+FC).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: κλαυστήρ ‘weeper’ (Man.).
+-----
+V2 compounds: None.
+
+===
+κλέπτω ‘steal’ (IV)
+-----
+FC: κλεψι-
+-----
+First attested compound: κλεψίφρων ‘thievish, having the mind of a thief’ (H.
+Hom. Merc.: it is a bahuvrihi though).
+-----
+Appellative compounds: κλεψύδρᾱ ‘a small vessel for transferring liquids’
+(lit. ‘steal-water’, Emp.), κλεψίνυμφος ‘seeking illicit love’ (lit. ‘stealing wives’,
+Lycophr.), κλεψίαμβος ‘a kind of musical instrument’ (Athen.), κλεψίγαμος
+‘seeking illicit love’ (Hdn.), κλεψιχώλος ‘disguising lameness’ (Ps. Luc.),
+κλεψίτoκος ‘concealing offspring’ (Opp.), κλεψίνοος ‘beguiling the mind’ (Igna-
+tius).
+-----
+Onomastic compounds: The FC may appear in the Kurzname Κλεψίας (Chios?
+6th c.).
+-----
+Agent nouns: κλέπτης (Hom.), κλοπός ‘thief’ (H. Hom. Merc.), κλώψ (Hdt.),
+κλέψ (Phryn.): all ‘thief’.
+-----
+V2 compounds: Root compounds: βοόκλεψ ‘stealer of oxen’ (Soph.), τυρόκλεψ
+‘cheese-thief’ (Hdn.).
+Compounds in -κλόπος: ἀνδραποδοκλόπος ‘slave-stealer’ (Soph.), κυνοκλόπος
+‘dog-stealer’ (Aristoph.), φρενοκλόπος ‘stealing the understanding’ (Maecius
+Epigr.), πανεπίκλοπος ‘all-treacherous’ (Opp.), γαμοκλόπος ‘adulterous’ (Phile-
+mon), βουκλόπος ‘ox-stealing’ (Porph.).
+Compounds in -κλέπτης: μωροκλέπτης ‘stupid thief’ (Aesop.), ἀνδραποδοκλέπτης
+‘slave-stealer’ (Men.), κηριοκλέπτης ‘stealer of honeycombs’ (Theocr.), λαμπτηρο-
+κλέπτης ‘lamp-stealer’ (Lycophr.), ζωστηροκλέπτης ‘one who steals belts’ (ibid.),
+ὀρνιθοκλέπτης ‘bird-stealer’ (Herod.), ποτηριοκλέπτης ‘cup-stealer’ (Eupho-
+rion), βαλαντιοκλέπτης ‘cutpurse’ (Phryn.), ψηφοκλέπτης ‘one who juggles with
+pebbles’ (Athen.), ἱματιοκλέπτης ‘clothes-stealer’ (D.L.), πορφυροκλέπτης ‘stealer
+of purple’ (ibid.), νυκτικλέπτης ‘thief of the night’ (Lucill.), ἀσημοκλέπτης ‘thief
+of plate’ (AP 11.360.3, adespoton), μικροκλέπτης ‘petty thief’ (schol. Aristoph.),
+ὀφθαλμοκλέπτης ‘stealer of the eye’ (schol. Lycophr.), παιδοκλέπτης ‘stealer of
+children’ (schol. Call.).
+
+===
+κοσμέω ‘arrange, equip, adorn’ (IV)
+-----
+FC: κοσμησι-
+-----
+First attested compound: Κοσμησίστρατος (Oliaros ?2nd–1st c.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: Κοσμησιάναξ (Rhodes 1st c.–1st c. AD).
+-----
+Agent nouns: κοσμήτωρ ‘commander’ (Hom.), κοσμητής ‘name of an Athenian
+magistrate’ (Pl.), κοσμητήρ ‘title of a magistrate’ (Aeschin.).
+-----
+V2 compounds: χρυσοκοσμήτης ‘decorator with gold’ (Vett. Val.), τριχοκοσμητής
+‘hairdresser’ (Hsch.).
+
+===
+κράζω ‘scream, bawl’ (II)
+-----
+FC: κεκραξι- (cf. the reduplicated future κεκράξομαι in Aristoph.).
+-----
+First attested compound: κεκραξίδαμας ‘who conquers all in bawling’ (Aris-
+toph.; this is in fact a comic formation in which both members have a verbal
+value).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: The same verbal stem may appear in the Kurzname
+Κράξιος (Boeotia 3rd–2nd c.).
+-----
+Agent nouns: κεκράκτης ‘bawler’ (Hippocr.), κράκτης ‘bawler’ (Aristoph.),
+κραγός ‘bawling’ (ibid.).
+-----
+V2 compounds: None. ἀκραγής ‘not barking’ (Aesch.) is a hapax.
+
+===
+κρατέω ‘conquer, prevail’ (IVb)
+-----
+FC: κρατησι-
+-----
+First attested compound: Κρατησίκλεια (Sparta 6th c.)
+-----
+Appellative compounds: κρατησίμαχος ‘conquering in the fight’ (Pi.), κρατή-
+σιππος ‘victorious in the race’ (ibid.), κρατησίπους ‘victorious in the foot-race’
+(ibid.).
+-----
+Onomastic compounds: Κρατεισαγόρᾱ (Thessaly 4th–3rd c.), Κρατησιβούλη
+(Euboea 3rd c.), Κρατησίλᾱς (Keos 4th–3rd c.), Κρατησίλοχος (Thera 3rd c.),
+Κρατησιμάχᾱ (Thessaly 4th–3rd c.), Κρατησίνικος (Laconia 2nd c.), Κρατησίπολις
+(Macedonia? 315–307), Κρατήσιππος (Rhegion ca. 420–410).
+-----
+Agent nouns: κρατήτωρ ‘ruling star’ (Ptol.), κρατητής ‘possessor’ (Procl.).
+-----
+V2 compounds: None. Many of the very common bahuvrihis in -κρατής (< κράτος
+‘power’) may have acquired verbal semantics. Similarly, the type αὐτοκράτωρ
+‘sole ruler’, which becomes a very popular pattern, conveys a verbal meaning:
+see the analysis in Chapter 6, section 5.
+
+===
+κρούω ‘strike, knock’ (IV)
+-----
+FC: κρουσι-
+-----
+First attested compound: κρουσίθυρος ‘knocking at the door’ (type of
+flute-song mentioned by Trypho).
+-----
+Appellative compounds: κρουσιλύρης ‘striking the lyre’ (Orph. H.). For
+κρουσιδημέω ‘cheat the people’ (Aristoph.) and κρουσιμετρέω ‘cheat in measur-
+ing’ (Hsch.) see the analysis in Chapter 6, section 3.2.
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: κρούστης ‘butting’ (Dosith.).
+-----
+V2 compounds: ζυγοκρούστης ‘one who uses a false balance’ (Artem.).
+κεφαλοκρούστης ‘striking the head’ (schol. Nic., type of poisonous spider),
+κυμβαλοκρούστης ‘one who strikes cymbals, player upon cymbals’ (Gloss.).
+
+===
+κρύπτω ‘hide’ (II)
+-----
+FC: κρυψι-
+-----
+First attested compound: κρυψίνοος ‘hiding one’s thoughts’ (Xen.).
+-----
+Appellative compounds: κρυψιμέτωπος ‘hiding the forehead’ (Luc.),
+κρυψίποθος ‘hiding one’s longing’ (EM), κρυψίφρων ‘hiding one’s thoughts’
+(Eust.), κρυψίχολος ‘hiding one’s anger’ (ibid.). In other compounds the FC
+κρυψι- does not have a governing meaning: e.g. in κρυψίγονος ‘secretly born’
+(Orph. H.), κρυψίδομος ‘dwelling in secret’ (conjectured in place of the transmit-
+ted κρυψίδρομος, Orph. H.) and κρυψόρχης ‘with undescended testicles’ (Sor.).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: κρύπτης ‘member of the Spartan κρυπτεία’ (Eur.? see Chapter 5,
+section 5.1.4 for this dubious attestation), κρυπτήρ ‘convenient for concealing’
+(schol. Opp.).
+-----
+V2 compounds: None. The few ancient forms in -κρυφής are passive: εὐκρυφής
+‘easy to hide’ (Aristot.), νυκτικρυφής ‘hidden by night’ (ibid.). The first active
+compound dates to the 7th c. AD: θεοκρυφής ‘hiding God’ (Georg. Pisid.).
+
+===
+κταόμαι ‘get, acquire’ (II)
+-----
+FC: κτησι-
+-----
+First attested compound: Κτήσιππος (Hom.).
+-----
+Appellative compounds: κτησίβιος ‘possessing property’ (Aesch.).
+-----
+Onomastic compounds: Κτήσανδρος (Thasos 4th–3rd c.), Κτησαρέτη (Euboea 3rd
+c.), Κτησίαρχος (Athens 5th–4th c.), Κτησίβιος (Athens 5th–4th c.), Κτησίβουλος
+(Athens ca. 360–350), Κτησιγένης (Euboea 4th–3rd c.), Κτησίδημος (Myko-
+nos ?4th/3rd c.), Κτησιέπης (Paros ?1st c.), Κτησικλῆς (Athens ca. 450 BC),
+Κτησικράτης (Euboea 4th c.), Κτησίκριτος (Keos 4th–3rd c.), Κτησίλεως (Keos
+4th–3rd c.), Κτησιμένης (Imbros? 4th–3rd c.), Κτησίνικος (Keos 4th–3rd c.),
+Κτησίπολις (Chios ?ca. 200 BC), Κτήσιππος (Athens 5th c.), Κτησισθένης (Delos
+246–208), Κτησίφιλος (Euboea 5th c.), Κτησιχάρης (Athens 4th c.).
+-----
+Agent nouns: κτήτωρ ‘possessor’ (D.S.).
+-----
+V2 compounds: None except for the PN Φιλοκτήτης.
+
+===
+κύρω ‘obtain’ (I)
+-----
+FC: κυρσι-
+-----
+First attested compound: No compounds from this verb are attested, but the
+existence of the FC κυρσι- is proven by the Kurzname Κυρσίλος (Athens 480 BC).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+λαγχάνω ‘obtain by lot’ (I)
+-----
+FC: λαχε- (from the aorist λαχεῖν).
+-----
+First attested compound: Λαχέμοιρος (Athens 5th–4th c.).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+λαμβάνω ‘catch, receive’ (IV)
+-----
+FC: λαβε- (from the aorist λαβεῖν)
+-----
+First attested compound: Λαβίππᾱ ‘one who catches/receives horses’ (Laconia
+?2nd–1st c.).
+Other compounds: None.
+-----
+Agent nouns: λήπτης ‘catcher’ (Zonar.).
+-----
+V2 compounds: ἐργολήπτης ‘contractor’ (Telecl.), δωρολήπτης ‘greedy of gain’
+(LXX), προσωπολήπτης ‘respecter of persons’ (NT). There are only a few active V2
+compounds in -λάβος: ἐργολάβος ‘contractor’ (Pl.), ἀστρολάβος ‘armillary sphere’
+(Ptol.) and δεξιολάβος ‘spearman’ (Act. Ap.). There are two active -ής compounds:
+εὐλαβής ‘undertaking prudently’ (Democr.), itself producing various derivations,
+and ὀξυλαβής ‘quick at seizing’ (Aristot.).
+
+===
+λανθάνω / λήθω ‘forget, make one forget’ (I)
+-----
+FC: λᾰθι- (from the aorist λαθεῖν), λᾱθι- (from λήθω), λησι-
+-----
+First attested compound: λαθικηδής ‘banishing care’ (Hom.).
+-----
+Appellative compounds: λαθίφθογγος ‘banishing voice’ (epithet of death in
+Hes.), λησίμβροτος ‘taking men unawares’ (H. Hom. Merc.), λᾱθάνεμος ‘escaping
+wind’ (Simon.), λᾱθίπονος ‘forgetful of sorrow (Soph.), λαθίνοστος ‘forgetful of
+returning home’ (Hsch.: βραδύνων ἐπανελθεῖν), λαθίποινος ‘forgetful of venge-
+ance’ (ibid.).
+
+===
+Other compounds in λαθι- have a different structure, compare λαθιφροσύνη ‘for-
+getfulness’ (A.R.) or λαθιπορφυρίς ‘which feeds in the dark’ (Ibyc.). Two com-
+pounds in λαθι- have a long root vowel and derive from λήθω (see below).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None. ἀληθής ‘true’ is formally a passive verbal compound
+meaning ‘not hidden’.
+
+===
+λείπω ‘leave, loose, to be wanting’ (III)
+-----
+FC: λιπεσ-, λιπο-, λειπο-9
+-----
+First attested compound: λιπεσάνωρ ‘abandoning her husband’ (Stes.).
+-----
+Appellative compounds: λιπότεκνος ‘childless’ (Pi.), λιπόξυλος ‘lacking wood’
+(Emp.), λιπόναυς ‘deserting the fleet’ (Aesch.), λιποτελέω ‘to be in arrear with
+taxes’ (IG 9(1).334.14 Oeanthea 5th c.), λιποπωγωνία ‘want of a beard’ (Cratin.),
+λιποστρατίη ‘desertion from the army’ (Hdt.; from the unattested *λιπόστρατος),
+λιποψυχέω ‘swoon’ (ibid.), λιπόγαμος ‘deserting her marriage’ (Eur.), λιποταξία
+‘desertion’ (Dem.), λιποθυμέω ‘faint’ (Hippocr.), λειπογνώμων ‘lacking interpret-
+ers’ (IG 22.1357.9–10 Athens 4th c.), λιπάδελφος ‘brotherless’ (Ep. Gr. 241, 1st c.),
+λιπόκεντρος leaving a sting’ (Coll. Alex. adesp. 1), λιπομήτωρ ‘leaving one’s mother’
+(Phil. Epigr.), λιπόπνοος ‘breathless’ (Mel.), λιπανδρία ‘want of men’ (Str.), λιπαυγής
+‘sunless’ (IG 12(5).891, Macedonia, imp.), λιπόγυιος ‘wanting a limb’ (Pl. Jun.),
+λιπόδερμος ‘without a skin’ (Diosc.), λιπόπαις ‘childless’ (Man.), λιπόγληνος ‘sight-
+less’ (Nonn.), λιπόγλωσσος ‘tongueless’ (ibid.), λιπόθριξ ‘hairless’ (ibid.), λιπόθροος
+‘wanting voice’ (ibid.), λιπόπατρις ‘leaving one’s country’ (ibid.), λιποπτόλεμος
+‘leaving the war’ (ibid.), λιπόπτολις ‘leaving the city’ (ibid.), λιποσθενής ‘power-
+less’ (ibid.), λιπόσκιος ‘without shadow, casting no shadow’ (ibid.), λιπόβιοι ‘dead
+ones’ (Hsch.).
+-----
+Onomastic compounds: Λιπόδωρος (Cyprus? hell.?).
+-----
+Agent nouns: None. λοιπός is specialized as an adjective, meaning ‘remaining’.
+-----
+V2 compounds: all forms in -λοιπoς (beginning with the prefixed forms o-pi-qo-ro
+= ἐπίλοιπος and pe-ri-qo-ro = περίλοιπος, both ‘left’) have passive semantics (‘left,
+remaining’).
+
+===
+λήγω ‘stop’ (I)
+-----
+FC: ληξι-
+-----
+First attested compounds: ληξιπύρετος ‘allaying fever’ (Gal.).
+-----
+Appellative compounds: ληξίφωτος ‘waning’ (Heph. Astr.).
+Other compounds: None.
+9 On the alternation in Medieval manuscripts of λιπο- and λειπο-, see LSJ s.v. λείπω.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+λύω ‘release, redeem’ (IV)
+-----
+FC: λυσι-, λυε-
+-----
+First attested compounds: Λύσανδρος (Hom.), λυσιμελής ‘releasing the limbs’
+(ibid.).
+-----
+Appellative compounds: λυσίκακος ‘ending evil’ (Thgn.), λυσίμβροτος ‘relaxing
+men’ (Pi.), λυσίπονος ‘realising from pain’ (ibid.), λυσιμάχη ‘ending strife’ (Aris-
+toph.), λυσιτελέω ‘indemnify for expenses incurred’ (ibid.), λυσιγυῖα ‘relaxation
+of the limbs’ (Hippocr.), λυσίζωνος ‘loosing the lower girdle’ (epithet of Eileily-
+thia, Theocr.), λυσιπόλεμος ‘type of war-engine’ (P.Berol. 13044, BKT 5.1 p. 7–12 no.
+I.2, ca. 1st c. BC), λυσίκομος ‘letting the hair loose’ (Philostr.), λυσιπήμων ‘ending
+sorrow’ (Orph. H.), λυσιμέριμνος ‘driving care away’ (adesp. in AP), λυσίγαμος
+‘dissolving marriage’ (Greg. Naz.).
+-----
+Onomastic compounds: Λύανδρος (Athens 5th c.), Λυσαγόρᾱς (Paros 6th c.),
+Λυσαιθίδᾱς (Messenia 2nd c.), Λυσαινέτη (Athens? 5th–4th c.), Λύσαιχμος (Athens
+4th c.), Λυσανδρίδᾱς (Corinth ca. 610–590), Λυσανίας (Athens 466/5), Λυσαρέτη
+(Athens 5th c.), Λυσαρίστη (Athens? 4th c.), Λύσαρχος (Euboea 5th c.), Λυσέρως
+(Calabria imp.), Λυσιάναξ (Elis 4th c.), Λυσίβιος (Euboea 5th c.), Λυσίδᾱμος
+(Sikyon 6th–5th c.), Λυσιδίκᾱ (Epidauros 7th–6th c.), Λυσίθεος (Athens ca. 475–
+450), Λυσικλῆς (Athens 6th–5th c.), Λυσικράτης (Euboea 6th–5th c.), Λυσίκριτος
+(Athens ca. 360 BC), Λυσικύδης (Argolis 4th c.), Λυσίλεως (Thasos b. 510 BC),
+Λυσίλοχος (Argos ?320 BC), Λυσίμαχος (Euboea 6th c. BC), Λυσιμβρότη (Nisyros
+2nd–1st c.), Λυσιμέδων (Athens 128/7 BC), Λυσιμένης (Athens 4th c.), Λυσιμήδης
+(Athens? ?2nd c.), Λυσιμνάστᾱ (Boeotia hell.), Λυσίνικος (Arcadia 4th c.), Λυσι-
+ξένη (Athens? 5th–4th c.), Λυσίπατρος (Thessaly 27 BC–14 AD), Λυσίπολις (Athens
+459/8), Λυσίπονος (Boeotia 3rd c.), Λύσιππος (Corinth ?ca. 550 BC), Λυσιπτόλεμος
+(Euboea ?6th c.), Λυσίστρατος (Argos 8th c.), Λυσιτάφᾱς (Crete 2nd c.), Λυσιτέλης
+(Pholegandros 2nd–1st c.), Λυσίτιμος (Athens 4th c.), Λυσιφάνης (Athens ca. 411
+BC), Λυσίφημος (Athens 409 BC), Λυσίφιλος (Athens ca. 500–480), Λυσιχάρης
+(Athens ca. 330–320).
+-----
+Agent nouns: λυτήρ ‘deliverer’ (Eur.).
+-----
+V2 compounds: ὠδινολύτης ‘setting free from pain’ (name of a kind of shell-fish,
+Plin.), νουσολύτης ‘freeing from illness’ (Ep. Gr. 1026), κομβολύτης ‘cut-purse’
+(Hsch.), χρησμολύτης ‘expounder of oracles’ (Tz. in schol. Lycophr.). Compounds
+in -λύτης become more common in Byzantine Greek: see list in Buck-Petersen 571.
+
+===
+μαίνομαι ‘rage, be mad’ (IVa)
+-----
+FC: μαιν-
+-----
+First attested compound: μαίνανδρος ‘mad after men’ (Hdn.).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None with agentive suffixes, but the verb develops a very
+common type in -μανής starting with γυναιμανής ‘mad for women’ (Hom.). A
+full list is provided in Buck-Petersen 721–722. The following forms are attested
+before the 3rd c.: φρενομανής ‘mad in the mind’ (Aesch.), ἀκρομανής ‘on the
+verge of madness’ (Hdt.), ἱππομανής ‘abounding in horses’ (Soph.), καρπομανής
+‘running to fruit’ (ibid.), δοριμανής ‘raging with the spear’ (Eur.), θυρσομανής ‘he
+who raves with the thyrsus’ (ibid.), χορομανής ‘mad after dancing’ (Aristoph.),
+ἡμιμανής ‘half-mad’ (Aeschin.), θηλυμανής ‘maddening women’ (Antim.).
+
+===
+μείγνυμι ‘mix’ (I)
+-----
+FC: μιξο-, μειξι-
+-----
+First attested compound: μιξέλληνες ‘half-Greeks’ (Hellanic.) Here the FC
+follows the meaning of the passive μείξομαι ‘to be mixed up with’. Compounds in
+μιξο- are a very frequent category; only Archaic and Classical examples are listed
+below.
+-----
+Appellative compounds: μιξολύδιος ‘half Lydian’ (name of a musical tone;
+Bacch.), μιξονόμος ‘feeding promiscuously’ (Simon.), μιξοβόᾱς ‘mingled with
+shouts’ (Aesch.), μιξόθροος ‘with mingled cries’ (ibid.), μιξόμβροτος ‘half-hu-
+man’ (ibid.), μίξοφρυς ‘having eye-brows that meet’ (Cratin.), μιξοπάρθενος
+‘half-maiden’ (Hdt.), μιξοθήρ ‘half-beast’ (ibid.), μιξοβάρβαρος ‘half-barbarian’
+(Eur.), μιξαιθρία ‘alternation of fair and foul weather’ (Hippocr.).
+-----
+Onomastic compounds: Μειξαρέτη (Euboea 3rd c.), Μειξιγένης (Athens 4th
+c.), Μειξίδημος (Athens 5th–4th c.), Μειξίθεος (Euboea 4th–3rd c.), Μειξικλῆς
+(Athens 376/5), Μειξικράτης (Athens ca. 367–360), Μειξίλᾱος (Boeotia ca. 76 BC),
+Μείξιππος (Athens 4th c.), Μειξίφρων (Euboea 4th–3rd c.), Μειξωνίδης (Athens
+4th c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None of the active type in AG. Compounds in -μιγής are all pas-
+sive.10 Byzantine Greek has the form δουλομίκτης ‘one who consorts with slaves’
+(Tz.). See too ἀρρενομίκτης ‘one who consorts with men’ (Man.).
+
+===
+μέλλω ‘to be about to’ (II)
+-----
+FC: μελλο-
+-----
+First attested compound: μελλόγαμος ‘awaiting marriage, betrothed’ (Soph.).
+10 Paliuri (2014: 45–46).
+
+===
+-----
+Appellative compounds: μελλοδειπνικός ‘(song sung while) waiting for dinner’
+(Aristoph.), μελλονικιάω ‘delay victory’ (ibid.), μελλέπταρμος ‘just going to
+sneeze’ (ibid.), μελλοθάνατος ‘at the point of death’ (schol. Aristoph.). As in
+other compound families, the FC often acquires the function of a modifying
+prefix, meaning ‘almost’: in the compounds μελλόνυμφος ‘about to be wedded’
+(Soph.) and μελλογυμνασίαρχος ‘about to be gymnasiarchos’ (P. Lond. 2.1166.3,
+1st c. AD) the FC seems to modify the SC, thus constituting a determinative
+structure.
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: μελλητής ‘one who has a hesitating character’ (Thuc.).
+-----
+V2 compounds: None.
+
+===
+μέλω ‘care, to be an object of care’ (II)
+-----
+FC: μελε-, μελησι-
+-----
+First attested compound: Μελέαγρος (Hom.): see Chapter 5, section 5.3.1.
+-----
+Appellative compounds: μελησίμβροτος ‘an object of care to men’ (Aesch.).
+-----
+Onomastic compounds: Μελέϊππος (Thera 3rd–2nd c.), Μελήσιππος (Sparta 5th
+c.), Μελέδᾱμος (Lesbos 3rd c.), Μελησαγόρης (Chios ?4th–3rd c.), Μελήσανδρος
+(Thasos b. 510 BC), Μελήσαρχος (Euboea 4th–3rd c.), Μελησίδημος (Thasos
+5th–4th c.), Μελεσικράτης (Thrace ca. 265–260), Μελήσιππος (Athens 5th–
+4th c.).
+-----
+Agent nouns: μελέτωρ ‘one who cares for, avenger’ (Soph.), μελητής ‘one who
+is in charge’ (Eust.).
+-----
+V2 compounds: Forms in -μελής are rare and mostly passive. None of them is
+compounded with a noun.
+
+===
+μέμφομαι ‘blame’ (I)
+-----
+FC: μεμψι-
+-----
+First attested compound: μεμψίμοιρος ‘criticizing’ (lit. ‘blaming the fate’; Isoc.).
+Other compounds: None. The late verb μεμψιβολέω ‘cast reproaches’ (Phot.)
+derives from a V2 compound with μέμψις ‘blame’ in the FC.
+-----
+Agent nouns: None. The adjective μεμπτός has the active meaning ‘throwing
+blame upon’ in Soph. Tr. 446).
+-----
+V2 compounds: None. Bahuvrihis in -μεμφής which could be treated as active
+verbal compounds are absent: the only exception could be the late πολυμεμφής
+‘much-blaming’ (Nonn.), which however could still be interpreted as a bahuvrihi.
+
+===
+μένω ‘stand, abide, await’ (III)
+-----
+FC: μενε-, μενο-, μενεσι-
+-----
+First attested compound: Μενέλᾱος (Hom.), μενεδήιος ‘abiding battle, stead-
+fast in battle’ (Hom.).
+-----
+Appellative compounds: μενεπτόλεμος ‘abiding war’ (Hom.), μενεχάρμης
+(ibid.) and μενέκτυπος (Bacch.) both ‘staunch in battle’, μένανδρος ‘awaiting
+a husband’ (Dion. Trag.) and μενέμαχος (App.) ‘staunch in battle’, μενέδουπος
+‘steadfast in the battle-din’ (Orph. A.).
+-----
+Onomastic compounds: Μέναιχμος (Locris 5th c.), Μενάλκης (Locris 468 BC),
+Μένανδρος (Thessaly 524 BC), Μενάρχᾱ (Boeotia 5th c.), Μενέβουλος (Thess-
+aly 2nd c.), Μενεγείτων (Boeotia ?ca. 200–170), Μενεγένης (Cyrene 4th–3rd c.),
+Μενεδάϊος (Sparta 426 BC), Μενέδᾱμος (Boeotia, Archaic period), Μενέδωρος
+(Cimmerian Bosporos 2nd–1st c.), Μενεθάλης (Delos 229 BC), Μενεθάρσης (Crete
+2nd c.), Μενέθοινος ‘one who awaits the feast?’ (Boeotia 5th c.), Μενεκάρτης (Crete
+3rd c.), Μενεκλῆς (Athens 5th c.), Μενέκορρος (Thessaly 3rd c.), Μενεκράτης
+(Corcyra 625–600), Μενέκριτος (Boeotia 5th c.), Μενεκύδης (Athens ca. 350–320),
+Μενέκωλος (Syracuse ca. 600 BC), Μενέλοχος (Athens 326/5), Μενέμαχος (Athens?
+4th–3rd c.), Μενενίκᾱ (Crete 223/2), Μενέξενος (Athens 5th c.), Μενέπολις (Acarna-
+nia 3rd c.), Μενεπτόλεμος (Selinous 7th–6th c.), Μενέσαιχμος ‘one who stands by
+his spear’ (Athens ca. 500 BC), Μενεσθένης (Athens 4th c.), Μενέστρατος (Athens
+5th c.), Μενέσστροτος (Boeotia 3rd–2nd c.), Μενετέλης (Athens 412/11), Μενέτιμος
+(Sikyon 6th–5th c.), Μενέφιλος (Eretria 4th c.), Μενέφρων (Eretria ?500–480),
+Μενέφυλος (Boeotia 5th c.), Μενεχαρίδᾱς (Sparta ca. 400–375), Μενέχαρμος
+(Scythia Minor 4th c.), Μενέχωρος (Eretria 2nd c.), Μενέψοφος (Athens 464 BC),
+Μένιππος (Athens 5th c.). A number of PNs in Μενε- have variants in Μενεσι-:
+e.g. Μενεσικράτης (Athens? 4th c.), Μενεσίστρατος (Rhodes 2nd c.), Μενέσιππος
+(Amorgos ?2nd–1st c.) or in Μενο- e.g. Μενοπτόλεμος (Tenos hell.?).
+-----
+Agent nouns: Only forms deriving from compound verbs, like παράμο-
+νος ‘constant’.
+-----
+V2 compounds: None. The only form conveying verbal active semantics is
+ἀείμονος ‘everlasting’, attested in Byzantine Greek (LBG).
+
+===
+μιμνήσκω ‘remind of’/ μιμνήσκομαι ‘remember’ (IV)
+-----
+FC: μνησι-
+-----
+First attested compound: ma-na-si-we-ko (= Μνησίεργος).
+-----
+Appellative compounds: μνᾱσιστέφανος ‘remindful of crowns’ (LSJ: ‘wooing
+crowns’; Pi.), μνησιπήμων ‘reminding of misery’ (Aesch.), μνησίκακος ‘revenge-
+ful’ (Aristot.; the denominative μνησικακέω ‘remember past injuries’ occurs in
+Hdt. and in contemporary Attic inscriptions), μνησίθεος ‘name of a plant’ (Ps.
+Diosc.).
+-----
+Onomastic compounds: Μνᾱσάλκης (Boeotia ?ca. 550–525), Μνᾱσανδρίδᾱς (Seli-
+nous 5th c.), Μνᾱσιγείτων (Athens 4th–3rd c.), Μνᾱσιγένης (Boeotia 6th–5th c.),
+
+===
+Μνᾱσιδίκᾱ (Sapph.), Μνᾱσίδωρος (Rhodes 4th–3th c.), Μνᾱσιθάλης (Gela 6th–5th
+c.), Μνᾱσίθεος (Aegina 6th–5th c.), Μνᾱσικάρτης (Crete 3rd c.), Μνᾱσικύδης
+(Delos 2nd c.), Μνᾱσίμαχος (S. Italy? 6th–5th c.), Μνᾱσίμορτος (Crete? ?5th c.),
+Μνᾱσίξενος (Phokis 5th c.), Μνᾱσίοργος (Boeotia 3rd c.), Μνᾱσίοχος (Megaris 3rd
+c.), Μνᾱσίπονος (Thera ?6th c.), Μνᾱσιρόᾱ (Boeotia ?3rd–2nd c.), Μνᾱσισθένης
+(Messene ca. 208 BC), Μνᾱσίτιμος (Rhodes 374/3), Μνησαγόρᾱς (Athens 423 BC),
+Μνησαρέτη (Athens ca. 450–425), Μνήσαρχος (Samos 6th c.), Μνησιάναξ (Cos
+3rd c.), Μνησίβιος (Athens ca. 411 BC), Μνησίβουλος (Athens 4th c.), Μνησίδημος
+(Athens 4th c.), Μνησιέπης (Paros ?2nd–1st c.), Μνησίεργος (Athens 398/7), Μνη-
+σικαρίας? (Euboea 5th c.), Μνησικήδης (Athens 464 BC), Μνησικλῆς (Chios? 6th
+c.), Μνησικράτης (Athens ca. 411 BC), Μνησικρίτη (Athens? 4th c.), Μνησίλεως
+(Paros ?5th), Μνησίλοχος (Athens 5th c.), Μνησίμβροτος (Samos 3rd c.), Μνησι-
+μήδη (Athens? 4th c.), Μνησίπολις (Dalmatia 4th–3rd c.), Μνήσιππος (Athens 5th
+c.), Μνησιπτολέμᾱ (Athens 5th c.), Μνησιστράτη (Athens? 5th c.), Μνησιτέλης
+(Athens 405 BC), Μνησιφάνης (Athens 4th c.), Μνησίφιλος (Athens 5th c.),
+Μνησιχάρης (Athens 4th c.).
+-----
+Agent nouns: μνηστήρ ‘suitor’ (Hom.), μνήστωρ ‘mindful of’ (Aesch.). The old
+formation μνήμων ‘mindful’ (Hom.) also has the function of an agent noun.
+-----
+V2 compounds: πολυμνήστωρ ‘much-remembering’ (Aesch.), ἀμνήμων ‘unmind-
+ful’ (Pi.), ἱερομνήμων ‘mindful of sacred things’ (usually indicating the repre-
+sentative of the Delphic council, Dem.), εὐμνήμων ‘easy to remember’ (Xen.),
+πολυμνήμων ‘remembering many things’ (Plu.).
+
+===
+μίμνω ‘stay, stand’ (I)
+-----
+FC: μιμν(ο)-
+-----
+First attested compound: Μίμνερμος (7th c.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: Μιμναγόρης (Thasos 5th–4th c.), Μιμνοκλῆς (Athens
+104/3), Μιμνοκράτης (Athens 4th c.), Μιμνόμαχος (Thasos ca. 385 BC), Μιμνόπολις
+(Crete 228/7).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+μίσγω ‘mix’ (I)
+-----
+FC: μισγ(ο)-
+-----
+First attested compound: μισγάγκεια ‘meeting of the waters’ (Hom.).
+-----
+Appellative compounds: μισγοδία ‘place where streets meet’ (Hsch., synonym
+of μιξοδία).
+-----
+Onomastic compounds: Μισγόλᾱς (Athens 5th c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None of the active type. Compounds in -μιγής are always passive:
+see μείγνυμι, and Chapter 6, section 4.3.
+
+===
+μισέω ‘hate’ (IVa)
+-----
+FC: μισο-
+-----
+First attested compound: μισόθεος ‘hating the gods’ (Aesch.).
+-----
+Appellative compounds: μισοτύραννος ‘tyrant-hater’ (Hdt.), μισοδήμος ‘hating
+democracy’ (Aristoph.), μισολάκων ‘hating Laconians’ (ibid.), μισοπόρπαξ
+‘hating the shield-handle (hating war)’ (ibid.), μισοβάρβαρος ‘hating foreign-
+ers’ (Pl.), μισόσοφος ‘hating wisdom’ (ibid.), μισοπόνηρος ‘hating knaves’
+(Dem.), μισότεκνος ‘hating children’ (Aeschin.), μισοφίλιππος ‘hating Philip’
+(ibid.), μισόφιλος ‘hating friends’ (Aristot.), μισόθηρος ‘hating the chase’ (Xen.),
+μισοπέρσης ‘hater of the Persians’ (ibid.). For other post-Classical compounds,
+see LSJ.
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: μισητής ‘hater’ (Athanasius).
+-----
+V2 compounds: There are no compounds in -μισητής. The following compounds
+in -μισής have verbal active semantics: θεομισής ‘hating the gods’ (Aristoph.; the
+passive meaning ‘heated by the gods’ is attested in Plato), φανερομισής ‘hating
+openly’ (Aristot.), πολυμισής ‘much-hating’ (Luc.).
+
+===
+νικάω ‘win’ (IVb)
+-----
+FC: νικησι-
+-----
+First attested compound: Νικᾱσίβιος (Corcyra 5th c.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: The FC is either νικο- or νικησι- (νικᾱσι-). SCs freely
+occur with both FCs. The following list includes only names which have a prob-
+able V1 structure (doublets are not repeated): Νικαγόρης (Thasos b. 510 BC),
+Νίκαθλος (Cyrenaica 68 or 4 BC), Νικᾶναξ (Telos 3rd c.), Νικάνδρη (Naxos ca. 650
+BC), Νικάνθης (Cyprus 5th–4th c.), Νικάνωρ (Paros 5th c.), Νικαρέτη (Athens ca.
+480–470), Νίκαρχος (Athens ca. 510 BC), Νικᾱσίβιος (Corcyra ca. 500 BC), Νικᾱ-
+σιβούλᾱ (Messenia 4th c.), Νικᾱσίδᾱμος (Locris 336–332), Νικᾱσίδικος (Tenedos
+4th–3rd c.), Νικᾱσίθεος (Rhodes 146 BC), Νικᾱσικλῆς (Rhodes ca. 370 BC), Νικᾱ-
+σικράτης (Rhodes 4th–3rd c.), Νικᾱσίλᾱς (Thera ?6th c.), Νικᾱσίμαχος (Thessaly
+ca. 230–200), Νικᾱσίπολις (Thessaly 4th–3rd c.), Νικᾱσιχάρης (Boeotia ?277–274),
+Νικᾱσίχορος (Locris ca. 230 BC), Νικησίδικος (Athens 377/6), Νικήσιππος (Athens
+ca. 520 BC), Νικόβουλος (Athens 424 BC), Νικογένης (Athens 4th c.), Νικόδημος
+(Athens ca. 485–480), Νικόδικος (Macedonia 5th c.) Νικόδρομος (Aegina 6th–5th
+c.), Νικόδωρος (Arcadia b. 425 BC), Νικοθέα (Athens? ?3rd c.), Νικόθεμις (Amorgos
+ca. 200 BC), Νικοκλῆς (Aegina 6th–5th c.), Νικοκράτης (Athens 4th c.), Νικοκρέων
+
+===
+(Cyprus 4th c.), Νικόκριτος (Kalymnos ca. 200 BC), Νικόλᾱος (Corinth 7th–6th
+c.), Νικολέων (Aetolia 2nd c.), Νικόλοχος (Laconia 5th c.), Νικόμαχος (Metapon-
+tum ?ca. 525–500), Νικομένης (Athens 459/8), Νικομήδης (Messenia 8th–7th c.),
+Νικονίκη (Athens? 4th c.), Νικονόᾱ (Macedonia 7th–6th c.), Νικόνομος (Athens
+109–96), Νικόξενος (Athens ca. 500 BC), Νικοπάτρᾱ (Athens 4th c.), Νικόπολις
+(Athens? 440–430), Νικοσθένης (Chios? 6th c.), Νικόστρατος (Athens ca. 520 BC),
+Νικοτέλεια (Messenia 8th–7th c.), Νικότιμος (Rhodes ca. 242 BC), Νικοτύχη (Crete
+182 AD), Νικόφᾱμος (Rhodes ca. 335 BC), Νικοφάνης (Sicyon 6th–5th c.), Νικο-
+φρέων (Athens 226/5), Νικοχάρης (Athens 5th–4th c.).
+-----
+Agent nouns: νικᾱτήρ ‘winner’ (Crete 3rd c.–2nd c. BC), νικήτωρ ‘victorious’
+(Greek translation of Victrix in Legio Victrix, Dio Cassius), νικητής ‘winner in
+games’ (CIG 5035, Nubia 240 AD; also used as ‘conqueror’).
+-----
+V2 compounds: There are no compound forms of the agent nouns. Active verbal
+semantics is conveyed by some of the compounds in -νίκης and -νικος. The fol-
+lowing forms are the most ancient: οὐρανόνικος ‘conquering heaven’ (Aesch.),
+̓λυμπιόνικος ‘victorious in the Olympic games’ (Pi.), Πυθόνικος ‘winner at the
+Pythian games’ (ibid.), Ἰσθμιόνικος ‘winner in the Isthmian games’ (Bacch.),
+πάννικος ‘all-victorious’ (ibid.); ̓λυμπιονίκᾱς ‘conqueror in the Olympic games’
+(Pi.), Πυθιονίκᾱς ‘winner in the Pythian games’ (ibid.), Ἰσθμιονίκης ‘winner in the
+Isthmian games’ (Bacch.).
+
+===
+ὄλλυμι ‘destroy’ (IV)
+-----
+FC: ὀλεσι-
+-----
+First attested compound: ὠλεσίκαρπος ‘destroying fruits’ (Hom.; the long
+vowel is explained by DEG as a metrical variant).
+-----
+Appellative compounds: ὀλεσήνωρ ‘destroying men’ (Thgn.), ὀλεσίθηρ ‘destroy-
+ing wild beasts’ (Eur.), ὀλεσίπτολις ‘destroying cities’ (Tryph.), ὀλεσσιτύραννος
+‘destroying tyrants’ (Cometas), ὀλεσίμβροτος ‘destroying men’ (Procl.).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: ὀλετήρ ‘destroyer’ (Hom.). ὀλέτης ‘destroyer’ (LSJ) is a vox nihili:
+see Chapter 6, section 2.13.
+-----
+V2 compounds: ἀνδρολέτειρα ‘murderess’ (Aesch.), παιδολέτωρ ‘child-murder-
+ing’ (ibid.), παιδολέτειρα ‘murderess of her children’ (Eur.), πατρολέτωρ ‘parri-
+cide’ (Antiph. Epigr.), θηρολέτης ‘slayer of beasts’ (Phil. Epigr.), Γιγαντολέτωρ
+‘giant-killer’ (Luc.), ψυχολέτης ‘soul-destroyer’ (Hdn.), αἰνολέτης ‘dire destroyer’
+(Orph. A.), Γιγαντολέτης ‘giant-killer’(AP 9.524, adesp.), δρακοντολέτης ‘ser-
+pent-slayer’ (AP 9.525.5, adesp.). A few active compounds in -ωλής are attested
+from the 5th c. onwards.
+
+===
+ὀνίνημι ‘profit’ (II)
+-----
+FC: ὀνησι-
+-----
+First attested compound: ὀνησίπολις ‘profiting the state’ (Simon.)
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds:  ̓Ονᾱσαγόρας (Cyprus 7th–6th c.),  ̓Ονᾱσιάναξ (Cyprus
+4th c.),  ̓Ονᾱσιγένης (Kalymnos 3rd c.),  ̓Ονᾱσίδᾱμος (Cyprus ?5th c.),  ̓Ονᾱσιθάλης
+(Cyprus 4th c.),  ̓Ονᾱσίθεμις (Cyprus 6th c.),  ̓Ονᾱσίθεος (Delos ca. 100 BC),
+ ̓Ονᾱσικρέτης (Cyprus 6th–4th c.), ̓νᾱσίκυπρος (Cyprus 6th–4th c.),  ̓Ονᾱσίλᾱς
+(Cyprus 6th c.),  ̓Ονᾱσίμαχος (Kalymnos ca. 200 BC),  ̓Ονᾱσίμβροτος (Thess-
+aly ca. 160 BC),  ̓Ονᾱσιμένης (Cyprus 4th c.),  ̓Ονᾱσίνικος (Cyprus 5th–4th c.),
+ ̓Ονᾱσίοικος (Cyprus 4th c.),  ̓Ονᾱσίορος (Cyprus ?5th–4th c.),  ̓Ονᾱσίπολις (Laconia
+3rd c.),  ̓Ονᾱσίστρατος (Rhodes 2nd c.),  ̓Ονᾱσιτέλης (Rhodes 2nd c.),  ̓Ονᾱσίτιμος
+(Cyprus 6th–4th c.),  ̓Ονᾱσιφάνεια (Rhodes 2nd c.),  ̓Ονᾱσίφαντος (Cyprus 4th c.),
+ ̓Ονᾱσίφιλος (Boeotia ca. 220–200),  ̓Ονᾱσίχαρις (Paros 6th c.),  ̓Ονᾱσίχαρμος (Crete
+hell.), ̓νήσανδρος (Athens 5th c.),  ̓Ονησαρέτη (Amorgos 4th–3rd c.),  ̓Ονήσαρχος
+(Euboea 4th–3rd c.),  ̓Ονησίβιος (Athens ca. 550 BC),  ̓Ονησίβουλος (Eretria 4th–3rd
+c.),  ̓Ονησικλῆς (Amorgos 4th c.),  ̓Ονησίκριτος (Athens 4th c.), ̓νησιμιανή (Cyprus
+3rd c. AD),  ̓Ονήσιππος (Athens ca. 400 BC),  ̓Ονησιφόρος (Cimmerian Bosporos 3rd
+c.).
+-----
+Agent nouns: ὀνήτωρ ‘bringing benefits’ (Gal.: technical name of a kind of
+plaster).
+-----
+V2 compounds: None.
+
+===
+ὁρμάω ‘set in motion’ (II)
+-----
+FC: ὁρμησι-
+-----
+First attested compound:  ̔Ορμᾱσίλᾱς (Argos 4th c.).
+Other compounds: None.
+-----
+Agent nouns: ὁρμητής ‘someone ready to strike’ (Philostr.) and ‘imperious
+person’ (Philostr. Jun.), ὁρμάστειρα ‘one who urges on’ (Orph. H.).
+-----
+V2 compounds: None.
+
+===
+ὄρνυμι ‘incite, making to arise, start up’ (IV)
+-----
+FC: ὀρτι-, ὀρσι-, ὀρσο-
+-----
+First attested compounds: e-ti-me-de-i /Ertimēdehi/ (dat.), e-ti-ra-wo /Ertilāwos/
+(for both, see the interpretation in Chapter 4, section 7.2), o-ti-na-wo /Ortināwos/.
+-----
+Appellative compounds: ὀρσινεφής ‘raising the clouds’ (Pi.), ὀρσίκτυπος ‘stir-
+ring noise’ (ibid.), ὀρσοτρίαινα ‘wielder of the trident’ (ibid.), ὀρσίαλος ‘stirring
+the sea’ (Bacch.), ὀρσίβακχᾱς ‘inciting Bacchants’ (ibid.), ὀρσίπους ‘raising the
+foot’ (Simm.), ὀρσιγυναίκα ‘exciting women’ (PMG adesp. 1003, acc. sg.), ὀρσόθριξ
+‘raising the hair’ (Theognost.)
+-----
+Onomastic compounds: (Liter.) ̓ρσίλοχος (Hom.), ̓ρτίλοχος (ibid.),  ̓Ορσέ-
+λᾱος (Pi.). (Ep.)  ̓Ορσικῖνος (Syracuse 3rd–5th c. AD),  ̓Ορσικλῆς (Crete 2nd c.),
+ ̓Ορσικράτης (Acarnania 3rd c.),  ̓Ορσίμαχος (Boeotia 3rd c.),  ̓Ορσιμένης (Athens ca.
+505 BC),  ̓́Ορσιππος (Athens 6th c.),  ̓Ορσίφαντος (Sparta 6th–5th c.),  ̓Ορσοάλτιος
+(Thrace 3rd c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: Λαέρτᾱς (Hom.), Λυκόρτᾱς (ibid.).
+
+===
+παύω ‘stop’ (II)
+-----
+FC: παυσι-
+-----
+First attested compound: παυσάνεμος ‘stopping the winds’ (Aesch.), παύσυβρις
+‘checking insolence’ (ibid.).
+-----
+Appellative compounds: παυσανίας ‘allaying the sorrows’ (Soph.), παυσίλυπος
+‘ending pain’ (ibid.), παυσίνοσος ‘ending illness’ (ibid.), παυσίπονος ‘ending toil’
+(Eur.), παυσινύσταλος ‘ending drowsiness’ (Ael. Dion.), παυσ́δυνος ‘stopping
+pain’ (schol. Soph.).
+-----
+Onomastic compounds: Παύσανδρος (Cyprus ?6th c.), Παυσικᾶς (Cyprus 5th
+c.), Παυσικλῆς (Melos 5th–4th c.), Παυσικράτης (Eretria 4th–3rd c.), Παυσίλοχος
+(Rhodes 188–167), Παυσίλυπος (Athens ca. 148–117), Παυσίμαχος (Samos ?b. 500
+BC), Παυσιπόλεμος (Rhodes ca. 325 BC), Παύσιππος (Sparta 330 BC), Παυσίστρατος
+(Athens 405 BC), Παυσίτιμος (Cyprus 5th c.), Παυσίχαρις (Cyprus 5th c.).
+-----
+Agent nouns: παυστήρ ‘one who stops’ (Soph.), παύστωρ ‘one who stops’ (Isyll.).
+-----
+V2 compounds: None.
+
+===
+πείθω/πείθομαι ‘persuade, obey’ (IVa)
+-----
+FC: πεισι-, πειθε-, πειθo-, πειθεσι-
+-----
+First attested compound: Πείσανδρος (Hom.).
+-----
+Appellative compounds: πεισιχάλινος ‘obeying the rein’ (Pi.), πεισίμβροτος
+‘obeying mortals’ (Bacch.), πεισίβροτος ‘id.’ (Aesch.), πείθαρχος ‘obeying author-
+ity’ (ibid.), πειθαρχέω ‘obey one in authority’ (Eup.), πεισιθάνατος ‘persuading to
+die’ (D.L.), πειθοδικαιόσυνος ‘obedient to justice’ (PGM 5.403, 4th c. AD).
+-----
+Onomastic compounds: Πειθαγόρας (Cyprus 6th c.), Πείθανδρος (Euboea 5th
+c.), Πείθαρχος (Eretria 4th–3rd c.), Πειθέλᾱος (Thessaly ca. 191 BC), Πειθένους
+(Athens ca. 330–320), Πειθέρως (Calabria 1st c. AD), Πειθεσίλεως (Thrace ca.
+360–350), Πειθίδᾱμος (Laconia 5th c.), Πειθικλῆς (Athens ca. 259–256), Πειθιμένης
+(Keos 4th–3rd c.), Πείθιππος (Thessaly 4th–3rd c.), Πειθόδημος (Athens 39/8),
+Πειθοκράτης (Rhodes 3rd–2nd c.), Πειθόλᾱος (Thessaly 4th c.), Πειθομένης (Thes-
+saly ?160 BC), Πειθόξενος (Athens 189/90 AD), Πειθόστρατος (Rhodes 3rd–2nd
+c.), Πεισαγόρας (Thera ?7th–6th c.), Πείσανδρος (Rhodes 7th–6th c.), Πεισαρέτᾱ
+(Rhodes imp.), Πείσαρχος (Syracuse 317 BC), Πεισιάναξ (Athens ca. 530–520),
+
+===
+Πεισίβουλος (Paros 279 BC), Πεισιδάμας (Athens 330/29), Πεισίδᾱμος (Kalymnos
+3rd c.), Πεισιδίκη (Athens ca. 400 BC), Πεισιδότᾱ (Rhodes ca. 115 BC), Πεισίθεος
+(Athens 371/0), Πεισικλῆς (Athens ca. 338–326), Πεισικράτης (Taras 6th c.),
+Πεισίλεως (Athens 405 BC), Πεισίλοχος (Rhodes ca. 325 BC), Πεισιμαχίς (Cos ca. 200
+BC), Πεισίμβροτος (Rhodes 3rd c.), Πεισίνικος (Keos 4th–3rd c.), Πεισίνους (Rhodes
+?6th c.), Πεισίπολις (Rhodes 3rd c.), Πεισίπορος (Thera ?6th c.), Πείσιππος (Athens
+ca. 450–430), Πεισίστρατος (Athens ?7th c.), Πεισίρροδος (Taras 6th c.), Πεισιτέλης
+(Tenos 4th BC), Πεισόδωρος (Thessaly 27 BC–14 AD).
+-----
+Agent nouns: πειστήρ ‘one who obeys’ (Suid.).
+-----
+V2 compounds: ἑτοιμοπειθής ‘ready to obey’ (Hdn.), θεοπειθής ‘obedient to God’
+(Hierocl.).
+
+===
+πέπ̄μαι ‘own’ (II)
+-----
+FC: πασι-
+-----
+First attested compound: qa-sa-ko /Kwāsarkhos/? (= Πάσαρχος, Corinth ?274
+BC).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: Πασίβοιος (Boeotia 3rd c.), Πάσιππος (Cyrene 4th c.)
+and Πασικράτης (Rhodes ca. 350–325) yield meanings which can be connected to
+πέπᾱμαι. Many other names in Πασι- may derive from this root, but the homonimy
+of compounds of πᾶς makes it difficult to separate the two groups. See analysis in
+Chapter 5, section 5.3.1.
+-----
+Agent nouns: πάστᾱς ‘owner’ (IC 4.72.col.II.1.43, Crete 5th c.)
+-----
+V2 compounds: None.
+
+===
+πέρθω ‘destroy’ (IV)
+-----
+FC: περσι-
+-----
+First attested compound: περσέπτολις ‘destroying cities’ (Hes.). For Περσεφόνεια,
+which is not to be connected to πέρθω, see the discussion in Chapter 6, section 3.2.
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: Only πτολιπόρθος ‘destroying cities’ (Hom.).
+
+===
+πήγνυμι ‘fix, make solid’ (IV)
+-----
+FC: πηγεσι-, πηξι-
+-----
+First attested compound: πηγεσίμαλλος ‘thick-fleeced’ (Hom.). The FC does
+not have a governing function and characterizes a ‘compressed’ fleece: for the
+structure of this compound, see Chapter 6, section 3.2.
+Other compounds: πηξιθάλαττα ‘she that freezes the sea’ (fr. adesp. 655 K-A).
+-----
+Agent nouns: None from the simple verb, but see ἐμπήκτης ‘one who sticks up
+judicial notes’ (Aristot.).
+-----
+V2 compounds: ἁμαρτοπηγός ‘building chariots’ (Hom.), ναυπηγός ‘ship-builder’
+(Thuc.), σοροπηγός ‘coffin-maker’, (Aristoph.), ἁλοπηγός ‘one who prepares salt’
+(Nic.), ἁμαξοπηγός ‘cartwright’ (Plu.), ἀσπιδοπηγός ‘shield-maker’ (Poll.; already
+present in the comic compound τορνευτολυρασπιδοπηγός ‘lyre-turner and
+shield-maker’, Aristoph.), κλινοπηγός ‘maker of beds’ (Theognost.), ἀγριοπηγός
+‘someone who works raw wood’ (schol. Aristoph.). The following three forms in
+-παγής have active meaning: γυιοπαγής ‘stiffening the limbs’ (Antip.), ἰχθυπαγής
+‘piercing fish’ (Theaet.) and ναυπηγής ‘ship-building’ (Man.).
+
+===
+πίμπλημι ‘fill’ (I)
+-----
+FC: πλησι-
+-----
+First attested compound: πλησίστιος ‘filling the sails’ (Hom.).
+-----
+Appellative compounds: πλησιφαής ‘with full light’ (Man.).
+-----
+Onomastic compounds: Πλησικράτης (Thasos 4th–3rd c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+πλήσσω ‘strike’ (IV)
+-----
+FC: πληξι-
+-----
+First attested compound: πλήξιππος ‘striking horses’ (Hom.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: Πλήξιππος (Athens ca. 510 BC).
+-----
+Agent nouns: πλήκτης ‘striker’ (Aristot.), πληκτήρ ‘striking object or person’
+(Hdn.), πλάκτωρ ‘striker’ (Doric form, Phan.).
+-----
+V2 compounds: διοπλήκτᾱν (acc. sg.) ‘striken by god’? (Hsch.), ἰσχυροπλήκτης
+‘wounding severely’ (ibid.). See also the earlier φρενοπληγής ‘striking the mind’
+(Aesch.), καρτεροπληγής ‘striking fiercely’ (D.S.).
+
+===
+πράσσω ‘accomplish, achieve, exact payment’ (IV)
+-----
+FC: πραξι-
+-----
+First attested compound: Πραξιτέλης (Athens ca. 490 BC).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: Πραξαγόρᾱς (Aegina 5th c.), Πράξανδρος (Cyprus 6th
+c.), Πραξιάναξ (Cos ca. 366–350), Πραξίβιος (Laconia 5th c.), Πραξίβουλος (Athens
+421/0), Πραξίδᾱμος (Arcadia 4th c.), Πραξιδίκᾱ (Thessaly 6th c.), Πραξιέπης
+(Myconos 297 BC), Πραξίεργος (Athens 471/0), Πραξιθέᾱ (Cos 5th c.), Πραξικλῆς
+(Melos 5th c.), Πραξικράτης (Megara 3rd c.), Πραξικρέων (Myconos 297 BC),
+
+===
+Πραξικύδης (Melos 5th c.), Πραξίλᾱς (Keos 4th–3rd c.), Πραξιμένης (Locris ?ca.
+625–600), Πραξιμήστωρ (Kalymnos ca. 200 BC), Πραξίνικος (Athens ca. 450 BC),
+Πραξίνοος (Arcadia ca. 425–385), Πραξίοδος (Rhodes 6th c.), Πραξιοπώ (Phole-
+gandros ?1st c. AD), Πραξίοχος (Crete 223/2), Πραξίπολις (Kalymnos ca. 200 BC),
+Πράξιππος (Cyprus 4th c.), Πραξίστρατος (Thera imp.), Πραξιτέλης (Troizen ?ca.
+500 BC), Πραξιτίμᾱ (Argolis 4th c.), Πραξιφάνης (Lesbos 3rd c.), Πραξίφαντος
+(Kalymnos ca. 200 BC), Πραξίχαρις (Rhodes 3rd–2nd c.).
+-----
+Agent nouns: πρηκτήρ ‘doer’ (Hom.), πράκτωρ ‘one who does or executes’
+(Soph.), πρήκτης ‘treacherous person’ (Hippocr.): for this form, see Chapter 6,
+section 3.2.
+-----
+V2 compounds: παντοπράκτης ‘ready to do anything’ (Ptol.), λογοπράκτωρ, of
+dubious sense (PBaden 26.40, 3rd c. AD). Active compounds in -ής: δυσπρᾱγής
+‘faring ill’ (Vett. Val.), εὐπρᾱγής ‘doing well’ (adverb in John Chrys.), ἀδικοπρᾱγής
+‘acting wrongly’ (Stob.), κακοπρᾱγής ‘evil-doing’ (Hsch.), δικαιοπρᾱγής ‘acting
+justly’ (PSI 1.76.5, 6th c. AD).
+
+===
+ῥάπτω ‘sew together’ (IV)
+-----
+FC: ῥαψ(ι)-
+-----
+First attested compound: ῥαψωδός ‘one who sews together poems, reciter of
+epic poems’ (Hes.), with its derivations ῥαψῳδία and ῥαψῳδέω.
+Other compounds: None.
+Agent noun: ῥάπτης ‘clothes-mender’ (Philox. Gramm.).
+-----
+V2 compounds: δικορράπτης ‘pettifogger’ (Phryn.), σαγματοράπτης ‘saddler’
+(POxy. 1883.3, 6th c. AD): both have older parallels ending in -ρράφος, which is
+the older and more productive type of SC from this root, though most forms belong
+to post-Classical Greek. A full list is provided in Buck-Petersen 401. The following
+forms are attested before the 3rd c.: μηχανορράφος ‘forming crafty plans’ (Soph.),
+ἱστιορράφος ‘sail-patcher’ (Poll.: used in the sense of ‘tricky fellow’ in Aristoph.),
+νευρορράφος ‘one who stitches with sinews, mender of shoes’ (Aristoph.). Active
+-ής compounds: λινορραφής ‘making nests’ (Nonn.; previously ‘sewn of flax’) and
+δολορραφής ‘weaving treacherously’ (Nonn.; previously ‘woven treacherously’).
+
+===
+ῥήγνυμι ‘break’ (II)
+-----
+FC: ῥηξι-
+-----
+First attested compound: ῥηξήνωρ ‘breaking armed ranks’ (lit. ‘breaking
+men’; Hom.).
+-----
+Appellative compounds: ῥηξίχθων ‘bursting forth from the earth’ (lit. ‘break-
+ing the earth apart’; Strato Com.), ῥηξικέλευθος ‘opening a path’ (AP 9.525.18,
+adesp.), ῥηξίνοος ‘breaking the wits’ (AP 9.524, adesp.).
+-----
+Onomastic compounds: Ῥηξίβιος (Locris 536 BC), Ῥηξίμαχος (Euboea 4th–3rd c.).
+-----
+Agent nouns: ῥήκτης ‘breaker’ (Aristot.).
+-----
+V2 compounds: None of the agentive type. There are two 5th-century compounds
+in -ρραγής with active meaning, αἱμορραγής ‘bleeding’ (Soph.) and ψυχορραγής
+‘letting the soul break loose’ (Eur.), but the type remains overwhelmingly passive
+throughout.
+
+===
+ῥίπτω ‘throw, hurl’ (I)
+-----
+FC: ῥιψι-
+-----
+First attested compound: ῥιψαύχην ‘tossing the neck’ (Pi.).
+-----
+Appellative compounds: ῥίψοπλος ‘throwing away one’s weapons’ (said
+of a panic flight; Aesch.), ῥίψασπις ‘throwing away the shield’ (Aristoph.),
+ῥιψόφθαλμος ‘casting the eyes about’ (Ptol.).
+-----
+Onomastic compounds: Ῥιψόλᾱος (Sparta 624 BC).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None of the active type. Compounds in -ρριφής, attested from the
+5th c., are all passive.11
+
+===
+σείω ‘shake’ (IV)
+-----
+FC: σεισι-
+-----
+First attested compound: σεισίχθων ‘shaking the earth’ (Pi.).
+-----
+Appellative compounds: σεισάχθεια ‘shaking off of burdens’ (Aristot.).
+-----
+Onomastic compounds: Σεισίλοχος (Athens 5th c.), Σείσιππος (Aeolic Cyme 350–
+250).
+Agent noun: σειστής ‘kind of earthquake’ (Lyd.).
+-----
+V2 compounds: πυργοσείστης ‘tower-shaker’ (an engine of war; Anon. in Rhetor-
+ica anonyma 3.350 Walz).
+
+===
+σπένδω ‘pour, make a drink offering’ (I)
+-----
+FC: σπενσι-, σπενδε-?
+-----
+First attested compound: Σπενσίθεος ‘one who makes offerings to the gods’
+(Crete ca. 500 BC). If the etymology is correct, the FC would seem to be formed
+on the original stem of the s-aorist σπεν-σ-, with a phonological treatment only
+reserved to secondary [ns] sequences in Cretan.
+-----
+Onomastic compounds: the FC σπενδε- may lie behind the Kurzname Σπένδων
+(Thebes ca. 316–250), which however is interpretable also as a participle.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None. Compounds in -σπονδος are bahuvrihis containining
+σπονδή: e.g. τρίσπονδος ‘consisting of three pourings’ (Soph.), οἰνόσπονδος ‘with
+11 Paliuri (2014: 55).
+
+===
+offerings of wine’ (Poll.), or, more rarely, prepositional governing compounds
+like ὑπόσπονδος ‘under a treaty’ (Hdt.) and παράσπονδος ‘contrary to a treaty’
+(Thuc.).
+
+===
+σπεύδω ‘urge, strive after’ (I)
+-----
+FC: σπευσι-, σπευδε-?
+-----
+First attested compound: Σπεύσιππος (Athens 415 BC).
+-----
+Onomastic compounds: Σπευσανδρίδης (Athens? 5th–4th c.), Σπευσικλῆς
+(Athens 4th c.), Σπευσικράτης (Athens ?343–2 BC). The FC σπευδε- may lie behind
+the Kurzname Σπεύδων (Pharsalos ca. 230–200 BC).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+στέλλω ‘make ready, fit out, send’ (IV)
+-----
+FC: στελλε-
+-----
+First attested compound: Στελλανδρίδης (Thasos 5th–4th c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: Although most of the frequent compounds in -στολος are bahu-
+vrihis from στόλος ‘equipment’ or στολή ‘expedition’, the following forms have
+a probably V2 agentive structure: πυγοστόλος, literally ‘fitting out, decorating
+her buttocks’ (Hes.), and by γαμοστόλος ‘preparing a wedding’ (attributed to
+Pisander by schol. Eur.), πομποστολέω ‘conduct a procession’ (IG 2.1325, Athens,
+174–173), νεκυοστόλος ‘ferrying the dead’ (Antip. Thess.), νυμφοστόλος ‘escort-
+ing the bride’ (Jos.), νεκροστόλος ‘layer-out of corpses’ (Artem.), φορτοστόλος
+‘sending off a freight’ (Man.), ψυχοστόλος ‘escorting souls’ (Tryph.).
+
+===
+στέργω ‘love’ (IVa)
+-----
+FC: στεργ-
+-----
+First attested compound: ἀστεργάνωρ ‘not loving men’ (i.e. ‘not having loved
+men’, said of Io who was loved by Zeus, Aesch.) is a poetic formation likely to be
+based on the unattested **στεργάνωρ.
+Other compounds: στεργοξύνευνος ‘loving one’s consort’ (Lycophr.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: One of the few compounds in -στεργής, ἀστεργής ‘not loving’,
+has an active meaning in Soph. Aj. 776, while it is passive in Soph. OT 229. Two
+other late compounds have active meaning: τεκνοστοργής ‘full of filial affection’
+(Sidyma, TAM 2.235) and ὁμόστοργος ‘feeling the same affection’ (Nonn.).
+
+===
+στρέφω ‘turn, twist’ (IV)
+-----
+FC: στρεφε-, στρεψι-, στρεψο-
+-----
+First attested compound: στρεφεδινέω ‘whirl round the stream’ (Hom.), seem-
+ingly from the unattested **στρεφεδινής.
+-----
+Appellative compounds: στρεψίμαλλος ‘with tangled fleece’ (Aristoph.; for the
+analysis of this artificial compound, see Chapter 6, section 3.1), στρεψοδικέω
+‘twist the right’ (ibid.), στρεψοδικοπανουργία ‘cunning in the perversion of
+justice’ (ibid.), στρεψαύχην ‘twisting the neck’ (Theopomp. Com.), στρεψίκερως
+‘African antelope’ (Plin.).
+-----
+Onomastic compounds: Στρεφένεως ‘turning the ship’ (Athens 3rd c.), Στρε-
+ψιππίδᾱς (Boeotia ca. 237–230).
+-----
+Agent nouns: None.
+-----
+V2 compounds: οἰακοστρόφος ‘helmsman’ (Pi.). Compounds in -στρoφος are
+very numerous: Buck-Petersen 405–406 provides a list, which also includes bahu-
+vrihis compounded with στροφή ‘turning’ (the majority). The following V2 com-
+pounds are attested before the 3rd c.: ἀσπιδηστρόφος ‘shield-wielding’ (Aesch.,
+v.l.), ἡνιοστρόφος ‘charioteer’ (Soph.), ἱμονιοστρόφος ‘water-drawer’ (Aristoph.),
+ἑδροστρόφος ‘wrestler who throws his adversary’ (Theocr.).
+
+===
+στυγέω ‘hate’ (I)
+-----
+FC: στυγ-, στυγο-
+-----
+First attested compound: στυγάνωρ ‘hating the male sex’ (Aesch.).
+-----
+Appellative compounds: στυγόδεμνος ‘hating marriage’ (Agath.).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None. The rare bahuvrihis in -στυγής convey passive semantics.
+
+===
+σχήσω ‘hold’ (suppletive future of ἔχω) (I)
+-----
+FC: Σχησι-
+-----
+First attested compound: Σχησίπολις ‘one who will hold the city’ (Thasos 360–
+330).
+Other compounds: None.
+
+===
+σώζω ‘save’ (IV)
+-----
+FC: σωσι-
+-----
+First attested compound: σωσίπολις ‘saving the city’ (Aristoph.).
+-----
+Onomastic compounds: Σωσαγόρας (Thrace 2nd c.), Σωσανδρίδᾱς (Boeotia 6th
+c.), Σωσαρέτᾱ (Argolis 2nd–1st c.), Σώσαρχος (Crete 223/2), Σωσιάναξ (Cyrene
+3rd c.), Σωσίβιος (Skythia 5th–4th c.), Σωσίβουλος (Boeotia 3rd c.), Σωσιβώτᾱς
+(Boeotia ?424 BC), Σωσιγένης (Athens ca. 400 BC.), Σωσιγίτων (Boeotia ca. 210
+BC), Σωσίδημος (Athens 4th c.), Σωσίδικος (Telos ca 275 BC), Σωσίθεος (Athens
+
+===
+4th c.), Σωσικλῆς (Melos 5th c.), Σωσικρατίδᾱς (Sikinos 5th c.), Σωσίλᾱϝος
+(Arcadia 6th c.), Σωσίλοχος (Illyria 250–50), Σωσίμαχος (Delos ca. 360–330),
+Σωσίμβροτος (Boeotia 5th c.), Σωσιμένης (Tenos 6th–5th c.), Σωσιμήδης (Tenos
+2nd c.), Σωσίνεως (Athens 575–550), Σωσίνικος (Cyprus? 4th–3rd c.), Σωσίνομος
+(Athens 402/1), Σωσίνους (Crete ca. 400 BC), Σωσίξενος (Delphi ?161 BC), Σωσι-
+πάτρᾱ (Athens 350–340), Σωσίπολις (Athens 5th c.), Σώσιππος (Cyrene 5th c.),
+Σωσισθένης (Delos 309–302 BC), Σωσίστρατος (Athens 5th c.), Σωσιτέλης (Eretria
+4th–3rd c.), Σωσίτιμος (Rhodes ca. 275–237), Σωσιφάνης (Syracuse 4th c.),
+Σωσίφιλος (Telos ca. 275 BC), Σωσιχάρης (Lokroi Epizephyrioi 4th–3rd c.).
+Agent noun: σωτήρ ‘saviour’ (Hom.).
+-----
+V2 compounds: πολισσόος ‘protecting the city’ (H. Hom. Mart.), κουροσόος
+‘child-saving’ (Perses Epigr.), μελισσοσόος ‘preserver of bees’ (Zonas Epigr.),
+οἰκοσόος ‘maintaining the house’ (Max. Astrol.), μηλοσσόος ‘sheep-protect-
+ing’ (Leon.), βροτοσσόος ‘man-saving’ (Orph. L.), βιοσσόος ‘life-preserving’
+(Nonn.), ξενοσσόος ‘saving strangers’ (ibid.), ψυχοσσόος ‘saving the soul’ (ibid.),
+δημοσσόος ‘saving the people’ (Hsch.).
+
+===
+τανύω ‘stretch’ (I)
+-----
+FC: τανυ-, τανυσι-
+-----
+First attested compounds: τανύπεπλος ‘stretching the robe, with flowing
+robe’ (Hom.), τανύγλωσσος ‘long-tongued’ (ibid.), τανυγλώχις ‘with a long point’
+(ibid.), τανυήκης ‘with a long point or edge’ (ibid.), τανυσίπτερος ‘with extended
+wings’ (ibid.), τανύφλοιος ‘with long-stretched bark’ (ibid.), τανύφυλλος ‘with
+long-pointed leaves’ (ibid.).
+-----
+Appellative compounds: τανύπτερος ‘with long wings’ (H. Hom. Cer.), τανύ-
+σφυρος ‘with long taper ankles’ (ibid.), τανύθριξ ‘long-haired’ (Hes.), τανύρρι-
+ζος ‘with stretching roots’ (ibid.), τανυέθειρα ‘with long hair’ (Pi.), τανυηχής
+‘far-sounding’ (ibid.), τανύδρομος ‘running at full stretch’ (Aesch.), τανύπους
+‘stretching the foot’ (Soph.), τανυμήκης ‘long-stretched’ (Thyillus), τανυσιπτέρυ-
+γος (Man.), τανυήλιξ ‘of advanced age’ (Leon.), τανύπρῳρος ‘with a long prow’
+(Q.S.), τανύφθογγος ‘far-sounding’ (ibid.), τανύκραιρος ‘long-horned’ (Opp.),
+τανύπλεκτος ‘in long plaits’ (ibid.), τανύρροιζος ‘with long whizzing’ (ibid.),
+τανύσκιος ‘with a long-stretching shadow’ (ibid.), τανύγληνος ‘large-eyed’
+(Nonn.), τανυκνήμις ‘long-legged’ (ibid.), τανυκρήπις ‘with long foundation’
+(ibid.), τανυπλόκαμος ‘with long hair’ (ibid.), τανύπρεμνος ‘with long stem’
+(ibid.), τανυσίσκοπος ‘far-seeing’ (Jul.), τανύπλευρος ‘long-sided’ (Jul. Aegypt.).
+-----
+Onomastic compounds: Τανύβοτος? (Scythia Minor 2nd c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+ταράσσω ‘stir, trouble’ (II)
+-----
+FC: ταραξι-
+-----
+First attested compounds: ταραξικάρδιος ‘troubling the heart’ (Aristoph.),
+ταραξιππόστρατος ‘troubling the horse-array’ (ibid.).
+Appelative compounds: ταράξιππος ‘troubling horses’ (D.Chr.).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: ταράκτωρ (Aesch.) and ταράκτης (Lycophr.) both ‘disturber’.
+-----
+V2 compounds: None.
+
+===
+τελέω ‘fulfil, accomplish; kill’ (IV)
+-----
+FC: τελε-, τελεσι-
+-----
+First attested compound: Τελένικος ‘accomplishing victory’? (Athens 6th–5th
+c.).
+-----
+Onomastic compounds: Τελέβουλος (Thasos 5th–4th c.), Τελέδᾱμος (Rhodes
+ca. 265 BC), Τελέδικος (Boeotia 3rd c.), Τελέμαντις (Eretria 4th–3rd c.),
+Τελεσαγόρης (Thasos 390–360), Τελέσανδρος (Samos 6th c.), Τελέσαρχος (Samos
+6th c.), Τελεσιάναξ (Rhodes 1st c.), Τελεσιβόλᾱ (Lucania 5th c.), Τελεσιγένης
+(Anaphe hell.?), Τελεσιγέρων (Rhodes 6th c.), Τελεσίδημος (Athens 170–150),
+Τελεσιδίκᾱ (Thera 2nd c.), Τελέδωρος (Delphi 337 BC), Τελεσικλῆς (Paros 7th c.),
+Τελεσικράτης (Naxos 361/0), Τελεσίλᾱς (Thera ?6th c.), Τελέμβροτος (Rhodes
+ca. 265 BC) : Τελεσίμβροτος (Rhodes ca. 325 BC), Τελένικος (Athens 6th–5th c.),
+Τελέσιππος (Athens 5th c.), Τελέστρατος (Keos 4th c.), Τελεσίφρων (Athens 4th
+c.), Τελέστροφος (Corinth 7th c.).
+-----
+Agent nouns: τελέστης, name of an official at Elea (6th c.), but also ‘initiator’
+(Max. Tyr.); τελετής ‘priest’ (Euphron.), τελέστωρ ‘initiator’ (epithet of Apollo in
+AP 9.525.20, adesp.). In most of their usages these nouns reflect mysteric vocabu-
+lary: τελετής in particular derives from τελετή ‘initiation’.
+-----
+V2 compounds: βουτελέστης ‘one who kills oxen (for sacrifice)’, glossed with
+θύτης in Hesychius. Out of bahuvrihis in -τελής a verbal type has developed,
+but it is not frequent and the semantics is mostly passive. An early active form is
+καρποτελής ‘bringing fruit to perfection’ (Aesch.), but it could still be understood
+as a bahuvrihi: ‘having completion of the fruit’.
+
+===
+τέμνω ‘cut’ (IV)
+-----
+FC: ταμεσι- (employing the stem of the aorist ἔταμον: see Chapter 6, section 3.2).
+-----
+First attested compound: ταμεσίχρως ‘cutting the skin’ (Hom.).
+-----
+Onomastic compounds: None.
+Agent noun: the adjective τομός ‘cutting’ retains the accent and meaning of an
+old agent noun.
+-----
+V2 compounds: compounds with a SC -τομoς are very numerous, although many
+have a passive meaning. A full list is provided in Buck-Petersen 198–199. The fol-
+lowing forms are attested before the 3rd c.: du-ru-to-mo = δρυτόμος ‘wood-cutter’
+(Hom.), i-za-a-to-mo-i, interpretation uncertain, ὑλοτόμος ‘cutting wood’ (Hom.),
+ὀμφαλητόμος ‘someone who cuts the navel-string, midwife’ (Hippon.), γᾱτόμος
+‘cleaving the ground’ (Aesch.), λαιμοτόμος ‘throat-cutting’ (Eur.), βαλλαντιοτόμος
+‘cut-purse’ (Aeschin.), καινοτόμος ‘cutting new, novel’ (Aristot.), λατόμος ‘stone-
+cutter’ (IG 4.823.50, Troezen 4th c.), ῥιζοτόμος ‘cutter of roots’ (Nic.), λιθοτόμος
+‘mason’ (IG 12.347.36, Athens 5th c.).
+
+===
+τέρπω ‘delight’ (IVa)
+-----
+FC: τερπι-, τερπε-, τερψι-
+-----
+First attested compounds: τερπικέραυνος ‘delighting in thunder’ (Hom.),
+τερψίμβροτος ‘delighting mortals’ (Hom.).
+-----
+Appellative compounds: τερψιεπής ‘delighting with words’ (Bacch.), τερψίφρων
+‘delighting the mind’ (Nonn.), τερψίχορος ‘enjoying the dance’ (AP 9.525.20,
+adesp.).
+-----
+Onomastic compounds: Τέρπανδρος (Lesbos 7th c.), Τέρπαυλος (Athens?
+510–500), Τερπέλᾱος (Thera imp.), Τερπέφιλος (Selinous 6th–5th c.), Τερψικλῆς
+(Epiros 5th c.), Τερψίλᾱος (Athens 169–182 AD), Τερψιχόρη (Hes.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: None. Active semantics is covered by compounds in -τερπής,
+which are likely to derive directly from the verbal stem (see analysis in Chapter 6,
+section 4.2): ἀτερπής ‘unpleasing’ (Hom.), μελιτερπής ‘pleasing like honey’
+(Simon.), εὐτερπής ‘delightful’ (Pi.), παντερπής ‘all-delighting’, δυστερπής
+‘ill-pleasing’ (Aesch.), θεοτερπής ‘pleasing the gods’ (Philox.), ποικιλοτερπής
+‘delighting by variety’ (Antip. Thess.), ὀχλοτερπής ‘delighting the mob’ (Poll.),
+παντερπής ‘all-delighting’ (PMG adesp. 942; also Opp.), εἰαροτερπής ‘joying in
+spring’ (Orph. H.), τυμπανοτερπής ‘delighting in drums’ (ibid.), φρενοτερπής
+‘heart-delighting’ (Nonn.), χοροτερπής ‘delighting in the dance’ (ibid.).
+
+===
+τήκω ‘consume’ (IVa)
+-----
+FC: τηξι-
+-----
+First attested compound: τηξιμελής ‘consuming the limbs’ (Phil. Epigr.).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: κατακυμοτακής ‘melting the waves’ (Timoth.), σαρκοτακής
+‘wasting the flesh’ (Procl.), γυιοτακής ‘melting or wasting the limbs’ (Maced.).
+
+===
+τίλλω ‘pluck’ (I)
+-----
+FC: τιλλο-
+-----
+First attested compound: τιλλοπώγων ‘one who plucks out his beard’ (Phryn.
+= fr. adesp. 671 K-A).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+τιμάω ‘honour’ (IV)
+-----
+FC: τιμησι-, τιμο-, τιμᾱ-
+-----
+First attested compound: Τιμησικλῆς (Athens 7th–6th c.).
+-----
+Onomastic compounds: Τιμᾱβούλᾱ (Rhodes ?6th–5th c.), Τιμάγαθος (Argolis
+ca. 290–270), Τιμάγγελος (Argolis ca. 365–335), Τιμᾱγένης (Laconia ca. 525–500) :
+Τιμογένης (Eretria 4th–3rd c.), Τιμᾱγόρᾱς (Thera ?m. 7th c.) : Τιμησαγόρας
+(Amorgos 4th c.), Τιμάνδρη (Hes.), Τιμᾱκράτης (Rhodes 384/3) : Τιμησικράτης
+(Thasos 5th c.) : Τιμοκράτης (Akragas 6th c.), Τιμᾶναξ (Rhodes ca. 325 BC) :
+Τιμησιάναξ (Athens 5th–4th c.) : Τιμοάναξ (Cyprus 6th–4th c.), Τιμάνθης (Argolis
+456 BC), Τιμάπολις (Rhodes 3rd–2nd c.) : Τιμησιπόλη (Amorgos 4th c.): Τιμόπολις
+(Boeotia ?5th–4th c.), Τιμᾱρέτᾱ (Aegina 6th–5th c.) : Τιμησαρέτη (Delos 4th c.),
+Τιμαρίστᾱ (Corinth ?6th c.) : Τιμησαρίστη (Paros ?2nd–1st c.), Τίμαρχος (Rhodes
+5th c.) : Τιμάσαρχος (Rhodes 4th c.), Τιμᾱσίθεος (Boeotia 6th–5th c.) : Τιμόθεος
+(Metapontum 6th–5th c.), Τιμᾱσικρέων (Lesbos hell.) : Τιμοκρέων (Rhodes 5th c.),
+Τιμᾱσιμβρότᾱ (Sparta 7th c.), Τιμᾱσίξενος (Rhodes 98 BC) : Τιμόξενος (Macedonia
+480 BC), Τιμᾱσίστρατος (Rhodes 220–214) : Τιμοστράτη (Cyrene 4th c.), Τιμᾱσίφι-
+λος (Boeotia 6th c.), Τιμησίδημος (Delos ca. 300 BC) : Τιμόδᾱμος (Sicyon 6th–5th
+c.), Τιμησίδικος (Thasos ca. 520–490) : Τιμοδίκη (Athens ?ca. 560 BC), Τιμησίεργος
+(Delos 301 BC), Τιμησικλῆς (Athens 7th–6th c.) : Τιμοκλείδης (Athens ca. 540 BC),
+Τιμησίλεως (Thasos 5th c.) : Τιμόλεως (Samos 6th c.), Τιμόβιος (Athens 223/2),
+Τιμόγαμος (Cyprus ?5th c.), Τιμογείτων (Athens 5th c.), Τιμόδωρος (Cyprus 5th/–
+4th c.), Τιμοθάλης (Delos 297–279), Τιμόθεμις (Cyprus 5th–4th c.), Τιμόκριτος
+(Cyprus 5th c.), Τιμόκυπρος (Cyprus 6th c.), Τιμολέων (Eretria 4th–3th c.), Τιμόλο-
+χος (Aetolia 3rd c.), Τιμόλυκος (Cos 3rd c.), Τιμόμαχος (Athens? ca. 510–500),
+Τιμόνικος (Cyprus 5th c.), Τιμόνοθος (Athens ?447 BC), Τιμόνους (Keos 4th–3rd
+c.), Τιμοσθένης (Aegina 5th c.), Τιμοτέλης (Athens ?422 BC), Τιμόφιλος (Rhodes
+4th–3rd c.), Τιμόχαρις (Cyprus ?5th c.).
+-----
+Agent nouns: τιμητής ‘valuer, assessor of damages’ (Pl.), τιμητήρ ‘assessor of
+taxable property’ (SEG 9.1.8-9 Cyrene 4th c.).
+-----
+V2 compounds: στιπποτιμητής ‘tow-valuer’ (POxy. 103.28, 4th c. AD). Only two
+of the attested bahuvrihis in -τιμος seem to cover for active verbal semantics:
+
+===
+νυμφότιμος ‘honouring the bride’ (Aesch.) and ξενότιμος ‘honouring strangers’
+(ibid.). See too Δᾱμότιμος (Troezen 550–525).
+
+===
+τίνω ‘pay a price; avenge’ (II)
+-----
+FC: τισι-, τεισι-, τεισα-
+-----
+First attested compound: qi-si-a-ko /Kwīsiarkhos/ (= Τείσαρχος).
+-----
+Onomastic compounds: Τεισαγένης (Rhodes? 2nd–1st c.), Τεισαγόρας (Rhodes
+306 or 300 BC), Τείσανδρος ‘one who avenges men’ (Athens 7th–6th c.), Τείσαρχος
+(Euboea 5th c.), Τεισίβιος (Delphi 326 BC), Τεισίδᾱμος (Illyria hell.), Τεισίδικος
+(Delos b. 313–308), Τεισικλῆς (Athens ca. 510–500), Τεισικράτης (Kroton 496–
+492), Τεισίλᾱος (Cyrene 4th c.), Τεισίλοχος (Thessaly 3rd c.), Τεισίμαχος (Thasos
+b. 510 BC), Τεισίπολις (Rhodes 3rd c.), Τεισίπονος (Thera 2nd c.), Τεισίππη (Athens
+5th–4th c.), Τεισιστράτη (Athens? 4th c.), Τεισίτιμος (Athens 6th c.), Τεισίφονος
+(Thessaly 359–352).
+-----
+Agent nouns: τίτᾱς ‘avenger’ (Aesch.).
+-----
+V2 compounds: None.
+
+===
+τλῆναι ‘endure’ (IV)
+-----
+FC: τλη-, ταλα-, ταλαι-, τλησι-
+-----
+First attested compound: Τληπόλεμος ‘enduring war’ (Hom.).
+-----
+Appellative compounds: ταλαεργός ‘enduring work’ (Hom.), ταλαπείριος
+‘enduring (many) trials’ (ibid.), ταλαπενθής ‘bearing grief’ (ibid.), ταλαύρινος
+‘bearing a shield of a bull’s hide’ (ibid.), ταλαίπωρος ‘miserable’ (lit. ‘bearing
+stones’). Other forms do not have a governing meaning. For instance, ταλάφρων,
+ταλακάρδιος, τλήθυμος and τλησικάρδιος (Aesch.) all mean ‘patient of mind’: the
+FC conveys a kind of adjectival idea and is probably influenced by the adjective
+τάλας.
+-----
+Onomastic compounds: Τλήθυμος (Athens 367/6), Τλησίβιος (Euboea 5th c.),
+Τλησίμαχος (Boeotia 431–404), Τλησιμένης (Athens 464 BC).
+-----
+Agent nouns: There are no agent nouns, but the transitive semantics of the verb
+is expressed by τλήμων ‘patient’.
+-----
+V2 compounds: The compounded forms of τλήμων all show quasi-adverbial FCs
+e.g. πολυτλήμων ‘much-enduring’ (Hom.), δυστλήμων ‘suffering hard things’ (H.
+Hom. Ap.), εὐτλήμων ‘much-enduring’ (Aesch.). A similar restriction concerns
+compounds in -τλας and -τάλας e.g. πολύτλας ‘much-enduring’ (Hom.), Ἄτλας
+‘bearing all’ (ibid.), παντάλας ‘all-wretched’ (Eur.).
+
+===
+τρέπω ‘turn, change’ (II)
+-----
+FC: τρεψι-
+-----
+First attested compound: τρεψίχρως ‘changing colour’ (Aristot.).
+
+===
+Other compounds: None.
+-----
+Agent nouns: Formally, τροπός ‘strap, twisted leathern thong’, is the agent noun
+from this verb, specialized as an instrument noun.
+-----
+V2 compounds: None (see Chapter 5, section 5.3.2).
+
+===
+τρέφω ‘rear’ (IV)
+-----
+FC: τρεφε-
+-----
+First attested compound: Τρεφέλεως ‘one who rears, nurtures the people’
+(Paros 4th c.).
+Other compounds: None.
+-----
+Agent nouns: τροφός (Hom.) ‘nurse’, with variant τροφεύς (Aesch.).
+-----
+V2 compounds: Compounds in -τροφος are very numerous, and many have a
+passive meaning. The full list is provided by Buck-Petersen 404–405. The follow-
+ing active forms are attested before the 3rd c.: κουροτρόφος ‘nurturing children’
+(Hom.), πορτιτρόφος ‘nourishing calves’ (H. Hom. Ap.), ἱπποτρόφος ‘horse-feed-
+ing’ (Hes.), μηλοτρόφος ‘sheep-feeding’ (Archil.), μεθυτρόφος ‘producing wine’
+(Simon.), παιδοτρόφος ‘nourishing young life’ (ibid.), λαοτρόφος ‘nourishing the
+people’ (Pi.), ἀμπελοτρόφος ‘nurturing vines’ (Bacch.), νηριτοτρόφος ‘breed-
+ing sea-snails’ (Aesch.), παντοτρόφος ‘all-nurturing’ (ibid.), τεθριπποτρόφος
+‘keeping a team of four horses’ (Hdt.), γηροτρόφος ‘nourishing people in old age’
+(Eur.), Διοτρόφος ‘nurse of Zeus’ (epithet of Creta in Eur.), θηροτρόφος ‘feeding
+wild beasts’ (ibid.), καρποτρόφος ‘nurturing fruits’ (ibid.), λωτοτρόφος ‘produc-
+ing lotus’ (ibid.), μελισσοτρόφος ‘feeding bees’ (ibid.), χιονοτρόφος ‘fostering
+snow’ (ibid.), χλοεροτρόφος ‘producing green grass’ (ibid.), κυνοτρόφος ‘keeping
+dogs’ (Ctes.), ἰδιοτρόφος ‘feeding individuals’ (Pl.), ὀρτυγοτρόφος ‘keeper of
+quails’ (ibid.), ἀλεκτρυονοτρόφος ‘cock-feeder’ (Aeschin.), ἐγχελυοτρόφος
+‘keeping eels’ (Aristot.), ὀλιγoτρόφος ‘taking little nourishment’ (ibid.). Only
+a few forms in -τρεφής have active meaning: μυελοτρεφής ‘breeding-marrow’
+(Timoth.), θεοτρεφής ‘nourishing the gods’ (Nonn.), βρεφοτρεφής ‘rearing
+infants’ and τεκνοτρεφής ‘rearing children’ (both Theod. St.).
+
+===
+τρέχω ‘run’ (IV)
+-----
+FC: τρεχε-
+-----
+First attested compound: τρεχέδειπνος ‘running to dinner’ (Posidipp.).
+Other compounds: None.
+-----
+Agent nouns: τροχός ‘wheel’ (Hom.); also ‘running’ (Pi.).
+-----
+V2 compounds: All the compounds in -τροχος are either passive or compounded
+with τροχός ‘wheel’; the only agentive compound seems to be ἁλίτροχος ‘running
+through the sea’ (Ibyc.). The meaning ‘run’ is covered by the suppletive root
+yielding V2 compounds in -δρομος. These are often compound forms of δρόμος
+
+===
+‘race’ or display passive semantics. Active forms tend to have adjectival or adver-
+bial FCs, undoubtedly because of the intransitive semantics of the verb. Among
+the Classical forms, see ἀνυόδρομος ‘swiftly-running’ (Sapph.), αἰθεροδρόμος
+‘ether-skimming’ (Cinesias, quoted by Aristophanes), βοηδρόμος ‘running to
+give help’ (Eur.), λαιψηροδρόμος ‘swift-running’ (ibid.), βραχύδρομος ‘running a
+short way’ (Xen.), δολιχοδρόμος ‘running the δόλιχος’ (Pl.). An isolated form is
+εὐθυτρεχής ‘running in a straight line’ (IG 22.463.73, Attica 307–306).
+
+===
+τυγχάνω ‘hit upon, meet’ (I)
+-----
+FC: τυχησι-
+-----
+First attested compound: Τυχήσιππος (Athens 5th–4th c.).
+Other compounds: None, although it is possible that a few PNs with a FC τυχ-
+(e.g. Τύχανδρος Athens 500–480) may be V1 compounds.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None.
+
+===
+φαγεῖν ‘eat’ (IV)
+-----
+FC: φαγε-
+-----
+First attested compound: φαγέσωρος ‘eating a great quantity, glutton’ (Poll. =
+fr. adesp. 781 K-A).
+Other compounds: None. φαγέδαινα ‘cancerous sore’ (Aesch.) and its deriva-
+tives seemingly are not compounds: see DEG s.v. φαγεῖν (the feminine of an old
+noun **φαγεδών?).
+-----
+Agent nouns: φάγος ‘glutton’ (NT).
+-----
+V2 compounds: Compounds in -φάγος are amongs the most numerous V2 com-
+pounds in Greek. A full list is available in Buck-Petersen 624–625. The following
+forms are attested before the 3rd c.:12 ἀνδροφάγος ‘eating men’ (Hom.), λωτοφάγοι
+‘lotus-eaters’ (ibid.), σιτοφάγος ‘eating corn’ (ibid.), ὠμοφάγος ‘eating raw flesh’
+(ibid.), δωροφάγος ‘devouring gifts’ (Hes.), ὑλοφάγος ‘feeding in the woods’
+(ibid.), παμφάγος ‘all-devouring’ (Alcm.), βαλανηφάγος ‘acorn-eating’ (Alc.),
+βουφάγος ‘ox-eating’ (Simon.), ἀρτοφάγος ‘bread-eater’ (Hecat.), πασπαληφάγος
+‘feeding on nice meals’ (Hippon.), παιδοφάγος ‘child-devouring’ (Pi.), θυηφάγος
+‘devouring offerings’ (Aesch.), σκατοφάγος ‘eating dung’ (Epich.), ἰχθυοφάγος
+‘eating fish’ (Hdt.), κρεοφάγος ‘eating flesh’ (ibid.), ἀλλοτριοφάγος ‘eating
+another’s bread’ (Soph.), ταυροφάγος ‘bull-eating’ (ibid.), θυμβροφάγος ‘eating
+savory’ (Aristoph.), κολλικοφάγος ‘roll-eating’ (ibid.), κομαροφάγος ‘eating the
+fruit of the arbutus’ (ibid.), μονοφάγος ‘eating alone’ (superlative form in Aris-
+12 Given the large number of forms, this list does not take into account whether a derived noun
+in -φαγία or a denominative in -φαγέω is attested before the quoted compound.
+
+===
+toph.), ὀψοφάγος ‘eating delicacies’ (ibid.), μαζοφάγος ‘eating barley-bread’
+(Hippocr.), οἰσοφάγος ‘gullet’ (ibid.), ὀλιγοφάγος ‘eating little’ (ibid.), ποηφάγος
+‘eating grass’ (ibid.), πολυφάγος ‘eating too much’ (ibid.), χλωροφάγος ‘eating
+green food’ (ibid.), ἰαμβειοφάγος ‘glutton at iambics’ (Dem.), Μελινοφάγοι
+‘Millet-eaters’ (a Thracian tribe, Xen.), ἀνθρωποφάγος ‘man-eating’ (Antiph.),
+ἀγκιστροφάγος ‘biting the hook’ (Aristot.), ἀκανθοφάγος ‘feeding on thistles’
+(ibid.), ἀλληλοφάγοι ‘eating each other’ (ibid.), ζῳοφάγος ‘carnivorous’ (ibid.),
+θριποφάγος ‘eating wood-worms’ (ibid.), καρποφάγος ‘living on fruit’ (ibid.),
+ὀρνιθοφάγος ‘eating birds’ (ibid.), ῥιζοφάγος ‘eating roots’ (ibid.), σαρκοφάγος
+‘eating flesh’ (ibid.), σκνιποφάγος ‘eating σκνῖπες (small creatures which infest fig
+trees)’ (ibid.), σκωληκοφάγος ‘eating worms’ (ibid.), φυκιοφάγος ‘eating seaweed’
+(ibid.).
+
+===
+φαίνω ‘show, make to appear, reveal’ (IVa)
+-----
+FC: φαινο-, φαινε-
+-----
+First attested compound: φαινομηρίς ‘showing the thigh’ (Ibyc.).
+-----
+Onomastic compounds: Φαιναγόρας (Argolis ?2nd–1st c.), Φαίνανδρος (Argolis
+1st c.), Φαιναρέτᾱ (Epiros 4th–3rd c.), Φαινόθεος (Athens? imp.), Φαινεκλῆς
+(Paros? 6th c.), Φαινόκριτος (Rhodes ?3rd–2nd c.), Φαινόμαχος (Thessaly ?3rd c.),
+Φαινέλᾱος (Phocis 3rd c.).
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: Active semantics is conveyed by some of the compounds in
+-φανής, a numerous class (see Buck-Petersen 722–723). Excluding forms with an
+adverbial FC (e.g. ἀειφανής ‘ever-shining’ or δεξιοφανής ‘not reflecting a reversed
+image’ (of a mirror); lit. ‘appearing right’), active compounds amount to the fol-
+lowing items: πασιφανής ‘shining on all’ (Bacch.), ἡμεροφανής ‘shining by day’
+(Pl.), ὀφθαλμοφανής ‘apparent to the eye’ (Aristot.), ξυλοφανής ‘showing wood’
+(D.S.), κρυσταλλοφανής ‘looking like crystal’ (Str.), δημοφανής ‘public’ (Philo),
+σολοικοφανής ‘like a solecism’ (D.H.), ψιμυθιοφανής ‘looking like white lead’
+(Diosc.), χαλκοφανής ‘having the appearance of copper’ (ibid.), χρυσοφανής
+‘shining like gold’ (ibid.), θηλυφανής ‘like a woman’ (Plu.), δουλοφανής ‘slave-like’
+(Jos.), γεωφανής ‘looking like earth’ (Archig.), ναρθηκοφανής ‘looking like fennel’
+(ibid.), σαρκοφανής ‘looking fleshy, with a fleshy outside’ (S.E.), πτωχοφανής
+‘like a beggar’ (Thd.), ταυροφανής ‘bull-like’ (Dion. Per.), ἐλαιοφανής ‘resem-
+bling oil in appearance’ (Gal.), ἀμμοφανής ‘sandy’ (Ep. Gr. 430.3, 3rd-4th c. AD),
+ὑπνοφανής ‘appearing in sleep’ (Man.), νυκτιφανής ‘shining by night’ (Stob.),
+μεσοφανής ‘appearing in the middle’ (Nonn.), νεβροφανής ‘fawn-like’ (ibid.),
+πυριφανής ‘appearing in fire’ (PGM 4.3023).
+
+===
+φάω ‘shine’ (IVa)
+-----
+FC: φαεσι-, Φαε-
+-----
+First attested compound: φαεσίμβροτος ‘bringing light to mortals’ (Hom.).
+-----
+Onomastic compounds: Φαενίκης (Argolis ?2nd–1st c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: Bahuvrihis in -φαής from φάος ‘light’ soon take on the meaning
+of ‘shining’. Their development and semantics are similar to those of compounds
+in -φανής (see above), but their productivity is more limited. Early examples with
+a substantival FC are: νυκτιφαής ‘shining by night’ (Parm.), ̓λεκτροφαής ‘gleam-
+ing like amber’ (Eur.), κεραυνοφαής ‘flashing like lightning’ (ibid.).
+
+===
+φείδομαι ‘spare’ (IVa)
+-----
+FC: φειδε-, φειδι-, φειδεσι-
+-----
+First attested compound: Φείδιππος ‘he who uses horses sparingly’ (Hom.).
+-----
+Appellative compounds: φειδαλφιτέω ‘to be sparing of barley’ (Phryn., edited
+as fr. adesp. 684 K-A), φειδαλφίτως (Phryn., Suid.).
+-----
+Onomastic compounds: Φειδαγόρας (Rhodes 1st c.–1st c. AD), Φειδέκριτος
+(Amorgos 2nd–1st c.), Φειδέστρατος (Athens 5th c.), Φειδιάναξ (Delos 296 BC),
+Φειδοκλῆς (Epidauros ca. 370–365), Φειδοκράτης (Boeotia? ca. 382 BC), Φειδόλᾱς
+(Corinth 512 BC), Φειδόμβροτος (Cos 2nd–1st c.), Φειδόμηλος (Boeotia 2nd–1st c.),
+Φειδότιμος (Boeotia ?1st c.–1st c. AD).
+-----
+Agent nouns: None with the traditional suffixes, but see φείδων ‘type of oil-can
+(that lets only a little run out)’ (Poll.), also attested as a PN (Antiph.).
+-----
+V2 compounds: Πολυφείδης (‘much-sparing’, PN in the Odyssey), ἀφειδής
+‘not-sparing’ (Aesch.), βιοφειδής ‘sparing on sustenance, penurious’ (Phil.
+Epigr.).
+
+===
+φέρω ‘carry’, bring’ (IV)
+-----
+FC: φερε-, φερεσ(ι)-, φερεσ-
+-----
+First attested compound: pe-ra-ko /Pherakos/. See too the Homeric Kurzname
+Φέρεκλος, which probably goes back to **Φερέκλεϝης ‘bringing fame’.
+-----
+Appellative compounds: φερέσβιος ‘giving life’ (H. Hom. Ap.), φερεσανθής
+‘bringing flowers’ (H. Hom. 30), φερέοικος ‘house carrier, snail’ (Hes.), φερεσσακής
+‘shield bearing’ (ibid.), φερέζυγος ‘bearing the yoke’ (Alc.), φερεμμελίης ‘spear
+bearing’ (Mimn.), φερέμηλος ‘bearing much cattle’ (Pi.), φερέπολις ‘uphold-
+ing the city’ (ibid.), φερέπονος ‘bearing toil’ (ibid.), φερεκυδής ‘bearing glory,
+renown’ (Bacch.), φερεστέφανος ‘bringing victory’ (ibid.), φέρασπις ‘shield-bear-
+ing’ (Aesch.), φερέγγυος ‘giving security’ (ibid.), φερεστάφυλος ‘bearing bunches
+of grapes’ (Archestr.), φερανθής ‘bringing flowers’ (Mel.), φερέκαρπος ‘yielding
+fruit’ (Plu.), φερέκακος ‘shield bearing’ (ibid.), φερέπτερυξ ‘bearing wings’ (Opp.),
+
+===
+φέροπλος ‘bearing arms’ (IG 9(12).2.312a, Acharnania 2nd c.), φερεγλαγής ‘bring-
+ing milk’ (Orph. L.), φερέβοτρυς ‘bearing bunches of grapes’ (Nonn.), φερέζωος
+‘bringing life’ (ibid.), φερέσταχυς ‘bearing ears of corn’ (ibid.), φερεαυγής ‘bring-
+ing light’ (Damoch.).
+-----
+Onomastic compounds: Φερεβώλᾱ (Thera ?1st c.), Φερέγγυος (Cyrene 4th–
+3rd c.), Φερέδᾱμος (Thessaly ca. 175–150), Φερέδωρος (Euboea 5th c.), Φερεκλῆς
+(Athens 423 BC), Φερεκράτης (Macedonia 6th–5th c.), Φερέκριτος (Athens?
+2nd–1st c.), Φερεκύδης (Boeotia 6th c.), Φερέλᾱος (Acarnania ca. 250–167 BC),
+Φερέμβροτος (Achaia ?3rd–2nd c.), Φερένικος (Athens ?ca. 500–480), Φερέπονος
+(Karpathos 2nd c.), Φερετίμᾱ (Cyrene 6th c.).
+-----
+Agent nouns: None.
+-----
+V2 compounds: di-pte-ra-po-ro /diphtherāphoros/ ‘bearer of leather’, ka-ra-wi-po-ro
+/klāwiphoros/ ‘key-bearer’, te-o-po-ri-ja /theophhoriā/ ‘sacred ceremony’, βουληφό-
+ρος ‘bringing advice’ (Hom.). Compounds in -φορος are the most numerous V2
+compounds in Greek. A full list is available in Buck-Petersen 332–336. Because
+of the great number of forms, this list—differently from all others—contains only
+forms found in Homer: ἰσοφόρος ‘bearing equal weights’, λαοφόρος ‘bearing
+people’, τοξοφόρος ‘bow-bearing’, πυρηφόρος ‘wheat-bearing’, τελεσφόρος
+‘bringing fulfilment’. There also are a few compounds in -φερής which, however,
+are mostly compounded with prepositions; see παμφερής ‘all-bearing’ (Gal.).
+
+===
+φεύγω ‘flee, avoid’ (IV)
+-----
+FC: φυγο, φευγε-, φευγο-, φυξι-
+-----
+First attested compounds: pu2-ke-qi-ri /Phugegwwrīns/?, φυγοπτόλεμος ‘escap-
+ing war, coward’ (Hom.).
+-----
+Appellative compounds: φυγόμαχος ‘shunning battle’ (Simon.), φυγόξενος
+‘shunning strangers, inhospitable’ (Pi.), φυξίμηλον ‘avoiding cattle’ (Aesch; said
+of trees which have grown too high to be grazed by sheep), φυξανορία ‘aversion
+to men’ (probable in Aesch. Supp. 8), φυγαίχμης ‘fleeing from the spear’ (Aesch.),
+φυγοδικέω ‘shirk a trial’ (Dem.; the compound φυγόδικος is attested much later),
+φυξήλιος ‘shunning the sun’ (Nic.), φυγόπονος ‘shunning work’ (Plb.), φυξίπολις
+‘fleeing the city’ (Opp.), φυγόλεκτρος ‘shunning the marriage-bed’ (Orph. H.),
+φυγόπατρις ‘fleeing one’s country’ (Cat. Cod. Astr.), φεύγυδρος ‘shunning water’
+(Polybos).
+-----
+Onomastic compounds: Φυγοστρατίδης ‘one who flees the army’? (Eretria
+4th–3rd c.), Φευγόλιμος (Eretria 4th–3rd c.).
+-----
+Agent nouns: None with the traditional agentive suffixes, but the semantics of
+the agent noun is conveyed by φυγάς ‘one who flees’ which however is special-
+ised to indicate a fugitive fleeing one’s country.
+-----
+V2 compounds: only ὀψίφυγος ‘fleeing late’ (Hdn.).
+
+===
+φθείρω ‘destroy’ (IV)
+-----
+FC: φθερσι-
+-----
+First attested compound: φθερσιγενής ‘destroying the race’ (Aesch.).
+Other compounds: None.
+Agent noun: None.
+-----
+V2 compounds: compounds in -φθόρος are fairly common. A full list is pro-
+vided by Buck-Petersen 330. The following forms are attested before the 3rd
+c.: λᾱοφθόρος ‘ruining the people’ (Thgn.), ἀνδροφθόρος ‘man-destroying’
+(Pi.), πολυφθόρος ‘destroying many’ (ibid.), βροτοφθόρος ‘man-destroying’
+(Aesch.), πολεμοφθόρος ‘wasting by war’ (ibid.), ὑστεροφθόρος ‘late destroying’
+(Soph.), οἰκοφθόρος ‘one who ruins a house’ (Eur.), κυματοφθόρος ‘plunder-
+ing by sea’ (ibid.), πολιτοφθόρος ‘hurtful to the citizens’ (Pl.), ξυλοφθόρον ‘an
+insect that destroys wood’ (Aristot.), ναυσιφθόρος ‘ship-destroying’ (Timoth.),
+ἁλιφθόρος ‘destroying on sea; pirate’ (Leon.), λαρνακοφθόρος ‘killing in a box’
+(Lycophr.), ναυτιλοφθόρος ‘bane of sailors’ (ibid.), πενθεροφθόρος ‘slaying one’s
+father-in-law’ (ibid.).
+
+===
+φθίνω ‘consume, cause to decay’ (I)
+-----
+FC: φθεισι-, φθισι-, φθινο-
+-----
+First attested compound: φθεισήνωρ ‘consuming men’ (Hom.), φθισίμβροτος
+‘destroying men’ (ibid.).
+-----
+Appellative compounds: φθινόκαρπος ‘having lost its fruits’ (Pi.), φθινόπωρον
+‘the waining of ὀπώρα (‘summer’), autumn’ (Hdt.), with derived adjectives
+φθινοπωρινός and φθινοπωρικός ‘autumnal’, φθινόκωλος ‘with wasting limbs’
+(Man.), φθισίφρων ‘destroying the mind’ (Opp.).
+-----
+Onomastic compounds: None.
+Agent noun: None.
+-----
+V2 compounds: None.
+
+===
+φιλέω ‘love’ (IVb)
+-----
+FC: φιλο-, φιλησι-
+-----
+First attested compound: pi-ro-wo-na /Philowoinā/ (= Φίλοινος ‘one who loves
+wine’), pi-ro-pa-ta-ra (= Φιλοπάτρᾱ ‘she who loves her father’).
+-----
+Onomastic compounds: There are no PNs in φιλησι-, but the online LGPN lists
+262 individual forms in Φιλο-, which are not repeated here for space constraints.
+Among the most common of the transparent forms, see Φιλοδέσποτος ‘he who
+loves his master’ (Herculaneum 1st c. BC–1st c. AD, a slave’s name), Φιλόδημος
+‘he who loves his people’ (Athens ca. 530–520), Φιλόθεος ‘he who loves the gods’
+(Athens ca. 450 BC), Φιλόθηρος ‘he who loves hunting’ (Athens 4th c.), Φιλοκλῆς
+‘he who loves glory’ (Chios 5th c.), Φιλοκράτης ‘he who loves power’ (Athens
+
+===
+485/4 BC), Φιλοκτήμων ‘he who loves riches’ (Athens 5th c.), Φιλοκύδης ‘he who
+loves glory’ (Athens 5th c.), Φιλόκωμος ‘he who loves merry-making’ (Athens?
+ca. 520–510), Φιλόλᾱος ‘he who loves his people’ (Corinth 8th c.), Φιλόλογος ‘he
+who loves talking’ (Delos ?ca. 100 BC), Φιλόμβροτος ‘he who loves mankind’
+(Sparta ?676–668), Φιλόμηλος ‘he who loves/cares about his herd’ (Athens 6th
+c.), Φιλόμουσος ‘he who loves the Muses’ (Thrace 2nd c.), Φιλόνικος ‘he who
+loves winning’ (Athens? 5th–4th c.), Φιλόξενος ‘he who is friendly to his guests’
+(Chios? 6th c.), Φιλόστρατος ‘he who likes the army’ (Athens? 5th–4th c.).13
+-----
+Appellative compounds: φιλησίμολπος ‘loving song’ (Pi.). Appellative com-
+pounds in φιλο-, which start off in Homer (φιλοπτόλεμος ‘loving war’), are
+extremely productive at every stage of the Greek language. A full list of such
+forms can be found in LSJ. On their role in the creation of other V1 compounds,
+see Chapter 4, section 3.1. For their analysis within the V1/V2 competition, see
+Chapter 6, section 3.1.
+-----
+Agent nouns: The proper morphological agent noun is φιλητής ‘lover’, attested
+late in Macedonius of Thessalonica.
+-----
+V2 compounds: None in -φιλητής. The competing right-oriented compounds are
+those in -φιλος, -φίλης and -φιλής. Forms showing active semantics of the SC are:
+παιδόφιλος ‘lover of children, loving children’ (Sapph.), γυναικοφίλᾱς ‘lover of
+women’ (Polyz.), λογοφίλης ‘fond of words’ (Philo) and λογόφιλος ‘fond of argu-
+ment’ (Zeno Stoic.), πορνοφίλης ‘fond of prostitutes’ (Nicarchus?), ἐρημοφίλης
+‘loving solitude’ (Paul. Sil.), γραόφιλος ‘lover of old women’ (schol. Aristoph.).
+
+===
+φλέγω ‘burn’ (IVa)
+-----
+FC: φλεξι-
+-----
+First attested compound: καταφλεξίπολις ‘inflamming cities’ (AP 5.1).14
+Other compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: Among the few compounds in -φλεγής there are some active-in-
+transitive ones: ζαφλεγής ‘full of fire’ (Hom.), ὁμοφλεγής ‘burning together’
+(Nonn.), αἐιφλεγής ‘always burning’ (Greg. Naz.). From the structural point of
+view these are not real counterparts of V1 compounds in that their FC is never a
+noun. Compounds in -φλογος are always either bahuvrihis (e.g. ἄφλογος ‘without
+flame in it’).
+
+===
+φοβέω ‘terrify, put to flight’ (IVb)
+-----
+FC: φοβε-, φοβεσι-
+13 Data from http://www.lgpn.ox.ac.uk/database/lgpn.php, last accessed 05.07.2014.
+14 Most probably a very late epigram: see Waltz (1960: 20).
+-----
+First attested compound: φοβέστρατος ‘scaring hosts’ (Hes.).
+-----
+Appellative compounds: φοβεσιστράτη ‘she who scares the host’ (Aristoph.).
+-----
+Onomastic compounds: None.
+-----
+Agent nouns: None.
+-----
+V2 compounds: None. Compounds in -φοβος are structurally bahuvrihis.
+However, they often have meanings which can be assimilated to the semantics
+of verbal compounds e.g. αἱμοφόβος ‘fearing blood’ (Gal.), ὑδροφόβος ‘having a
+horror of water’ (Arr.), θεόφοβος ‘fearing God’ (Porph.).
+
+===
+φράζω ‘indicate, tell’ (IV)
+-----
+FC: φρασι-
+-----
+First attested compound: Φρασίκλεια (Athens ca. 540 BC).
+-----
+Onomastic compounds: Φρασίδημος (Athens ca. 407 BC), Φρασικάρτης (Crete
+2nd c.), Φρασικύδης (Keos 4th–3rd), Φρασίλᾱς (Rhodes ca. 310–240), Φρασιμήδᾱ
+(Thessaly ca. 440–430), Φρασίνικος (Crete 2nd c.), Φρασίνους (Thessaly ?1–10
+AD), Φρασισθένης (Athens 4th c.), Φρασιτελίδης (Athens 410/9), Φρασιφάνης
+(Thera hell.).
+-----
+Agent nouns: φραστήρ ‘teller’ (Xen.), φράστης ‘one who speaks well’ (Gloss.).
+-----
+V2 compounds: only σκινδαλαμοφράστης ‘straw-splitter’ (lit. ‘one who talks
+about splinters, quibbles’, Agath.) and a few active compounds in -φραδ́ς.
+
+===
+φύω ‘produce’ (IV)
+-----
+FC: φυσι-
+-----
+First attested compound: φυσίζοος ‘producing life’ (Hom.).
+Other compounds: None.
+-----
+Agent nouns: φύτωρ ‘begetter’ (Hsch.).
+-----
+V2 compounds: πτεροφύτωρ ‘feather-producing’ (Pl.), ἀμπελοφύτωρ ‘wine-
+planter’ (Leon.). However, the most common type of compounds are those in
+-φυής, which start off as bahuvrihis of φυή (see e.g. ἀφυής ‘without natural
+talent’, Democr., or τριφυής ‘with three stems’, Thphr.) but later also take on a
+verbal meaning: see the full list in Buck-Petersen 731–732. The following Classi-
+cal forms show active semantics: πτεροφυής ‘growing feathers or wings’ (Pl.),
+ῥιζοφυής ‘growing out roots’ (Thphr.).
+
+===
+χαίρω ‘rejoice, take pleasure in’ (IVa)
+-----
+FC: χαιρε-, χαιρεσι-, χαρησι-, χαιρο-, χαιρι-
+-----
+First attested compound: Χαίριππος ‘delighting in horses’ (Athens 6th c.).
+-----
+Appellative compounds: χαιρεκακία ‘taking pleasure in one’s neighbour’s mis-
+fortune’ (Aristot.).
+-----
+Onomastic compounds: Χαιρέβιος (Euboea 4th–3rd c.), Χαιρέβοτος (Athens
+2nd–1st c.), Χαιρεβούλη (Athens 4th c.), Χαιρέδᾱμος (Sikyon 7th–6th c.),
+Χαιρεκράτης (Athens 5th–4th c.), Χαιρέλεως (Athens 6th–5th c.), Χαιρέμαχος
+(Argolis 3rd c.), Χαιρένεως (Athens ca. 378/7), Χαιρέπολις (Thera 2nd c.),
+Χαιρέστρατος (Athens ca. 500–490), Χαιρετύχη (Thera imp.), Χαιρεφάνης (Athens
+452/1), Χαιρέφιλος (Athens 375/4), Χαιρησίλεως (Gela 6th–5th c.).
+Agent noun: None.
+-----
+V2 compounds: Only those in -χαρής, listed in Buck-Petersen 727. Of these,
+the following have active meaning: μικροχαρής ‘easily pleased’ (Antip. Stoic.),
+δακρυχαρής ‘delighting in tears’ (Mel.), εἰδωλοχαρής ‘delighting in images’
+(Nic. Dam.), εἰροχαρής ‘delighting in wool’ (Archias), μουσοχαρής ‘delighting
+in the Muses or in poetry’ (Maecius Epigr.), ἐπιδεσμοχαρής ‘bandage-loving’
+(Luc.), κλινοχαρής ‘fond of bed’ (ibid.), ὀχλοχαρής ‘courting the mob’ (M. Ant.),
+ἀντροχαρής ‘enjoying caves’ (Orph. H.), κισσοχαρής ‘delighting in ivy’ (ibid.),
+λεκτροχαρής ‘enjoying the marriage-bed’ (ibid.), ὁπλοχαρής ‘delighting in arms’
+(ibid.), δημοχαρής ‘pleasing the people’ (Paul. Al.), κεδροχαρής ‘rejoicing in cedar’
+(Man.), γεωχαρής ‘fond of the earth’ (Jul.), παγχαρής ‘gladdening all’ (Hermapio
+ap. Amm. Marc.), πυριχαρής ‘rejoicing in fire’ (PGM 4.593), νυκτιχαρής ‘rejoic-
+ing in the night’ (PGM 4.1795), βελεσσιχαρής ‘joying in darts’ (AP 9.525.3, adesp.),
+νευροχαρής ‘delighting in bow-string’ (ibid.), ξυνοχαρής ‘rejoicing with all alike’
+(ibid.), ψαλμοχαρής ‘delighting in harp-playing’ (ibid.), αἱμοχαρής ‘delighting in
+blood’ (Orac. Syb.), θυρσοχαρής ‘delighting in the thyrsus’ (Inscr. Magn. 215a.23).
+
+===
+χαράσσω ‘sharpen, scratch, carve’ (II)
+-----
+FC: χαραξι-
+-----
+First attested compound: χαραξίποντος ‘carving the sea’ (Simon.).
+-----
+Appellative compounds: None.
+-----
+Onomastic compounds: None, but the FC χαραξι- may be behind the Kurzname
+Χάραξος.
+-----
+Agent nouns: χαρακτήρ ‘engraver’ (Eur.), but also ‘impressed mark’ (ibid.) and
+from this literal meaning ‘distinctive mark, character of a person’.
+-----
+V2 compounds: None.
+
+===
+χρέμπτομαι ‘clear one’s throat’ (I)
+-----
+FC: χρεμψι-
+-----
+First attested compound: χρεμψιθέατρος ‘spitting in the theatre’ (fr. adesp.
+1100 K-A).
+Other compounds: None.
+Agent noun: None.
+-----
+V2 compounds: None.

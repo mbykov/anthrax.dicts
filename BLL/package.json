@@ -1,0 +1,20 @@
+{
+  "name": "bailly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+      "start": "node index.js",
+      "get": "node ../dictutils/get.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "lodash": "^4.17.21",
+    "orthos": "^0.7.2",
+    "pouchdb": "^8.0.1"
+  }
+}

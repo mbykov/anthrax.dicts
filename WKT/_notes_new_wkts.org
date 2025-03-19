@@ -1,0 +1,18 @@
+#
+
+* == как опредеять прификс? == ἐφίστημι ; προσκυνέω
+ - verb-prefix - vp - первый, главный
+ - vp - имеет / не имеет придыхание
+ - в историчеслих временах не изменяется
+ - 
+
+* new == wkts == start 12 мая
+ - [X] noun draft ok
+ - [X] adj draft
+ - [ ] сравнить flex для синонимов noun / adjective
+ - [ ] anthrax пустить
+ - [ ] добавить gen в cstype ???
+ - [ ] indecls, irregs
+ - [ ] verbs
+ - [ ] svelte / mobile
+ - [ ]
