@@ -265,13 +265,14 @@ if (only) {
             continue
             // wkt.ckeys = wkt.ckeys[0]
             // let xkeys = wkt.ckeys.filter(ckey=> ckey.tense == 'pres.act.inf')
-            // log('_WKT X', wkt.rdict, wkt.stem, xkeys)
+            // log('_WKT X', wkt)
             // delete wkt.var
             wkt.trns = wkt.trns[0]
             wkt.ckeys = wkt.ckeys.length
             // wkt.ckeys_stypes = wkt.ckeys.map(ckey=> ckey.stype)
             // wkt.ckeys = 'ckeys'
-            log('_WKT', wkt)
+            cleanIdWkt(wkt)
+            // log('_WKT', wkt)
 
             // log('_WKT_POS', wkt.pos)
         }
@@ -279,6 +280,11 @@ if (only) {
     }
     log('_only_wkts', wkts.length)
     log('_only_indecls', indecls.length)
+
+    if (verbose && indecls.length) {
+        log('_indecls:', indecls.length)
+        log('_0', indecls[0])
+    }
 
     // log('_FLS', fls[0], fls.length)
     log('_only_FLS', fls.length)
@@ -387,9 +393,11 @@ function createIdNest(wkts, nests, fls) {
 function createIdWkt(wkts) {
     let gdict = {}
 
-    wkts.forEach(cdict => {
+    wkts.forEach(wkt => {
         // if (dict.zero) return // zero или в nest, или в irreg ??? но переводы-то нужно забрать
         // dict.dict = comb(dict.dict)
+        let cdict = _.clone(wkt)
+        cleanIdWkt(cdict)
         if (cdict.pos == 'verb' && !cdict.reg) return // так-ли? Или нужно просто первое значение? non-reg - д.б. в стемах только. Всегда?
         cdict.dname = 'wkt'
         // if (!gdict[dict.stem]) gdict[dict.stem] = {_id: dict.stem, docs: []}
@@ -402,8 +410,16 @@ function createIdWkt(wkts) {
 
     // let xxxx = docs.find(wkt=> wkt._id == comb('ποιέω')) // ἀγάπη
     // log('____WKT_XXX', xxxx)
-
     return docs
+}
+
+function cleanIdWkt(cdict) {
+    delete cdict.astem
+    delete cdict.type
+    delete cdict.gen
+    delete cdict.aug
+    delete cdict.prefix
+    delete cdict.ckeys
 }
 
 // общая база indecls
